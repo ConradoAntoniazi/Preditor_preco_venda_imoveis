@@ -1,0 +1,24 @@
+Unnamed: 0,id_anuncio,preco_venda,tipo_imovel,cidade,bairro,area_m2,quartos,banheiros,vagas,tem_suite,tem_piscina,tem_varanda,tem_gourmet,tem_lazer,tem_mobiliado,tem_elevador,tem_cobertura,tem_garden,tem_frente_mar,cidade_busca,anunciante_profissional,id_anunciotipo_imovel,tem_sol_manha,preco_m2_suspeito,area_suspeita,preco_m2,idade_anuncio_dias,qtd_imagens,preco_suspeito,tem_porteira_fechada,preco_m2_suspeito_original,motivo_remocao
+57,2823561455,750000,Sobrado,Cariacica,Vale Esperança,410,,4,2,True,False,False,False,False,False,False,False,False,False,Cariacica,False,,False,False,False,,,,False,False,False,quartos_ausente_ou_zero
+151,2869201796,650000,Casa,Cariacica,Santa Cecília,69,,2,2,True,False,False,False,False,False,False,False,False,False,Cariacica,False,,False,False,False,,,,False,False,False,quartos_ausente_ou_zero
+280,2720103256,1200000,Casa,Cariacica,Santa Cecília,1200,3,2,6,False,False,False,False,False,False,False,False,False,False,Cariacica,False,,False,False,True,,,,False,False,False,area_suspeita
+389,2679668094,680000,Casa de condomínio,Fundão,Praia Grande,1200,2,3,3,True,False,True,True,False,False,False,False,False,False,Fundao,False,,False,False,True,,,,False,False,False,area_suspeita
+407,2559735916,550000,Casa,Fundão,,289,3,3,0,True,False,False,False,False,False,False,False,False,False,Fundao,False,,False,False,False,,,,False,False,False,sem_bairro
+410,2860562766,180000,Casa,Fundão,,250,1,1,2,False,False,False,False,False,False,False,False,False,False,Fundao,False,,False,False,False,,,,False,False,False,sem_bairro
+417,2811167621,110000,Apartamento,Fundão,,2000,1,1,0,False,False,False,False,False,False,False,False,False,False,Fundao,False,,False,False,True,,,,False,False,False,sem_bairro
+425,2832993991,1500000,Casa de condomínio,Fundão,Praia Grande,1650,4,5,0,True,False,True,False,False,False,False,False,False,False,Fundao,False,,False,False,True,,,,False,False,False,area_suspeita
+437,2790573726,1500000,Casa,Fundão,Praia Grande,1500,5,4,0,True,False,False,False,False,False,False,False,False,False,Fundao,False,,False,False,True,,,,False,False,False,area_suspeita
+442,2872509478,2100000,Casa,Fundão,Praia Grande,2500,4,3,0,False,False,False,False,False,False,False,False,False,True,Fundao,False,,False,False,True,,,,False,False,False,area_suspeita
+443,2860215477,750000,Casa,Fundão,,380,3,3,1,True,False,False,False,False,False,False,False,False,False,Fundao,False,,False,False,False,,,,False,False,False,sem_bairro
+444,2712152442,1190000,Casa,Fundão,Praia Grande,1300,3,2,0,True,False,False,False,False,False,False,False,False,False,Fundao,False,,False,False,True,,,,False,False,False,area_suspeita
+1187,2894394793,3000000,Casa,Guarapari,Buenos Aires,2100,4,2,0,True,False,False,False,False,False,False,False,False,False,Guarapari,False,,False,False,True,,,,False,False,False,area_suspeita
+1559,2893892880,365000000,Apartamento,Guarapari,Praia do Morro,55,2,1,0,False,False,False,False,False,False,False,False,False,False,Guarapari,False,,False,False,False,,,,True,False,False,preco_suspeito
+1900,2894400397,1700000,Casa,Guarapari,Buenos Aires,1600,3,3,2,True,False,False,False,False,False,False,False,False,False,Guarapari,False,,False,False,True,,,,False,False,False,area_suspeita
+1912,2877613479,,Apartamento,Serra,de Fátima,59,2,2,1,True,True,False,True,True,False,False,False,False,False,Serra,False,,False,False,False,,,,False,False,False,sem_preco_venda
+1926,2877652591,,Apartamento,Serra,Bicanga,44,2,1,1,True,True,False,True,True,False,False,False,False,False,Serra,False,,False,False,False,,,,False,False,False,sem_preco_venda
+1943,2886152368,220000000,Apartamento,Serra,São Patrício,46,2,1,1,False,True,False,False,True,False,False,False,False,False,Serra,False,,False,False,False,,,,True,False,False,preco_suspeito
+1982,2886152473,210000000,Apartamento,Serra,Jardim Limoeiro,48,2,1,1,False,False,False,False,True,False,False,False,False,False,Serra,False,,False,False,False,,,,True,False,False,preco_suspeito
+2253,2885972621,299000000,Apartamento,Serra,Valparaíso,60,2,1,1,False,False,False,False,True,False,False,False,False,False,Serra,False,,False,False,False,,,,True,False,False,preco_suspeito
+3063,2894899676,275000000,Apartamento,Serra,Colina de Laranjeiras,46,2,1,0,False,True,False,True,True,False,False,False,True,False,Serra,False,,False,False,False,,,,True,False,False,preco_suspeito
+3397,2878119286,,Apartamento,Vila Velha,Jockey de Itaparica,75,3,2,2,True,True,False,True,True,False,False,False,False,True,Vila Velha,False,,False,False,False,,,,False,False,False,sem_preco_venda
+3404,2877470942,,Apartamento,Vila Velha,Soteco,51,2,2,1,True,True,False,True,True,False,False,False,False,False,Vila Velha,False,,False,False,False,,,,False,False,False,sem_preco_venda

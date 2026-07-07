@@ -1,5 +1,15 @@
 ﻿id_anuncio,preco_venda,tipo_imovel,cidade,bairro,area_m2,quartos,banheiros,vagas,tem_suite,tem_piscina,tem_varanda,tem_gourmet,tem_lazer,tem_mobiliado,tem_elevador,tem_cobertura,tem_garden,tem_frente_mar
-630601272-184,26000,Prédio,Sorocaba,Árvore Grande,520.0,,4.0,7.0,0,False,False,False,False,False,False,False,False,False
+620131152-33,1260000,Apartamento,Vila Velha,Itapuã,140.0,3.0,3.0,2.0,0,True,False,False,True,False,True,False,True,False
+620131123-13,1245000,Apartamento,Guarapari,Enseada Azul,148.34,4.0,5.0,3.0,0,True,False,False,True,False,False,False,False,False
+620121067-4,630000,Apartamento,Vitória,Jardim Camburi,0.0,3.0,2.0,1.0,0,False,False,False,False,False,False,False,False,False
+620121019-62,2199000,Apartamento,Vitória,Praia do Canto,120.0,4.0,2.0,2.0,0,True,True,True,True,False,True,False,True,False
+620121044-50,1349990,Cobertura,Vitória,Bento Ferreira,265.57,3.0,4.0,2.0,0,True,True,True,False,True,False,True,False,False
+620181017-28,1329696,Casa,Guarapari,Meaípe,877.0,11.0,9.0,6.0,0,False,True,True,False,False,False,False,True,False
+620181031-13,990000,Apartamento,Guarapari,Nova Guarapari,212.2,2.0,3.0,2.0,0,True,True,True,True,False,True,False,True,True
+620121063-9,4600000,Apartamento,Vitória,Praia do Canto,206.0,4.0,4.0,3.0,0,True,True,True,True,False,True,False,True,False
+620121063-14,1800000,Duplex,Vitória,Praia do Canto,129.0,3.0,4.0,2.0,0,True,True,False,True,False,True,False,False,False
+620121002-116,1030000,Apartamento,Vila Velha,Itapuã,94.0,3.0,3.0,1.0,0,False,False,False,False,False,True,False,False,False
+620131157-16,430000,Apartamento,Vitória,Jardim Camburi,50.0,2.0,1.0,1.0,0,False,False,False,False,False,False,False,False,False
 620181031-9,1600000,Apartamento,Guarapari,Praia do Morro,118.65,3.0,4.0,2.0,0,True,True,True,True,False,True,False,False,True
 620131151-14,2790000,Casa,Vitória,Mata da Praia,393.0,4.0,5.0,4.0,0,True,False,False,False,False,False,False,True,False
 620131102-1,1275000,Apartamento,Vitória,Praia do Canto,120.14,3.0,3.0,1.0,0,False,False,False,False,False,True,False,False,False
@@ -32,7 +42,6 @@
 620131145-5,1390000,Apartamento,Vitória,Mata da Praia,71.2,2.0,2.0,2.0,0,True,False,False,False,False,False,False,True,False
 620131145-6,3450000,Casa,Vitória,Mata da Praia,240.0,4.0,5.0,4.0,0,True,True,True,False,False,False,False,True,False
 620181031-10,920000,Apartamento,Guarapari,Praia do Morro,175.0,3.0,3.0,2.0,0,False,True,False,False,True,True,False,False,True
-620071072-17,990000,Apartamento,Vila Velha,Itapuã,79.0,3.0,2.0,3.0,0,True,True,False,True,False,True,False,False,False
 620121001-293,649550,Apartamento,Vitória,Jardim Camburi,60.0,2.0,2.0,1.0,0,True,True,True,True,False,True,False,True,False
 620131038-29,495000,Apartamento,Vitória,Jardim da Penha,55.0,2.0,1.0,1.0,0,False,False,False,False,False,False,False,False,False
 620131029-14,810000,Apartamento,Vitória,Jardim Camburi,83.0,3.0,2.0,2.0,0,False,True,False,False,False,True,False,False,False
@@ -44,32 +53,26 @@
 620261006-1,1280000,Apartamento,Vila Velha,Praia da Costa,182.05,3.0,2.0,1.0,0,True,True,True,True,False,True,False,False,False
 620131108-12,3150000,Casa,Vitória,Mata da Praia,390.0,4.0,5.0,4.0,0,True,True,True,False,False,False,False,True,True
 620141096-7,795000,Apartamento,Guarapari,Praia do Morro,188.75,4.0,3.0,1.0,0,False,True,False,False,True,True,False,False,True
-620121063-14,1800000,Duplex,Vitória,Praia do Canto,129.0,3.0,4.0,2.0,0,True,True,False,True,False,True,False,False,False
 620121005-104,1600000,Casa,Vitória,Universitário,1809.0,3.0,3.0,,0,False,False,False,False,False,False,False,False,False
 620131108-13,660000,Apartamento,Vitória,Jardim Camburi,89.0,3.0,3.0,1.0,0,False,True,False,False,False,True,False,False,False
 620131108-11,2550000,Casa,Vitória,Jardim Camburi,330.0,3.0,5.0,3.0,0,True,True,True,True,True,False,False,True,False
 620131108-14,510000,Apartamento,Vitória,Jardim Camburi,90.0,2.0,2.0,1.0,0,False,False,False,False,False,False,False,False,False
 620121044-44,1590000,Apartamento,Vitória,Enseada do Suá,96.0,3.0,3.0,2.0,0,True,True,True,True,True,True,False,True,True
 620121044-46,1449000,Apartamento,Vitória,Enseada do Suá,89.0,3.0,2.0,2.0,0,True,True,True,True,True,True,False,True,True
-620131141-4,850000,Apartamento,Vitória,Praia do Canto,63.0,2.0,2.0,1.0,0,False,False,False,False,False,False,False,False,False
 620211017-47,380000,Casa,Serra,Parque Residencial Mestre Álvaro,67.0,3.0,3.0,2.0,0,False,False,True,False,False,False,False,False,False
 620121026-54,2499000,Apartamento,Vitória,Praia do Canto,110.0,3.0,3.0,2.0,0,True,True,True,True,False,True,False,True,False
-620121044-47,5433830,Casa,Vitória,Mata da Praia,0.0,3.0,3.0,2.0,0,False,True,False,False,False,False,False,True,True
 620121044-45,750000,Apartamento,Vitória,Bento Ferreira,57.2,2.0,2.0,1.0,0,True,False,True,True,True,True,False,False,False
 620121044-48,975000,Apartamento,Vitória,Bento Ferreira,83.0,3.0,2.0,2.0,0,True,False,False,False,False,False,False,False,False
 620121001-325,3475000,Apartamento,Vitória,Praia do Canto,0.0,4.0,4.0,3.0,0,True,False,False,False,False,False,False,True,False
 620131157-19,899000,Apartamento,Vitória,Jardim Camburi,60.0,2.0,2.0,1.0,0,True,False,False,True,False,False,False,False,False
-620121063-9,4600000,Apartamento,Vitória,Praia do Canto,206.0,4.0,4.0,3.0,0,True,True,True,True,False,True,False,True,False
 620121002-115,1600000,Apartamento,Vitória,Jardim da Penha,160.0,3.0,4.0,2.0,0,False,True,False,False,False,True,False,True,False
 620211017-41,670000,Apartamento,Vila Velha,Itapuã,81.0,2.0,1.0,1.0,0,True,True,False,False,False,False,False,False,False
 620071072-7,650000,Cobertura,Vila Velha,Centro de Vila Velha,161.0,3.0,4.0,2.0,0,False,False,False,False,False,False,True,False,False
-620071072-16,739000,Apartamento,Vila Velha,Praia de Itaparica,77.7,3.0,2.0,1.0,0,True,False,True,True,False,True,False,True,False
 620071072-19,1080000,Casa,Vila Velha,Morada do Sol,180.0,3.0,4.0,4.0,0,True,False,True,True,False,False,False,True,True
 620181024-7,330000,Apartamento,Guarapari,Centro,61.0,2.0,1.0,1.0,0,False,False,False,False,False,True,False,False,True
 620131009-24,620000,Apartamento,Vitória,Santa Helena,72.0,2.0,2.0,1.0,0,True,True,False,True,False,True,False,False,False
 620071021-21,880000,Casa,Vila Velha,Santos Dumont,217.48,3.0,3.0,4.0,0,False,True,False,False,False,False,False,True,False
 620131074-6,1295000,Apartamento,Vitória,Mata da Praia,64.0,2.0,2.0,1.0,0,True,False,False,False,False,False,False,True,False
-620131152-33,1290000,Apartamento,Vila Velha,Itapuã,140.0,3.0,3.0,2.0,0,True,False,False,True,False,True,False,True,False
 620131123-12,720000,Apartamento,Vila Velha,Itapuã,60.0,2.0,2.0,1.0,0,True,False,False,False,False,False,False,False,False
 620131043-17,2300000,Apartamento,Vitória,Barro Vermelho,127.0,3.0,3.0,2.0,0,False,False,False,False,False,False,False,False,False
 620171052-91,510000,Apartamento,Vitória,Jardim Camburi,67.42,3.0,1.0,1.0,0,False,False,False,False,False,False,False,False,False
@@ -79,9 +82,7 @@
 620131074-5,4500000,Apartamento,Vitória,Praia do Canto,244.0,4.0,4.0,2.0,0,False,False,False,True,False,False,False,True,False
 620121002-112,3650000,Cobertura,Vitória,Praia do Canto,296.0,4.0,5.0,3.0,0,True,True,True,True,False,True,True,True,False
 620121002-113,5000000,Cobertura,Vitória,Praia do Canto,394.0,5.0,7.0,3.0,0,True,True,True,True,False,False,True,True,False
-620121002-116,1030000,Apartamento,Vila Velha,Itapuã,94.0,3.0,3.0,1.0,0,False,False,False,False,False,True,False,False,False
 620131043-18,1280000,Casa,Serra,Parque Residencial Laranjeiras,455.0,4.0,3.0,2.0,0,False,False,False,False,False,False,False,True,False
-620121067-4,630000,Apartamento,Vitória,Jardim Camburi,0.0,3.0,2.0,1.0,0,False,False,False,False,False,False,False,False,False
 620121067-3,1191830,Apartamento,Vitória,Jardim Camburi,0.0,3.0,2.0,,0,True,True,True,True,False,True,False,True,True
 620121063-12,400000,Apartamento,Vitória,Jardim da Penha,44.0,1.0,1.0,1.0,0,False,False,False,False,False,False,False,False,False
 620171105-2,1080000,Casa,Serra,Costa Bela,193.0,3.0,3.0,2.0,0,True,False,True,False,False,False,False,True,False
@@ -132,7 +133,6 @@
 620171072-16,520000,Apartamento,Vila Velha,Praia da Costa,38.0,1.0,1.0,1.0,0,False,False,False,False,False,True,False,False,False
 620171103-8,2900000,Casa,Serra,Boulevard Lagoa,328.33,4.0,3.0,4.0,0,True,True,True,True,False,False,False,False,True
 620131101-8,650000,Apartamento,Vitória,Bento Ferreira,57.0,2.0,2.0,2.0,0,True,False,False,True,False,True,False,True,False
-620231026-2,365000,Apartamento,Vila Velha,Glória,143.0,2.0,1.0,,0,False,False,False,False,False,False,False,False,False
 620261001-9,829000,Apartamento,Vila Velha,Praia da Costa,70.0,2.0,2.0,2.0,0,False,False,True,True,False,True,False,False,False
 620261001-7,1990000,Cobertura,Vila Velha,Itaparica,135.0,3.0,3.0,2.0,0,True,False,True,True,False,True,True,False,True
 620171001-40,1590000,Apartamento,Vila Velha,Praia de Itaparica,110.0,3.0,3.0,2.0,0,True,True,True,True,False,True,False,True,True
@@ -159,7 +159,6 @@
 620131157-22,950000,Apartamento,Vitória,Jardim Camburi,94.0,3.0,3.0,1.0,0,False,True,True,False,False,False,False,False,False
 620131011-90,750000,Studio,Vitória,Enseada do Suá,31.27,1.0,1.0,,0,True,False,False,True,True,False,False,False,False
 620181024-13,990000,Cobertura,Guarapari,Praia do Morro,834.0,3.0,2.0,,0,True,True,False,True,True,True,True,False,True
-620121044-41,894990,Apartamento,Vitória,Enseada do Suá,75.0,2.0,2.0,1.0,0,True,True,False,True,False,True,False,True,True
 620171052-64,1250000,Apartamento,Vitória,Jardim Camburi,110.0,3.0,2.0,2.0,0,False,True,False,False,False,False,False,False,False
 620131004-53,450000,Apartamento,Vitória,Mata da Praia,40.0,1.0,1.0,1.0,0,False,False,False,False,False,False,False,True,False
 620171077-14,550000,Apartamento,Serra,Colina de Laranjeiras,89.25,2.0,2.0,1.0,0,True,True,True,True,False,True,False,True,False
@@ -177,7 +176,6 @@
 620261020-1,780000,Apartamento,Vila Velha,Praia de Itaparica,85.0,3.0,1.0,2.0,0,True,True,True,False,False,True,False,True,False
 620131004-54,740000,Apartamento,Vitória,Praia do Canto,61.31,2.0,2.0,,0,False,False,False,False,False,False,False,True,False
 620221007-12,1400000,Apartamento,Vitória,Jardim Camburi,91.94,3.0,3.0,2.0,0,True,True,True,True,False,False,False,False,False
-620131150-1,1295000,Apartamento,Guarapari,Enseada Azul,148.34,4.0,5.0,3.0,0,True,True,True,False,False,True,False,False,False
 620231013-12,1780000,Triplex,Vila Velha,Itapoã,206.0,4.0,3.0,2.0,0,False,True,False,False,False,True,False,False,False
 620131151-42,1869900,Apartamento,Vitória,Praia do Canto,109.58,3.0,2.0,2.0,0,True,True,True,True,False,True,False,False,False
 620121067-2,1600000,Casa,Serra,Parque Residencial Laranjeiras,0.0,3.0,3.0,2.0,0,False,False,False,False,True,False,False,True,False
@@ -199,7 +197,6 @@
 620171001-38,1200000,Apartamento,Vitória,Jardim da Penha,105.0,3.0,3.0,2.0,0,True,False,False,False,False,False,False,True,False
 620171023-64,240000,Apartamento,Serra,Jardim Limoeiro,48.0,2.0,1.0,1.0,0,False,False,True,False,False,False,False,True,False
 620121026-50,550000,Apartamento,Vitória,Jabour,117.0,3.0,3.0,1.0,0,False,False,False,False,False,False,False,False,False
-620181017-28,1329696,Casa,Guarapari,Meaípe,877.89,11.0,9.0,6.0,0,False,True,True,False,False,False,False,True,False
 620271015-1,1460000,Apartamento,Vila Velha,Praia da Costa,118.0,3.0,3.0,2.0,0,True,True,True,True,False,True,False,False,False
 620221008-16,920000,Apartamento,Vitória,Jardim Camburi,73.52,2.0,1.0,2.0,0,False,True,True,True,False,True,False,False,False
 620131006-43,1050000,Apartamento,Vitória,Mata da Praia,70.0,2.0,1.0,2.0,0,False,False,False,False,False,False,False,False,False
@@ -243,7 +240,6 @@
 620171052-76,425000,Casa,Cariacica,Alto Lage,300.0,4.0,2.0,2.0,0,False,False,False,False,False,False,False,False,False
 620151069-6,220000,Apartamento,Serra,Estância Monazítica,46.0,2.0,1.0,1.0,0,False,False,False,False,False,False,False,True,False
 620181024-11,998000,Apartamento,Guarapari,Centro,181.0,3.0,2.0,1.0,0,False,True,False,False,True,True,False,False,False
-620121019-62,2230000,Apartamento,Vitória,Praia do Canto,120.0,4.0,2.0,2.0,0,True,True,True,True,False,True,False,True,False
 620131157-9,450000,Apartamento,Vitória,Jardim Camburi,53.0,2.0,1.0,1.0,0,False,False,False,False,False,False,False,False,False
 620121009-5,10673000,Cobertura,Vitória,Enseada do Suá,362.69,4.0,3.0,,0,True,True,True,True,False,True,True,True,True
 620171072-8,1500000,Casa,Serra,de Fátima,427.0,4.0,3.0,2.0,0,False,True,False,False,False,False,False,True,False
@@ -257,7 +253,6 @@
 620161001-16,3532200,Apartamento,Vitória,Enseada do Suá,171.38,4.0,3.0,3.0,0,False,False,False,False,False,True,False,False,False
 620171052-72,1100000,Apartamento,Vila Velha,Centro de Vila Velha,170.0,4.0,3.0,2.0,0,True,True,False,True,False,True,False,False,False
 870251017-232,850000,Apartamento,Vila Velha,Itapuã,114.11,3.0,2.0,4.0,0,True,False,False,False,False,True,False,False,False
-620181021-2,2700000,Cobertura,Guarapari,Centro,278.0,5.0,1.0,2.0,0,False,True,False,False,True,True,True,False,False
 620131123-8,780000,Apartamento,Vila Velha,Coqueiral de Itaparica,72.0,2.0,2.0,2.0,0,True,True,True,True,False,True,False,True,False
 620131123-9,2990000,Apartamento,Vila Velha,Praia da Costa,327.0,4.0,5.0,2.0,0,False,False,False,False,False,False,False,False,False
 620211002-67,863500,Apartamento,Vitória,Jardim Camburi,65.0,2.0,2.0,1.0,0,True,False,True,True,False,True,False,True,False
