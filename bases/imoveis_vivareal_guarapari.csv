@@ -1,0 +1,1464 @@
+﻿id_anuncio,preco_venda,tipo_imovel,cidade,bairro,area_m2,quartos,banheiros,vagas,tem_suite,tem_piscina,tem_varanda,tem_gourmet,tem_lazer,tem_mobiliado,tem_elevador,tem_cobertura,tem_garden,tem_frente_mar,cidade_busca
+2687096155,950000,Apartamento,Guarapari,Praia do Morro,115,3,2,2,1,True,True,True,True,True,True,False,False,True,Guarapari
+2883229584,480000,Apartamento,Guarapari,Praia do Morro,77,2,2,0,0,False,False,False,False,False,True,False,False,False,Guarapari
+2870316887,660000,Apartamento,Guarapari,Centro,70,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2877673095,949000,Apartamento,Guarapari,Enseada Azul,104,2,2,2,1,True,False,True,False,True,True,False,False,False,Guarapari
+2849153251,630000,Apartamento,Guarapari,Centro,70,2,1,1,2,False,False,False,False,False,False,False,False,False,Guarapari
+2773007426,1300000,Apartamento,Guarapari,Centro,115,3,3,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2743289403,1150000,Apartamento,Guarapari,Praia do Morro,129,3,2,12,1,False,False,False,False,False,False,False,False,True,Guarapari
+2883800458,700000,Apartamento,Guarapari,Praia do Morro,85,3,2,1,1,False,True,False,True,True,False,False,False,False,Guarapari
+2573059989,900000,Apartamento,Guarapari,Praia do Morro,110,3,3,2,1,True,True,True,True,False,True,False,False,False,Guarapari
+2706945704,630000,Apartamento,Guarapari,Praia do Morro,77,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2802091217,550000,Apartamento,Guarapari,Centro,80,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2559011362,751300,Apartamento,Guarapari,Praia do Morro,68,2,2,1,1,True,False,True,True,False,True,False,False,False,Guarapari
+2850405229,850000,Apartamento,Guarapari,Praia do Morro,77,2,2,2,1,True,False,True,True,True,True,False,False,False,Guarapari
+2736058664,820000,Apartamento,Guarapari,Praia do Morro,106,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2712217612,600000,Apartamento,Guarapari,Centro,78,2,2,1,1,False,False,False,True,False,False,False,False,False,Guarapari
+2778212019,780000,Apartamento,Guarapari,Centro,78,2,1,2,1,False,False,False,False,False,True,False,False,False,Guarapari
+2778954246,625000,Apartamento,Guarapari,Praia do Morro,73,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2708294568,660000,Apartamento,Guarapari,Praia do Morro,71,2,2,2,1,True,True,True,True,False,True,False,False,False,Guarapari
+2716674641,750000,Apartamento,Guarapari,Centro,75,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2889758374,520000,Apartamento,Guarapari,Enseada Azul,110,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2878517692,670000,Apartamento,Guarapari,Enseada Azul,75,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2718848869,920000,Apartamento,Guarapari,Enseada Azul,120,3,2,0,2,True,False,True,True,False,True,False,False,False,Guarapari
+2745756126,850000,Apartamento,Guarapari,Centro,85,2,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2886429480,750000,Apartamento,Guarapari,Centro,80,2,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2710589111,750000,Apartamento,Guarapari,Praia do Morro,78,2,2,0,1,True,False,True,True,False,True,False,False,False,Guarapari
+2745535830,850000,Apartamento,Guarapari,Centro,120,2,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2674254973,750000,Apartamento,Guarapari,Praia do Morro,96,2,3,0,1,False,True,True,False,False,True,False,False,False,Guarapari
+2802597221,800000,Apartamento,Guarapari,Centro,78,2,1,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2883799392,630000,Apartamento,Guarapari,Centro,76,2,2,0,1,False,True,False,False,False,True,False,False,False,Guarapari
+2830699566,600000,Apartamento,Guarapari,Centro,87,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2831837592,595000,Apartamento,Guarapari,Centro,97,2,1,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2786080116,570000,Apartamento,Guarapari,São Judas Tadeu,85,2,1,8,1,False,False,False,False,False,False,False,False,False,Guarapari
+2734789491,739165,Apartamento,Guarapari,Centro,73,2,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2679299197,630000,Apartamento,Guarapari,Centro,90,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2894400083,850000,Apartamento,Guarapari,Praia do Morro,80,2,2,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2894386485,350000,Apartamento,Guarapari,Praia do Morro,70,2,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2894393808,450000,Apartamento,Guarapari,Centro,70,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2812227023,650000,Apartamento,Guarapari,Centro,48,1,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2815301116,450000,Apartamento,Guarapari,Centro,60,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2689310821,880000,Apartamento,Guarapari,São Judas Tadeu,100,3,2,2,1,True,True,True,True,False,True,False,False,False,Guarapari
+2830197315,678370,Apartamento,Guarapari,Praia do Morro,61,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2894401097,450000,Apartamento,Guarapari,Praia do Morro,68,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2699218573,800000,Apartamento,Guarapari,Praia do Morro,77,2,2,1,1,True,True,True,True,False,True,False,False,False,Guarapari
+2750070243,617000,Apartamento,Guarapari,Centro,92,2,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2441046628,749000,Apartamento,Guarapari,Praia do Morro,140,2,4,0,1,True,True,True,True,True,False,False,False,False,Guarapari
+2754459866,650000,Apartamento,Guarapari,Centro,75,2,2,1,1,True,False,True,True,False,True,False,True,False,Guarapari
+2780459568,550000,Apartamento,Guarapari,Centro,85,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2894399427,900000,Apartamento,Guarapari,Praia do Morro,77,2,2,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2896592747,590000,Apartamento,Guarapari,Praia do Morro,67,2,2,1,1,True,True,True,False,True,True,False,False,False,Guarapari
+2893661873,450000,Apartamento,Guarapari,Praia do Morro,68,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2845004314,650000,Apartamento,Guarapari,Centro,78,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2811660226,650000,Apartamento,Guarapari,Enseada Azul,68,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2701905818,700000,Apartamento,Guarapari,Centro,100,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2878963390,1550000,Apartamento,Guarapari,Praia do Morro,100,3,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2681761951,680000,Apartamento,Guarapari,São Judas Tadeu,130,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2508761281,751300,Apartamento,Guarapari,Praia do Morro,66,2,2,0,1,True,True,True,False,False,True,False,False,False,Guarapari
+2741421653,650000,Apartamento,Guarapari,Praia do Morro,180,4,3,0,3,False,False,False,False,False,False,False,False,False,Guarapari
+2821089923,500000,Apartamento,Guarapari,Centro,60,2,1,6,1,False,False,False,False,False,False,False,False,False,Guarapari
+2740152521,1050000,Apartamento,Guarapari,Praia do Morro,110,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2893658777,900000,Apartamento,Guarapari,Praia do Morro,77,2,2,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2717334946,680000,Apartamento,Guarapari,Centro,110,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2701178108,960000,Apartamento,Guarapari,Centro,110,3,2,2,1,True,True,True,True,False,True,False,False,False,Guarapari
+2825235949,680000,Apartamento,Guarapari,Centro,100,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2880297017,500000,Apartamento,Guarapari,Centro,86,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2763235224,1300000,Apartamento,Guarapari,São Judas Tadeu,180,3,2,2,1,True,False,True,True,False,True,False,False,False,Guarapari
+2733871626,1174400,Apartamento,Guarapari,Praia do Morro,108,3,2,2,3,True,False,True,True,False,True,False,False,False,Guarapari
+2692479087,530000,Apartamento,Guarapari,Centro,110,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2868572630,800000,Cobertura,Guarapari,Praia do Morro,210,6,4,2,0,False,False,False,False,False,False,True,False,False,Guarapari
+2746940413,800000,Apartamento,Guarapari,Praia do Morro,76,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2701890277,650000,Apartamento,Guarapari,Centro,78,2,2,1,1,True,False,False,False,False,False,False,False,True,Guarapari
+2878127885,998000,Apartamento,Guarapari,Portal,181,3,2,1,0,False,True,False,False,True,True,False,False,True,Guarapari
+2747492693,550000,Apartamento,Guarapari,Centro,85,2,3,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2880910076,600000,Apartamento,Guarapari,Praia do Morro,75,2,2,2,1,False,False,False,False,False,True,False,False,False,Guarapari
+2683798968,600000,Apartamento,Guarapari,Praia do Morro,85,2,1,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2643928409,850000,Apartamento,Guarapari,Praia do Morro,82,2,2,1,0,False,True,False,False,False,True,False,False,False,Guarapari
+2749774111,750000,Apartamento,Guarapari,Centro,73,2,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2882580581,590000,Apartamento,Guarapari,Praia do Morro,110,2,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2841096131,600000,Apartamento,Guarapari,Praia do Morro,120,3,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2674240123,480000,Apartamento,Guarapari,Centro,73,2,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2560056401,878000,Apartamento,Guarapari,Praia do Morro,78,2,2,0,1,True,False,True,True,False,True,False,False,False,Guarapari
+2711568176,580000,Apartamento,Guarapari,Centro,90,2,2,0,1,False,False,True,True,False,True,False,False,False,Guarapari
+2884462288,1144836,Apartamento,Guarapari,Praia do Morro,101,3,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2623265118,680000,Apartamento,Guarapari,Centro,100,3,2,0,1,False,True,True,False,False,True,False,False,False,Guarapari
+2889735798,670000,Apartamento,Guarapari,Muquiçaba,78,2,2,0,1,True,True,False,True,False,True,False,False,False,Guarapari
+2881210782,590000,Apartamento,Guarapari,Centro,88,2,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2735208288,761500,Apartamento,Guarapari,Muquiçaba,200,4,3,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2859929356,630000,Apartamento,Guarapari,Praia do Morro,86,3,3,1,1,False,False,False,False,True,False,False,False,True,Guarapari
+2659711549,700000,Apartamento,Guarapari,Praia do Morro,76,2,2,1,1,True,False,False,False,False,True,False,False,False,Guarapari
+2707874217,950000,Apartamento,Guarapari,Centro,130,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2675343871,850000,Apartamento,Guarapari,Muquiçaba,110,3,2,2,1,False,False,False,True,False,True,False,False,False,Guarapari
+2810275630,440000,Apartamento,Guarapari,Centro,70,2,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2652350747,750000,Apartamento,Guarapari,Centro,98,3,3,2,1,False,False,False,False,False,True,False,False,False,Guarapari
+2699299987,740000,Apartamento,Guarapari,Centro,110,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2741423571,1350000,Apartamento,Guarapari,Praia do Morro,129,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2763198855,600000,Apartamento,Guarapari,Centro,89,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2732444414,1100000,Apartamento,Guarapari,Centro,180,4,4,2,1,False,False,True,False,False,False,False,False,True,Guarapari
+2718619138,580000,Apartamento,Guarapari,Praia do Morro,67,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2710016676,850000,Apartamento,Guarapari,Centro,87,2,2,2,1,True,False,True,True,False,True,False,False,False,Guarapari
+2483104674,1690000,Apartamento,Guarapari,Enseada Azul,117,3,3,2,1,True,True,True,True,True,True,False,True,False,Guarapari
+2500942615,914490,Apartamento,Guarapari,Praia do Morro,123,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2732981121,1300000,Apartamento,Guarapari,Centro,120,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2581702805,680000,Apartamento,Guarapari,Centro,90,3,2,1,1,False,True,False,False,True,True,False,False,False,Guarapari
+2706479319,650000,Apartamento,Guarapari,Praia do Morro,82,3,2,1,0,True,False,True,True,False,True,False,True,True,Guarapari
+2709263855,850000,Apartamento,Guarapari,Praia do Morro,95,3,2,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2506004879,900000,Apartamento,Guarapari,Centro,65,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2882585644,490000,Apartamento,Guarapari,Enseada Azul,79,2,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2808708020,550000,Apartamento,Guarapari,Centro,79,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2577335509,550000,Apartamento,Guarapari,Centro,98,3,3,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2623213730,900000,Apartamento,Guarapari,Centro,110,3,3,0,1,False,True,False,False,True,True,False,False,False,Guarapari
+2894384106,850000,Apartamento,Guarapari,Praia do Morro,93,3,2,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2877663182,780000,Apartamento,Guarapari,Centro,90,2,3,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2749772427,800000,Apartamento,Guarapari,Centro,73,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2674226288,630000,Apartamento,Guarapari,Praia do Morro,92,2,3,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2880147374,550000,Apartamento,Guarapari,Centro,80,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2712472435,780000,Apartamento,Guarapari,Centro,90,2,2,1,1,False,False,True,True,False,True,False,False,True,Guarapari
+2652360766,750000,Apartamento,Guarapari,Centro,130,3,3,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2811974115,650000,Apartamento,Guarapari,Muquiçaba,78,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2784121561,580000,Apartamento,Guarapari,Centro,75,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2618852402,880000,Apartamento,Guarapari,Muquiçaba,115,3,2,2,1,False,True,True,False,True,True,False,False,False,Guarapari
+2569342459,600000,Apartamento,Guarapari,Centro,78,2,3,1,1,True,False,True,True,True,True,False,False,False,Guarapari
+2596852462,400000,Apartamento,Guarapari,Centro,85,2,2,1,1,False,False,False,False,True,True,False,False,False,Guarapari
+2852793929,720000,Apartamento,Guarapari,Centro,88,2,2,1,1,False,True,False,False,False,True,False,False,True,Guarapari
+2774714979,695000,Apartamento,Guarapari,Praia do Morro,66,2,2,1,1,True,False,False,True,False,True,False,False,True,Guarapari
+2887816041,700000,Apartamento,Guarapari,Centro,80,3,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2882371479,650000,Apartamento,Guarapari,Praia do Morro,60,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2674447291,450000,Apartamento,Guarapari,Praia do Morro,128,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2882559992,1500000,Apartamento,Guarapari,Praia do Morro,180,5,5,2,4,False,False,False,False,False,False,False,False,False,Guarapari
+2825467437,690000,Apartamento,Guarapari,Santa Mônica,250,3,1,1,1,True,False,True,False,False,False,False,False,False,Guarapari
+2655492860,550000,Apartamento,Guarapari,Praia do Morro,74,2,2,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2894393154,750000,Apartamento,Guarapari,Ipiranga,100,3,2,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2752682321,750000,Apartamento,Guarapari,Praia do Morro,100,3,2,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2674462208,883000,Apartamento,Guarapari,Centro,100,3,2,2,0,True,False,True,True,False,True,False,False,False,Guarapari
+2896533793,1350000,Apartamento,Guarapari,Muquiçaba,112,3,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2741418059,700000,Apartamento,Guarapari,Enseada Azul,86,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2705741427,850000,Apartamento,Guarapari,São Judas Tadeu,120,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2501464495,878000,Apartamento,Guarapari,Praia do Morro,77,2,2,0,1,True,True,True,False,False,True,False,False,False,Guarapari
+2891640912,430000,Apartamento,Guarapari,Praia do Morro,80,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2746941169,650000,Apartamento,Guarapari,Muquiçaba,90,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2846955258,700000,Apartamento,Guarapari,Centro,70,2,2,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2776982467,950000,Apartamento,Guarapari,Centro,90,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+84513518,1800000,Apartamento,Guarapari,Centro,115,3,2,2,1,True,False,True,True,False,True,False,False,False,Guarapari
+2734121527,736745,Apartamento,Guarapari,Praia do Morro,123,3,3,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2744954414,1260000,Apartamento,Guarapari,Praia do Morro,120,3,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2849173121,400000,Apartamento,Guarapari,Condados,268,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2740901109,590000,Apartamento,Guarapari,Praia do Morro,78,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2843481452,530000,Apartamento,Guarapari,Praia do Morro,70,2,2,0,0,False,False,False,False,False,False,False,False,True,Guarapari
+2683082182,553231,Apartamento,Guarapari,Centro,66,2,1,0,0,True,True,True,True,False,True,False,False,False,Guarapari
+2736778327,600000,Apartamento,Guarapari,Praia do Morro,118,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2893649567,850000,Apartamento,Guarapari,Praia do Morro,80,2,2,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2854742748,1350000,Apartamento,Guarapari,Praia do Morro,115,3,1,2,0,False,False,False,False,False,False,False,False,True,Guarapari
+2894401087,1250000,Apartamento,Guarapari,Nova Guarapari,110,3,3,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2745751326,799000,Apartamento,Guarapari,Muquiçaba,110,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2710569398,820000,Apartamento,Guarapari,Nova Guarapari,70,2,2,1,2,True,False,True,True,False,True,False,False,False,Guarapari
+2710059374,700000,Apartamento,Guarapari,Centro,68,2,2,1,1,True,True,True,False,False,True,False,False,False,Guarapari
+2874560508,840000,Apartamento,Guarapari,Muquiçaba,100,3,1,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2892097374,780000,Apartamento,Guarapari,Praia do Morro,71,2,1,1,1,False,True,True,False,False,False,False,False,False,Guarapari
+2623213636,1800000,Casa,Guarapari,Enseada Azul,250,3,4,8,1,True,True,True,True,False,False,False,True,False,Guarapari
+2682538663,850000,Apartamento,Guarapari,Praia do Morro,100,3,2,2,0,False,False,False,False,False,True,False,False,True,Guarapari
+2843485241,680000,Apartamento,Guarapari,Enseada Azul,75,2,2,1,1,True,True,False,True,True,False,False,False,False,Guarapari
+2871338389,389000,Apartamento,Guarapari,Praia do Morro,55,2,1,0,1,False,True,False,True,True,True,False,False,False,Guarapari
+2894851597,385000,Apartamento,Guarapari,Praia do Morro,75,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2893541973,660000,Apartamento,Guarapari,Praia do Morro,80,2,2,0,1,True,True,False,True,False,True,False,False,True,Guarapari
+2894399992,440000,Apartamento,Guarapari,Muquiçaba,90,2,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2889422481,795000,Apartamento,Guarapari,Praia do Morro,125,3,2,0,1,False,True,False,False,True,True,False,False,False,Guarapari
+2734990425,1275477,Apartamento,Guarapari,Muquiçaba,114,3,3,0,3,False,False,False,False,False,False,False,False,True,Guarapari
+2843484726,850000,Apartamento,Guarapari,Praia do Morro,81,2,2,1,1,True,True,True,True,False,True,False,False,True,Guarapari
+2797728918,650000,Apartamento,Guarapari,Praia do Morro,75,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2676367716,700000,Apartamento,Guarapari,Centro,130,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2894388292,750000,Apartamento,Guarapari,Praia do Morro,65,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2889580475,630000,Apartamento,Guarapari,Perocão,120,2,3,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2743300178,850000,Apartamento,Guarapari,Centro,100,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2885952299,890000,Apartamento,Guarapari,Praia do Morro,100,3,2,2,0,True,False,True,True,False,True,False,True,False,Guarapari
+2729326009,1250000,Apartamento,Guarapari,São Judas Tadeu,120,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2894843713,700000,Apartamento,Guarapari,Praia do Morro,86,2,2,1,1,False,False,False,False,True,True,False,False,False,Guarapari
+2883801983,700000,Apartamento,Guarapari,Muquiçaba,90,2,2,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2866798073,1100000,Apartamento,Guarapari,Centro,145,3,3,1,2,False,True,False,False,True,True,False,False,False,Guarapari
+2810251315,780000,Apartamento,Guarapari,Muquiçaba,78,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2732445760,650000,Apartamento,Guarapari,Praia do Morro,73,2,2,1,1,False,True,False,False,False,True,False,False,True,Guarapari
+2878676995,650000,Apartamento,Guarapari,Enseada Azul,87,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2882265390,800000,Casa,Guarapari,Comunidade Urbana de Jaboti,180,3,3,4,1,False,False,False,False,False,False,False,False,False,Guarapari
+2625708106,420000,Apartamento,Guarapari,Praia do Morro,95,2,3,1,1,False,True,False,False,True,False,False,False,False,Guarapari
+2857722558,420000,Apartamento,Guarapari,Praia do Morro,62,2,2,1,1,False,False,False,False,True,True,False,False,False,Guarapari
+2793173623,1300000,Apartamento,Guarapari,Praia do Morro,120,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2882585439,400000,Apartamento,Guarapari,Praia do Morro,68,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2733960904,720000,Apartamento,Guarapari,Praia do Morro,107,3,2,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2740833114,710000,Apartamento,Guarapari,Praia do Morro,89,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2894393155,550000,Apartamento,Guarapari,Praia do Morro,77,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2867933019,395000,Apartamento,Guarapari,Centro,68,2,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2889017392,495000,Apartamento,Guarapari,Enseada Azul,70,2,2,0,1,False,True,False,False,True,False,False,False,True,Guarapari
+2707272837,750000,Apartamento,Guarapari,Centro,80,3,3,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2869684074,700000,Apartamento,Guarapari,Praia do Morro,65,2,1,1,2,False,False,False,False,False,False,False,False,False,Guarapari
+2820492314,680000,Apartamento,Guarapari,Enseada Azul,75,2,1,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2875536473,500000,Apartamento,Guarapari,Praia do Morro,120,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2749777835,960000,Apartamento,Guarapari,Centro,71,2,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2894383988,1100000,Apartamento,Guarapari,Praia do Morro,110,3,3,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2841853037,650000,Casa,Guarapari,Nova Guarapari,260,3,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2894400796,800000,Apartamento,Guarapari,Praia do Morro,180,4,4,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2885691279,690000,Apartamento,Guarapari,Centro,70,2,2,1,1,True,False,True,False,True,True,False,False,True,Guarapari
+2894398386,635000,Apartamento,Guarapari,Praia do Morro,88,3,2,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2870644776,660000,Apartamento,Guarapari,Praia do Morro,67,2,2,1,1,False,True,True,True,False,True,False,False,True,Guarapari
+2887657152,690000,Apartamento,Guarapari,São Judas Tadeu,83,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2878155681,780000,Apartamento,Guarapari,Centro,80,2,2,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2850164419,1050000,Apartamento,Guarapari,Enseada Azul,112,3,2,2,1,True,False,True,True,True,True,False,True,False,Guarapari
+2810257219,480000,Apartamento,Guarapari,Praia do Morro,56,1,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2883903684,1100000,Apartamento,Guarapari,Praia do Morro,106,3,3,2,2,True,False,False,False,False,False,False,False,False,Guarapari
+2818084432,660000,Apartamento,Guarapari,Praia do Morro,60,2,1,1,1,False,True,False,True,False,True,False,False,False,Guarapari
+2736002925,490000,Apartamento,Guarapari,Praia do Morro,140,3,2,1,2,False,False,False,False,False,False,False,False,False,Guarapari
+2817428531,825000,Apartamento,Guarapari,Enseada Azul,65,2,2,1,2,True,True,True,True,False,True,False,False,False,Guarapari
+2883803681,900000,Apartamento,Guarapari,Centro,66,2,2,1,1,True,True,True,True,False,True,False,False,True,Guarapari
+2841267634,450000,Apartamento,Guarapari,Praia do Morro,56,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2876171887,1060000,Apartamento,Guarapari,Praia do Morro,87,2,1,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2891224874,650000,Apartamento,Guarapari,Centro,98,2,3,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2880294411,480000,Apartamento,Guarapari,Centro,86,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2838507716,490000,Apartamento,Guarapari,Praia do Morro,73,2,2,0,1,False,True,False,False,True,False,False,False,False,Guarapari
+2838371722,650000,Apartamento,Guarapari,Centro,65,2,2,0,1,False,True,False,False,True,True,False,False,False,Guarapari
+2893656980,1300000,Apartamento,Guarapari,Centro,120,3,3,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2884932220,790000,Apartamento,Guarapari,Praia do Morro,96,3,3,0,0,False,False,False,False,False,True,False,False,False,Guarapari
+2883800235,650000,Cobertura,Guarapari,Praia do Morro,180,4,4,0,3,True,False,False,False,False,False,True,False,False,Guarapari
+2826839636,1850000,Apartamento,Guarapari,Praia do Morro,107,3,2,0,1,False,True,True,False,False,False,False,False,True,Guarapari
+2810008417,730000,Apartamento,Guarapari,Praia do Morro,100,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2843951709,550000,Apartamento,Guarapari,Praia do Morro,81,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2675939134,550000,Apartamento,Guarapari,Centro,95,2,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2838371626,764350,Apartamento,Guarapari,Enseada Azul,69,2,2,1,0,True,True,True,True,False,True,False,False,False,Guarapari
+2883714581,260000,Apartamento,Guarapari,Portal,65,1,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2568732803,1250000,Apartamento,Guarapari,Praia do Morro,108,3,3,2,1,False,False,False,False,True,True,False,False,False,Guarapari
+2877816863,675000,Apartamento,Guarapari,Centro,75,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2825749760,720000,Apartamento,Guarapari,Centro,75,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2880963000,530000,Apartamento,Guarapari,Enseada Azul,78,2,2,1,1,False,False,False,False,True,False,False,False,False,Guarapari
+2866282018,742000,Apartamento,Guarapari,Praia do Morro,75,2,1,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2883027922,550000,Apartamento,Guarapari,Praia do Morro,130,3,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2510809582,760000,Apartamento,Guarapari,Praia do Morro,68,2,2,1,1,False,False,False,True,False,True,False,False,False,Guarapari
+2781566240,480000,Apartamento,Guarapari,Centro,100,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2892989781,700000,Apartamento,Guarapari,Centro,59,2,2,1,0,True,False,True,True,False,True,False,False,False,Guarapari
+2875535789,751300,Apartamento,Guarapari,Praia do Morro,66,2,1,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2896187792,1290000,Apartamento,Guarapari,Praia do Morro,135,4,3,2,2,False,False,False,False,False,False,False,False,True,Guarapari
+2866811813,670000,Apartamento,Guarapari,Praia do Morro,70,2,2,1,1,False,False,False,False,True,False,False,False,False,Guarapari
+2829101521,450000,Apartamento,Guarapari,Praia do Morro,74,2,2,0,1,False,False,False,False,False,True,False,False,True,Guarapari
+2692439587,760000,Apartamento,Guarapari,Praia do Morro,74,2,2,2,1,True,True,True,True,False,True,False,False,True,Guarapari
+2643934474,750000,Apartamento,Guarapari,Praia do Morro,124,3,3,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2893463079,690000,Apartamento,Guarapari,Praia do Morro,72,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2892541877,710000,Apartamento,Guarapari,Praia do Morro,90,2,3,0,1,False,False,False,False,True,False,False,False,True,Guarapari
+2880149374,500000,Apartamento,Guarapari,Centro,88,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2673997410,800000,Apartamento,Guarapari,Centro,110,3,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2885252989,850000,Apartamento,Guarapari,Enseada Azul,70,2,2,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2797149826,655000,Apartamento,Guarapari,Praia do Morro,73,2,2,1,1,False,False,True,True,False,True,False,False,False,Guarapari
+2781558467,480000,Apartamento,Guarapari,Nova Guarapari,100,4,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2874927713,690000,Apartamento,Guarapari,Praia do Morro,70,2,2,1,1,True,True,False,False,True,True,False,False,False,Guarapari
+2894384698,1250000,Apartamento,Guarapari,Praia do Morro,102,3,2,2,1,False,False,False,False,False,False,False,False,True,Guarapari
+2871418275,750000,Apartamento,Guarapari,Centro,110,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2869131893,600000,Apartamento,Guarapari,Centro,123,2,2,1,1,False,True,False,True,True,True,False,False,False,Guarapari
+2702120996,440000,Apartamento,Guarapari,Centro,78,2,2,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2830550122,700000,Apartamento,Guarapari,Praia do Morro,75,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2894394795,800000,Apartamento,Guarapari,Praia do Morro,90,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2890410891,899000,Apartamento,Guarapari,Praia do Morro,90,3,3,1,1,False,True,False,False,True,True,False,False,False,Guarapari
+2606857324,400000,Apartamento,Guarapari,Centro,95,2,2,1,0,False,True,False,False,False,True,False,False,False,Guarapari
+2883802807,899000,Apartamento,Guarapari,Centro,68,2,1,1,1,False,False,True,True,False,False,False,False,False,Guarapari
+2769731321,650000,Apartamento,Guarapari,Centro,80,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2883800238,690000,Apartamento,Guarapari,Enseada Azul,75,2,2,1,1,True,True,False,True,False,True,False,False,False,Guarapari
+2766184727,930000,Apartamento,Guarapari,Centro,89,2,3,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2747158703,700000,Apartamento,Guarapari,Centro,90,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2830680713,750000,Apartamento,Guarapari,Praia do Morro,75,2,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2883543294,850000,Apartamento,Guarapari,Centro,90,3,2,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2882757980,480000,Apartamento,Guarapari,Praia do Morro,60,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2889422487,690000,Apartamento,Guarapari,Praia do Morro,77,2,2,2,0,True,True,True,False,False,True,False,False,False,Guarapari
+2871903486,860000,Apartamento,Guarapari,Praia do Morro,80,2,2,1,0,False,False,False,False,False,False,False,False,True,Guarapari
+2796071166,400000,Apartamento,Guarapari,Praia do Morro,45,1,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2830390627,600000,Apartamento,Guarapari,Centro,110,4,2,0,0,False,False,False,False,False,False,False,False,True,Guarapari
+2893216692,890000,Casa de condomínio,Guarapari,Village do Sol,523,4,3,0,1,True,True,False,True,False,False,False,False,False,Guarapari
+2684071873,980000,Apartamento,Guarapari,São Judas Tadeu,110,3,1,0,1,True,True,True,True,False,True,False,False,False,Guarapari
+2685263336,650000,Apartamento,Guarapari,Centro,105,2,1,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2883049673,854197,Apartamento,Guarapari,Enseada Azul,85,2,2,1,0,True,False,True,True,False,True,False,True,False,Guarapari
+2648009789,850000,Apartamento,Guarapari,Praia do Morro,80,3,2,0,1,False,True,False,False,False,True,False,False,True,Guarapari
+2883799391,692587,Apartamento,Guarapari,Praia do Morro,73,2,2,0,1,False,False,True,True,False,True,False,False,False,Guarapari
+2892365394,500000,Apartamento,Guarapari,Praia do Morro,74,2,2,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2811983840,550000,Apartamento,Guarapari,Centro,48,1,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2889423075,776033,Apartamento,Guarapari,Praia do Morro,70,2,2,1,0,True,True,True,False,False,True,False,False,False,Guarapari
+2826310054,480000,Apartamento,Guarapari,Praia do Morro,78,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2872528787,800000,Apartamento,Guarapari,Praia do Morro,78,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2882230792,900000,Apartamento,Guarapari,Centro,90,3,3,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2873172881,1100000,Apartamento,Guarapari,Centro,130,3,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2880185742,620000,Apartamento,Guarapari,Praia do Morro,86,2,1,2,1,False,True,True,False,True,False,False,False,True,Guarapari
+2873864928,579000,Casa,Guarapari,Comunidade Urbana de Reta Grande,115,2,2,3,1,False,True,False,False,False,False,False,True,False,Guarapari
+2625696667,390000,Apartamento,Guarapari,Praia do Morro,78,2,2,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2845924179,550000,Apartamento,Guarapari,Centro,89,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2880296177,900000,Apartamento,Guarapari,Centro,110,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2894392037,1390000,Apartamento,Guarapari,Praia do Morro,110,3,3,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2866804269,550000,Apartamento,Guarapari,Enseada Azul,75,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2625697231,530000,Apartamento,Guarapari,Centro,75,2,2,1,1,False,True,False,True,True,True,False,False,False,Guarapari
+2686787515,980000,Duplex,Guarapari,Enseada Azul,120,4,2,2,1,False,False,False,False,False,True,False,False,True,Guarapari
+2891722189,530000,Apartamento,Guarapari,Praia do Morro,110,2,2,1,1,False,True,False,False,False,False,False,False,True,Guarapari
+2733640937,1070000,Apartamento,Guarapari,Praia do Morro,114,3,3,2,3,False,False,False,False,False,False,False,False,True,Guarapari
+2627679422,960000,Apartamento,Guarapari,Centro,80,2,3,1,1,False,True,False,True,True,True,False,False,False,Guarapari
+2888043181,822900,Apartamento,Guarapari,Centro,66,2,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2685484438,650000,Apartamento,Guarapari,Centro,95,2,1,1,0,False,False,False,False,False,True,False,False,False,Guarapari
+2778688092,889000,Apartamento,Guarapari,Praia do Morro,115,3,2,0,0,True,False,True,True,False,True,False,False,False,Guarapari
+2889285788,580000,Apartamento,Guarapari,Centro,65,2,2,0,1,True,True,False,True,False,True,False,False,True,Guarapari
+2838318634,900000,Apartamento,Guarapari,Centro,70,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2708896284,650000,Apartamento,Guarapari,Centro,58,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+90166637,650000,Apartamento,Guarapari,Praia do Morro,80,3,2,0,0,False,True,False,False,True,True,False,False,False,Guarapari
+2735278306,2024193,Apartamento,Guarapari,Praia do Morro,237,4,4,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2872592092,750000,Apartamento,Guarapari,Centro,130,2,3,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2771689491,650000,Apartamento,Guarapari,Enseada Azul,72,2,1,1,2,False,False,False,False,False,False,False,False,False,Guarapari
+2852328236,450000,Apartamento,Guarapari,São Judas Tadeu,88,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2825482379,630000,Apartamento,Guarapari,Centro,90,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2555717728,880000,Apartamento,Guarapari,Centro,72,2,2,1,0,True,True,False,True,False,True,False,False,False,Guarapari
+2716666448,1250000,Apartamento,Guarapari,Muquiçaba,145,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2825721131,950000,Apartamento,Guarapari,Praia do Morro,100,3,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2862118564,570000,Apartamento,Guarapari,Centro,71,2,2,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2829651313,650000,Apartamento,Guarapari,Centro,90,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2877559198,580000,Apartamento,Guarapari,Nova Guarapari,65,3,1,1,0,True,True,True,True,True,False,False,False,False,Guarapari
+2748178721,1490000,Apartamento,Guarapari,Praia do Morro,145,4,2,3,2,False,False,False,False,False,False,False,False,False,Guarapari
+2892511185,530000,Apartamento,Guarapari,Praia do Morro,80,2,2,1,1,False,True,False,False,False,False,False,False,True,Guarapari
+2894391492,770000,Apartamento,Guarapari,Praia do Morro,64,2,3,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2826329615,750000,Apartamento,Guarapari,Enseada Azul,75,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2781080537,530000,Apartamento,Guarapari,Centro,87,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2749778517,810000,Apartamento,Guarapari,Centro,71,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2889417549,650000,Apartamento,Guarapari,Muquiçaba,75,2,2,1,1,True,True,True,False,False,True,False,False,False,Guarapari
+2843847230,650000,Apartamento,Guarapari,Centro,55,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2766636326,439000,Apartamento,Guarapari,Ipiranga,65,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2802777613,600000,Casa,Guarapari,Ipiranga,253,3,3,3,1,False,False,False,False,True,True,False,False,False,Guarapari
+2879173515,3000000,Apartamento,Guarapari,Muquiçaba,318,4,5,3,4,False,False,False,False,False,False,False,False,False,Guarapari
+2878521195,780000,Apartamento,Guarapari,Centro,76,2,3,0,2,False,False,False,False,False,True,False,False,False,Guarapari
+2800719603,480000,Apartamento,Guarapari,Praia do Morro,59,2,1,0,1,False,False,False,False,True,False,False,False,False,Guarapari
+2883526195,750000,Apartamento,Guarapari,São Judas Tadeu,210,2,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2722106360,950000,Apartamento,Guarapari,Centro,130,3,2,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2847479215,700000,Apartamento,Guarapari,Centro,110,3,3,0,1,False,True,False,False,False,True,False,False,True,Guarapari
+2742260962,630000,Apartamento,Guarapari,Centro,90,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2807677957,680000,Apartamento,Guarapari,Centro,88,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2872594606,700000,Apartamento,Guarapari,Centro,75,2,2,1,1,False,False,False,False,True,False,False,False,False,Guarapari
+2692678882,395000,Apartamento,Guarapari,Centro,70,2,2,0,2,False,False,False,False,False,True,False,False,False,Guarapari
+2883798997,750000,Apartamento,Guarapari,Ipiranga,110,4,2,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2877663473,660000,Apartamento,Guarapari,Centro,144,3,2,1,0,False,False,False,False,False,True,False,False,False,Guarapari
+2586523646,598613,Apartamento,Guarapari,Centro,80,2,1,2,1,True,True,True,True,False,True,False,False,False,Guarapari
+2824626732,500000,Apartamento,Guarapari,Muquiçaba,90,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2883800239,1200000,Apartamento,Guarapari,Centro,115,3,2,2,1,False,True,True,False,False,True,False,False,False,Guarapari
+2873771988,1150000,Cobertura,Guarapari,Centro,100,3,1,1,0,False,False,False,False,False,False,True,False,False,Guarapari
+2892361810,570000,Apartamento,Guarapari,Praia do Morro,75,3,2,1,0,False,False,False,True,True,True,False,False,False,Guarapari
+2884468886,740000,Apartamento,Guarapari,Portal,110,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2896767498,188007,Apartamento,Guarapari,Praia do Morro,50,2,1,1,0,False,True,True,False,False,False,False,False,False,Guarapari
+2877663181,500000,Apartamento,Guarapari,Centro,95,2,2,1,1,False,False,False,False,True,True,False,False,False,Guarapari
+2841034972,650000,Apartamento,Guarapari,Centro,85,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2873949008,280000,Apartamento,Guarapari,Praia do Morro,60,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2843485824,650000,Apartamento,Guarapari,Centro,90,3,2,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2887688099,740000,Apartamento,Guarapari,São Judas Tadeu,84,2,1,2,1,False,True,True,False,False,False,False,False,True,Guarapari
+2706922108,860000,Apartamento,Guarapari,Praia do Morro,110,3,2,2,0,False,False,False,False,False,False,False,False,True,Guarapari
+2889756989,470000,Apartamento,Guarapari,Praia do Morro,70,2,2,1,1,False,False,False,False,True,True,False,False,False,Guarapari
+2888085375,748000,Apartamento,Guarapari,Praia do Morro,74,2,2,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2733938660,872694,Apartamento,Guarapari,Praia do Morro,93,3,2,2,0,False,False,False,False,False,False,False,False,True,Guarapari
+2790769721,760000,Apartamento,Guarapari,Praia do Morro,59,2,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2837194914,750000,Apartamento,Guarapari,Praia do Morro,118,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2869683681,1100000,Apartamento,Guarapari,Praia do Morro,110,3,1,0,1,False,True,True,False,False,False,False,False,False,Guarapari
+2889580580,1100000,Apartamento,Guarapari,Praia do Morro,98,3,3,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2596874253,1000000,Apartamento,Guarapari,Praia do Morro,110,3,2,0,1,True,True,True,True,True,True,False,False,False,Guarapari
+2763567816,1600000,Apartamento,Guarapari,Centro,194,3,4,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2812882078,560000,Apartamento,Guarapari,Praia do Morro,72,2,2,1,1,True,True,True,True,True,True,False,False,True,Guarapari
+2883801987,840000,Apartamento,Guarapari,Praia do Morro,104,2,2,3,1,True,True,True,False,True,True,False,False,False,Guarapari
+2732446921,800000,Apartamento,Guarapari,Enseada Azul,100,3,3,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2880294749,830000,Apartamento,Guarapari,Centro,130,3,3,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2892363801,620000,Apartamento,Guarapari,Praia do Morro,75,3,2,1,1,True,True,True,True,True,True,False,False,False,Guarapari
+2843481125,780000,Apartamento,Guarapari,Enseada Azul,90,2,2,3,1,True,True,True,True,False,False,False,False,False,Guarapari
+2845641237,480000,Apartamento,Guarapari,Santa Mônica,200,3,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2818608845,350000,Apartamento,Guarapari,Praia do Morro,75,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2843482743,712950,Apartamento,Guarapari,Enseada Azul,75,2,2,1,0,False,False,False,True,False,False,False,False,False,Guarapari
+2889758676,440000,Apartamento,Guarapari,Praia do Morro,70,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2761977422,500000,Apartamento,Guarapari,Centro,100,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2892162991,490000,Apartamento,Guarapari,Praia do Morro,68,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2889420505,762800,Apartamento,Guarapari,Nova Guarapari,66,2,2,1,0,True,True,True,False,False,True,False,True,False,Guarapari
+2844999736,520000,Apartamento,Guarapari,Praia do Morro,70,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2883799384,600000,Apartamento,Guarapari,Centro,85,2,2,1,1,False,True,False,False,True,True,False,False,False,Guarapari
+2887324839,870000,Apartamento,Guarapari,Praia do Morro,125,3,3,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2803943835,830000,Apartamento,Guarapari,Praia do Morro,75,2,1,1,1,True,False,True,True,False,True,False,False,True,Guarapari
+2613012200,530000,Apartamento,Guarapari,Praia do Morro,78,2,2,1,1,False,True,False,False,True,True,False,False,False,Guarapari
+2816083132,750000,Apartamento,Guarapari,Centro,110,3,2,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2801480917,700000,Apartamento,Guarapari,Centro,95,3,3,1,2,False,False,False,False,False,True,False,False,False,Guarapari
+2888069089,680000,Apartamento,Guarapari,Praia do Morro,140,3,3,0,1,False,False,False,False,True,True,False,False,False,Guarapari
+2824292917,450000,Apartamento,Guarapari,Praia do Morro,73,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2732445548,690000,Apartamento,Guarapari,Praia do Morro,111,2,3,0,2,False,True,False,True,False,True,False,False,False,Guarapari
+2829651615,840000,Casa,Guarapari,Village da Praia,170,5,2,0,0,False,True,True,False,False,False,False,False,False,Guarapari
+2887474779,850000,Apartamento,Guarapari,Praia do Morro,110,3,2,0,0,False,True,False,False,False,True,False,False,True,Guarapari
+2894175975,800000,Apartamento,Guarapari,Praia do Morro,70,2,2,0,0,False,True,False,False,False,True,False,False,True,Guarapari
+2796493334,450000,Apartamento,Guarapari,Centro,87,3,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2890623076,1360000,Apartamento,Guarapari,Centro,98,3,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2643929957,950000,Apartamento,Guarapari,Centro,82,2,2,0,1,True,True,True,True,False,True,False,False,False,Guarapari
+2857549369,700000,Apartamento,Guarapari,Muquiçaba,78,2,2,1,1,True,True,True,True,True,False,False,False,True,Guarapari
+2736417016,500000,Apartamento,Guarapari,Praia do Morro,68,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2709268111,1100000,Apartamento,Guarapari,Centro,129,3,3,2,2,True,False,True,False,False,True,False,False,False,Guarapari
+2794291223,954900,Apartamento,Guarapari,Praia do Morro,110,3,2,2,1,True,True,True,True,True,True,False,False,False,Guarapari
+2894390980,1600000,Apartamento,Guarapari,Praia do Morro,105,3,2,2,1,False,False,False,False,False,False,False,False,True,Guarapari
+2893717024,900000,Apartamento,Guarapari,Praia do Morro,90,3,1,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2871270195,520000,Apartamento,Guarapari,Portal,105,3,3,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2894394025,695000,Apartamento,Guarapari,Praia do Morro,65,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2745754621,650000,Apartamento,Guarapari,Muquiçaba,78,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2887835700,550000,Apartamento,Guarapari,Centro,97,2,3,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2811399856,750000,Apartamento,Guarapari,Centro,106,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2847476880,650000,Apartamento,Guarapari,Enseada Azul,110,2,2,1,1,True,True,True,True,False,False,False,False,False,Guarapari
+2892541774,700000,Apartamento,Guarapari,Enseada Azul,160,2,3,2,1,True,True,False,False,True,True,False,False,False,Guarapari
+2726625346,950000,Apartamento,Guarapari,Centro,127,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2889420512,1150000,Apartamento,Guarapari,Muquiçaba,159,3,2,2,0,False,True,True,False,False,True,False,False,False,Guarapari
+2896589717,790000,Casa,Guarapari,Kubitschek,341,4,2,3,1,False,False,False,False,False,False,False,False,False,Guarapari
+2843484820,650000,Apartamento,Guarapari,Centro,80,2,3,1,0,False,True,True,False,True,False,False,False,False,Guarapari
+2847476790,700000,Apartamento,Guarapari,Centro,70,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2803800527,935000,Apartamento,Guarapari,Praia do Morro,94,3,2,2,1,False,True,True,True,False,True,False,False,False,Guarapari
+2867803190,430000,Apartamento,Guarapari,Centro,60,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2886180896,950000,Apartamento,Guarapari,Praia do Morro,104,4,3,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2894390278,1590000,Apartamento,Guarapari,Praia do Morro,113,4,2,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2894391186,800000,Apartamento,Guarapari,Centro,62,2,1,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2576622556,1250000,Casa,Guarapari,Jardim Boa Vista,230,3,3,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2894390073,1200000,Apartamento,Guarapari,Praia do Morro,175,3,3,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2782634097,850000,Apartamento,Guarapari,Praia do Morro,80,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2889420795,600000,Apartamento,Guarapari,Praia do Morro,68,2,2,0,1,False,True,False,False,False,True,False,False,False,Guarapari
+2821613919,899000,Apartamento,Guarapari,Muquiçaba,98,3,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2786835016,700000,Apartamento,Guarapari,Praia do Morro,86,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2763846082,780000,Apartamento,Guarapari,Centro,77,2,3,0,2,False,True,False,False,False,True,False,False,False,Guarapari
+2881994687,730000,Apartamento,Guarapari,Praia do Morro,72,2,2,1,1,True,True,True,True,True,True,False,False,True,Guarapari
+2896466300,750000,Casa,Guarapari,São Judas Tadeu,235,4,1,4,1,False,False,False,False,False,False,False,False,False,Guarapari
+2871692782,390000,Apartamento,Guarapari,Praia do Morro,50,1,1,1,0,False,False,False,False,False,True,False,False,False,Guarapari
+2894401680,1300000,Apartamento,Guarapari,Centro,100,2,2,2,1,False,False,False,False,False,False,False,False,True,Guarapari
+2853808954,500000,Apartamento,Guarapari,Praia do Morro,70,1,1,1,0,True,False,True,False,False,True,False,False,True,Guarapari
+2812718026,750000,Apartamento,Guarapari,Praia do Morro,88,2,2,2,1,True,False,False,False,False,False,False,False,False,Guarapari
+2888750595,480000,Apartamento,Guarapari,Praia do Morro,70,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2885707311,850000,Apartamento,Guarapari,Enseada Azul,70,2,2,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2829647987,790000,Apartamento,Guarapari,Praia do Morro,66,2,3,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2891982675,650000,Apartamento,Guarapari,Centro,94,2,3,1,1,False,True,False,False,True,False,False,False,True,Guarapari
+2894401187,760000,Casa,Guarapari,Meaípe,174,3,3,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2866800144,750000,Apartamento,Guarapari,Praia do Morro,89,3,2,0,1,False,True,False,False,False,False,False,False,False,Guarapari
+2889422574,500000,Cobertura,Guarapari,Praia do Morro,110,2,2,1,1,False,True,False,False,True,False,True,False,False,Guarapari
+2866385759,650000,Apartamento,Guarapari,Centro,65,2,2,1,0,False,False,False,False,False,True,False,False,False,Guarapari
+2715071716,650000,Apartamento,Guarapari,Praia do Morro,65,2,2,1,1,True,False,False,True,False,True,False,False,False,Guarapari
+2855681772,820000,Apartamento,Guarapari,Muquiçaba,100,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2878345718,1390000,Apartamento,Guarapari,Praia do Morro,118,3,2,2,1,True,True,False,True,True,False,False,False,False,Guarapari
+2870764254,950000,Casa,Guarapari,Praia do Morro,200,3,3,6,0,False,False,False,False,False,False,False,True,False,Guarapari
+2707267539,460000,Apartamento,Guarapari,Praia do Morro,70,2,1,1,2,False,False,False,False,False,False,False,False,False,Guarapari
+2885016677,850000,Casa,Guarapari,Ipiranga,292,3,4,4,2,False,True,False,False,False,False,False,False,False,Guarapari
+2731665726,700000,Apartamento,Guarapari,Centro,100,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2555717808,700000,Apartamento,Guarapari,Centro,135,3,2,0,0,False,True,True,False,True,True,False,False,False,Guarapari
+2888937415,695000,Apartamento,Guarapari,Praia do Morro,65,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2863572257,900000,Apartamento,Guarapari,Praia do Morro,85,2,2,0,1,True,True,True,True,True,True,False,False,False,Guarapari
+2774801246,1600000,Apartamento,Guarapari,Praia do Morro,106,3,2,0,2,True,False,False,False,False,True,False,True,True,Guarapari
+2877274733,650000,Apartamento,Guarapari,Centro,95,3,3,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2631677173,590000,Apartamento,Guarapari,Praia do Morro,135,3,3,0,2,False,True,False,False,False,True,False,False,False,Guarapari
+2843486031,840000,Apartamento,Guarapari,Enseada Azul,90,2,2,0,1,True,True,True,True,False,False,False,False,False,Guarapari
+2829701977,700000,Apartamento,Guarapari,Centro,147,3,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2841076846,650000,Apartamento,Guarapari,Praia do Morro,68,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2895376566,795000,Apartamento,Guarapari,Praia do Morro,116,4,3,1,0,False,True,False,True,True,True,False,False,True,Guarapari
+2819129027,850000,Apartamento,Guarapari,São Judas Tadeu,80,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2889421987,1089600,Apartamento,Guarapari,Praia do Morro,106,3,2,2,1,True,True,True,True,False,True,False,False,False,Guarapari
+2462620308,250000,Térrea,Guarapari,Meaípe,170,5,4,4,3,False,True,False,False,True,False,False,False,False,Guarapari
+2892711782,450000,Apartamento,Guarapari,Praia do Morro,68,2,1,1,1,False,True,False,False,True,False,False,False,False,Guarapari
+2629971221,650000,Apartamento,Guarapari,Centro,100,2,3,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2793448421,590000,Apartamento,Guarapari,Centro,100,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2889417552,890584,Apartamento,Guarapari,Muquiçaba,66,2,2,1,1,True,True,True,False,False,True,False,False,False,Guarapari
+2885473073,250000,Apartamento,Guarapari,Portal,50,1,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2786481636,640000,Apartamento,Guarapari,Enseada Azul,70,2,1,1,0,True,True,True,True,False,True,False,True,False,Guarapari
+2891981295,680000,Apartamento,Guarapari,Centro,72,2,2,1,1,True,True,False,True,False,True,False,False,False,Guarapari
+2604773279,650000,Apartamento,Guarapari,Centro,95,3,2,1,0,False,True,False,False,False,True,False,False,False,Guarapari
+2840679320,525000,Apartamento,Guarapari,Centro,101,2,2,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2875536275,750000,Casa,Guarapari,Meaípe,90,2,3,3,1,False,True,False,False,True,False,False,False,False,Guarapari
+2555717780,1120000,Apartamento,Guarapari,Praia do Morro,106,3,3,2,2,True,True,True,True,False,True,False,False,False,Guarapari
+2871738806,860000,Apartamento,Guarapari,Praia do Morro,69,2,2,1,1,True,True,False,True,True,True,False,False,False,Guarapari
+2824918836,495000,Apartamento,Guarapari,Praia do Morro,65,2,1,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2894389174,1100000,Apartamento,Guarapari,Praia do Morro,100,3,3,2,1,False,False,False,False,False,False,False,False,True,Guarapari
+2732446434,798000,Apartamento,Guarapari,Praia do Morro,90,3,2,2,1,False,False,True,True,False,True,False,False,True,Guarapari
+2894387206,800000,Apartamento,Guarapari,Centro,86,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2888940009,1080000,Apartamento,Guarapari,Praia do Morro,125,3,2,2,1,False,False,False,False,False,False,False,False,True,Guarapari
+2829650637,570000,Apartamento,Guarapari,Praia do Morro,76,2,2,0,1,False,False,True,False,False,False,False,False,False,Guarapari
+2748907201,650000,Apartamento,Guarapari,Muquiçaba,67,2,2,0,0,False,False,False,True,False,False,False,False,False,Guarapari
+2606865473,700000,Apartamento,Guarapari,Muquiçaba,100,3,2,0,1,False,True,True,True,False,True,False,False,False,Guarapari
+2762162624,900000,Apartamento,Guarapari,Centro,78,2,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2851820341,680000,Apartamento,Guarapari,Centro,88,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2760905740,430000,Apartamento,Guarapari,Praia do Morro,63,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2766636331,750000,Apartamento,Guarapari,Praia do Morro,68,2,2,1,1,True,True,False,True,False,False,False,False,False,Guarapari
+2636042707,1450000,Apartamento,Guarapari,Praia do Morro,110,3,2,0,1,True,True,True,True,True,True,False,False,False,Guarapari
+2894396297,950000,Apartamento,Guarapari,Muquiçaba,93,3,2,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2894391879,980000,Apartamento,Guarapari,Ipiranga,90,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2823335947,750000,Apartamento,Guarapari,Centro,66,2,2,1,1,True,False,True,True,False,True,False,False,False,Guarapari
+2587537708,850000,Apartamento,Guarapari,Centro,76,2,2,1,1,True,True,True,True,False,True,False,False,False,Guarapari
+2893938380,699000,Apartamento,Guarapari,Centro,68,2,1,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2876165731,1000000,Apartamento,Guarapari,Centro,67,3,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2828262029,750000,Apartamento,Guarapari,Praia do Morro,80,2,1,1,0,False,False,False,False,False,False,False,False,True,Guarapari
+2875536274,878000,Apartamento,Guarapari,Praia do Morro,66,2,2,1,1,True,False,False,False,False,False,False,False,True,Guarapari
+2555717813,650000,Apartamento,Guarapari,Muquiçaba,72,2,2,1,1,False,True,True,True,True,True,False,False,False,Guarapari
+2780837130,430000,Apartamento,Guarapari,Enseada Azul,90,3,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2889420518,860000,Apartamento,Guarapari,Praia do Morro,74,2,2,1,1,True,True,True,False,False,True,False,False,False,Guarapari
+2845268064,550000,Apartamento,Guarapari,Praia do Morro,82,2,3,1,1,False,True,False,False,True,True,False,False,False,Guarapari
+2824174524,715000,Apartamento,Guarapari,Praia do Morro,80,2,2,2,1,False,False,False,False,False,True,False,False,True,Guarapari
+2829689713,375000,Apartamento,Guarapari,Pontal de Santa Mônica,68,1,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2555717770,1100000,Apartamento,Guarapari,Centro,135,3,3,3,2,True,True,True,True,False,True,False,False,False,Guarapari
+2571062446,750000,Apartamento,Guarapari,Praia do Morro,110,3,3,2,1,False,True,True,True,False,True,False,False,False,Guarapari
+2843480680,1000000,Apartamento,Guarapari,Nova Guarapari,105,3,3,2,1,True,True,True,True,False,False,False,False,True,Guarapari
+2655492936,490000,Apartamento,Guarapari,Praia do Morro,80,2,2,1,1,False,True,False,True,False,True,False,False,False,Guarapari
+2780770138,480000,Apartamento,Guarapari,Praia do Morro,85,2,2,1,0,False,False,True,False,False,True,False,False,False,Guarapari
+2892366687,650000,Apartamento,Guarapari,Praia do Morro,85,3,3,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2890366727,800000,Apartamento,Guarapari,Praia do Morro,80,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2868187194,550000,Apartamento,Guarapari,Centro,97,2,3,1,2,False,False,False,False,False,True,False,False,False,Guarapari
+2598654986,680000,Apartamento,Guarapari,Praia do Morro,120,3,2,0,1,False,False,False,False,True,True,False,False,False,Guarapari
+2604764103,1200000,Apartamento,Guarapari,Centro,100,2,3,0,2,False,True,False,False,False,True,False,False,False,Guarapari
+2893935683,750000,Apartamento,Guarapari,Praia do Morro,84,3,1,0,1,False,True,False,False,True,False,False,False,False,Guarapari
+2860526959,280000,Apartamento,Guarapari,Kubitschek,60,2,1,0,0,False,True,False,True,False,True,False,False,False,Guarapari
+2893938476,850000,Apartamento,Guarapari,Centro,113,3,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2893649570,500000,Apartamento,Guarapari,Praia do Morro,140,4,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2873197704,650000,Apartamento,Guarapari,Praia do Morro,70,2,2,0,1,False,True,False,False,False,True,False,False,False,Guarapari
+2887467942,880000,Apartamento,Guarapari,Muquiçaba,70,2,2,0,1,False,True,True,True,False,True,False,False,False,Guarapari
+2888938028,450000,Apartamento,Guarapari,Praia do Morro,72,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2824321323,750000,Casa,Guarapari,Setiba,120,3,3,3,2,False,True,False,False,True,False,False,False,False,Guarapari
+2765825437,750000,Apartamento,Guarapari,Praia do Morro,70,2,2,1,1,False,False,False,False,True,False,False,False,False,Guarapari
+2831241247,1300000,Apartamento,Guarapari,Centro,120,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2880727281,650000,Apartamento,Guarapari,Praia do Morro,69,2,2,1,1,True,True,False,True,False,True,False,False,False,Guarapari
+2843479779,800000,Casa,Guarapari,São Judas Tadeu,300,4,3,3,3,False,True,False,False,False,False,False,False,False,Guarapari
+2740836006,380000,Apartamento,Guarapari,Ipiranga,115,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2732498613,400000,Apartamento,Guarapari,Praia do Morro,67,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2809722647,700000,Apartamento,Guarapari,Centro,78,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2872594608,530000,Apartamento,Guarapari,Centro,70,2,1,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2884463799,1304100,Apartamento,Guarapari,Praia do Morro,200,3,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2741681465,2993900,Apartamento,Guarapari,Enseada Azul,163,4,3,3,1,False,False,False,False,False,False,False,False,False,Guarapari
+2821300282,1410000,Apartamento,Guarapari,Jardim Boa Vista,200,4,3,4,1,False,False,False,False,False,False,False,False,False,Guarapari
+2894389982,1350000,Apartamento,Guarapari,Praia do Morro,126,3,2,2,1,False,False,False,False,False,False,False,False,True,Guarapari
+2866311702,950000,Apartamento,Guarapari,Muquiçaba,130,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2562407424,550000,Apartamento,Guarapari,Centro,78,2,3,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2735484929,1507840,Apartamento,Guarapari,Praia do Morro,185,4,4,3,4,False,False,False,False,False,False,False,False,True,Guarapari
+2887474973,600000,Apartamento,Guarapari,Praia do Morro,69,2,2,1,0,False,True,False,False,False,True,False,False,False,Guarapari
+2893896384,650000,Apartamento,Guarapari,Muquiçaba,83,2,3,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2882718989,781394,Apartamento,Guarapari,Praia do Morro,78,2,2,2,1,True,True,True,False,False,True,False,False,False,Guarapari
+2831236472,510000,Apartamento,Guarapari,Centro,90,2,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2865473444,730000,Apartamento,Guarapari,Centro,75,2,2,2,1,False,True,False,True,False,False,False,True,True,Guarapari
+2862023875,690000,Apartamento,Guarapari,Centro,110,2,3,0,1,False,True,False,False,False,True,False,False,False,Guarapari
+2838369312,550000,Apartamento,Guarapari,Praia do Morro,85,2,2,0,0,False,False,False,False,True,False,False,False,False,Guarapari
+2877561743,750000,Apartamento,Guarapari,Centro,70,2,2,0,1,False,False,False,True,False,True,False,False,False,Guarapari
+2787494219,750000,Apartamento,Guarapari,Centro,78,2,2,0,1,False,False,False,True,True,True,False,False,False,Guarapari
+2849053015,400000,Apartamento,Guarapari,Ipiranga,70,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2724971137,1600000,Apartamento,Guarapari,Praia do Morro,140,4,2,0,2,False,True,True,False,True,True,False,False,True,Guarapari
+2872648485,680000,Apartamento,Guarapari,Enseada Azul,80,2,1,0,1,False,False,False,False,True,False,False,False,False,Guarapari
+2812882002,700000,Apartamento,Guarapari,Enseada Azul,91,2,2,0,1,True,True,True,True,True,True,False,False,False,Guarapari
+2893536311,650000,Casa,Guarapari,Nova Guarapari,180,4,3,0,1,False,False,False,False,True,False,False,False,False,Guarapari
+2810246454,700000,Apartamento,Guarapari,Praia do Morro,100,3,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2849904029,570000,Apartamento,Guarapari,Praia do Morro,70,2,2,0,1,False,False,False,False,True,False,False,False,False,Guarapari
+2881018239,450000,Apartamento,Guarapari,Ipiranga,88,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2881167181,1400000,Apartamento,Guarapari,Praia do Morro,107,3,2,2,1,True,True,True,False,True,True,False,True,False,Guarapari
+2634906654,950000,Apartamento,Guarapari,Centro,120,3,3,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2889422578,630000,Apartamento,Guarapari,Muquiçaba,75,2,2,1,1,False,True,True,False,False,True,False,False,False,Guarapari
+2870761177,485000,Apartamento,Guarapari,Enseada Azul,60,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2676651693,2000000,Apartamento,Guarapari,Centro,180,4,5,2,4,True,True,True,False,False,True,False,False,False,Guarapari
+2623217625,880000,Apartamento,Guarapari,Centro,110,3,3,2,1,False,False,False,False,False,True,False,False,False,Guarapari
+2730247512,1800000,Apartamento,Guarapari,Centro,130,3,2,2,1,True,False,True,True,False,True,False,False,False,Guarapari
+2851414416,420000,Apartamento,Guarapari,Praia do Morro,66,2,2,1,0,False,False,False,False,True,True,False,False,False,Guarapari
+2724705251,750000,Cobertura,Guarapari,Praia do Morro,180,4,3,2,0,False,False,False,False,False,True,True,False,False,Guarapari
+2685478940,630000,Apartamento,Guarapari,Centro,90,2,1,1,0,False,False,False,False,False,True,False,False,False,Guarapari
+2894399183,1300000,Apartamento,Guarapari,Centro,180,4,4,2,2,False,False,False,False,False,False,False,False,True,Guarapari
+2749780002,850000,Apartamento,Guarapari,Centro,71,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2741955406,1150000,Apartamento,Guarapari,Praia do Morro,88,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2875894371,520000,Apartamento,Guarapari,Praia do Morro,95,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2892367276,525000,Apartamento,Guarapari,Praia do Morro,95,3,3,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2843485017,680000,Apartamento,Guarapari,Centro,65,2,1,1,0,True,True,False,True,False,False,False,False,False,Guarapari
+2846138106,1350000,Apartamento,Guarapari,Praia do Morro,100,3,2,2,1,True,False,True,False,False,True,False,False,True,Guarapari
+2839339390,600000,Casa,Guarapari,Ipiranga,96,2,2,3,1,False,False,False,False,False,False,False,False,False,Guarapari
+2715120668,600000,Casa,Guarapari,Comunidade Urbana de Rio Grande,140,2,2,0,1,False,False,False,False,True,False,False,True,False,Guarapari
+2841864158,1800000,Apartamento,Guarapari,Centro,135,3,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2819615575,470000,Apartamento,Guarapari,Praia do Morro,80,2,2,0,1,False,False,False,False,True,False,False,False,False,Guarapari
+2449942018,400000,Apartamento,Guarapari,Itapebussu,84,3,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2896392184,629000,Casa,Guarapari,Santa Mônica,110,3,2,0,1,True,True,True,True,False,False,False,True,False,Guarapari
+2868408576,890000,Apartamento,Guarapari,Muquiçaba,90,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2811394830,790000,Apartamento,Guarapari,Praia do Morro,69,2,2,0,1,True,True,True,True,False,False,False,True,False,Guarapari
+2893661581,1390000,Casa,Guarapari,Nova Guarapari,250,3,3,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2843482445,850000,Casa,Guarapari,Meaípe,271,3,3,0,1,False,True,False,False,False,False,False,False,False,Guarapari
+2749541136,850000,Apartamento,Guarapari,Praia do Morro,69,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2883801004,680000,Apartamento,Guarapari,Centro,83,2,1,2,1,False,True,False,True,False,True,False,False,False,Guarapari
+2869005890,550000,Apartamento,Guarapari,Centro,80,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2869678072,729149,Apartamento,Guarapari,Praia do Morro,70,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2555717827,400000,Apartamento,Guarapari,Centro,58,1,1,1,0,True,True,True,True,True,True,False,False,False,Guarapari
+2797730122,1000000,Apartamento,Guarapari,Praia do Morro,430,3,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2688782754,380000,Apartamento,Guarapari,Praia do Morro,62,1,2,1,0,False,False,False,False,True,False,False,False,False,Guarapari
+2863817867,550000,Cobertura,Guarapari,Praia do Morro,100,2,3,1,1,False,False,False,False,False,True,True,False,True,Guarapari
+2729537826,1290000,Apartamento,Guarapari,Praia do Morro,100,3,2,2,1,False,False,False,False,False,False,False,False,True,Guarapari
+2875527945,850000,Apartamento,Guarapari,Centro,137,3,1,1,1,False,False,False,False,True,False,False,False,False,Guarapari
+2883802401,520000,Apartamento,Guarapari,Enseada Azul,75,2,2,1,1,False,False,False,False,True,False,False,False,True,Guarapari
+2734837527,800000,Apartamento,Guarapari,Praia do Morro,85,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2881169757,730000,Apartamento,Guarapari,Centro,115,2,3,1,1,False,True,False,False,False,True,False,False,True,Guarapari
+2829651022,750000,Cobertura,Guarapari,Praia do Morro,180,3,5,3,2,False,False,False,False,False,False,True,False,True,Guarapari
+2579667917,500000,Apartamento,Guarapari,Centro,100,2,3,1,2,False,False,False,False,False,True,False,False,False,Guarapari
+2801779331,950000,Apartamento,Guarapari,Praia do Morro,98,3,2,2,0,False,True,True,False,False,False,False,False,False,Guarapari
+2894402795,1390000,Casa,Guarapari,Nova Guarapari,250,3,3,4,1,False,False,False,False,False,False,False,False,False,Guarapari
+2586242268,805000,Apartamento,Guarapari,Praia do Morro,87,3,3,2,2,False,True,False,False,True,True,False,False,False,Guarapari
+2846428233,400000,Apartamento,Guarapari,Centro,54,1,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2846955024,850000,Apartamento,Guarapari,Praia do Morro,100,3,1,2,1,False,False,False,False,False,False,False,False,True,Guarapari
+2881209788,1290000,Apartamento,Guarapari,Praia do Morro,148,4,2,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2890391477,690000,Apartamento,Guarapari,Centro,70,2,2,0,0,True,True,False,False,False,True,False,False,False,Guarapari
+2868396917,400000,Apartamento,Guarapari,Centro,84,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2865345861,740000,Apartamento,Guarapari,Centro,80,2,2,0,0,False,False,False,False,False,False,False,False,True,Guarapari
+2877663278,950000,Apartamento,Guarapari,Praia do Morro,95,3,3,1,1,True,False,False,True,False,False,False,False,True,Guarapari
+2790768541,650000,Apartamento,Guarapari,Centro,76,2,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2789574613,550000,Apartamento,Guarapari,Centro,140,2,2,0,1,False,True,False,False,True,True,False,False,False,Guarapari
+2889423175,750000,Casa,Guarapari,Itapebussu,110,3,2,0,1,False,True,False,False,False,False,False,False,False,Guarapari
+2892534616,1580000,Apartamento,Guarapari,Enseada Azul,125,3,3,0,2,True,True,True,True,False,True,False,False,True,Guarapari
+2846922615,560000,Apartamento,Guarapari,Praia do Morro,80,2,3,0,1,True,True,False,True,False,True,False,False,True,Guarapari
+2827152016,900000,Apartamento,Guarapari,Praia do Morro,120,3,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2871124452,635000,Apartamento,Guarapari,Praia do Morro,80,2,2,1,1,True,True,False,True,False,True,False,False,False,Guarapari
+2848958230,850000,Cobertura,Guarapari,Praia do Morro,240,4,1,1,0,False,False,False,False,False,False,True,False,False,Guarapari
+2795446415,760000,Apartamento,Guarapari,Praia do Morro,60,2,1,1,1,True,False,True,False,False,False,False,False,False,Guarapari
+2857549077,450000,Apartamento,Guarapari,São Judas Tadeu,80,2,2,1,1,False,False,False,False,True,False,False,False,False,Guarapari
+2851860115,475000,Apartamento,Guarapari,Praia do Morro,112,2,2,1,1,False,False,False,False,True,False,False,False,False,Guarapari
+2555717725,3100000,Apartamento,Guarapari,Centro,250,4,5,3,4,True,True,False,True,False,True,False,False,False,Guarapari
+2883159134,730000,Apartamento,Guarapari,Praia do Morro,110,3,3,1,0,False,False,False,False,False,True,False,False,False,Guarapari
+2894403078,645000,Apartamento,Guarapari,Praia do Morro,88,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2642234839,430000,Apartamento,Guarapari,Praia do Morro,75,2,3,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2829823525,550000,Apartamento,Guarapari,Centro,101,2,3,0,1,False,False,False,False,False,True,False,False,True,Guarapari
+2806090728,821116,Apartamento,Guarapari,Centro,73,2,2,1,0,True,True,True,True,False,True,False,False,True,Guarapari
+2893439776,800000,Apartamento,Guarapari,Centro,97,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2891634202,920000,Apartamento,Guarapari,Praia do Morro,90,3,3,1,1,False,True,False,False,False,False,False,False,True,Guarapari
+2873064302,860000,Apartamento,Guarapari,Praia do Morro,95,3,2,1,1,False,False,False,True,False,True,False,False,False,Guarapari
+2888113121,550000,Apartamento,Guarapari,Praia do Morro,110,3,3,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2885963188,815000,Apartamento,Guarapari,Praia do Morro,90,2,2,1,0,True,False,True,True,False,True,False,True,False,Guarapari
+2735222103,960815,Apartamento,Guarapari,Muquiçaba,136,3,2,2,0,False,False,False,False,False,False,False,False,True,Guarapari
+2864192260,750000,Apartamento,Guarapari,Praia do Morro,75,2,2,1,1,False,False,False,False,True,False,False,False,False,Guarapari
+2872088513,420000,Apartamento,Guarapari,Muquiçaba,300,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2862025757,740000,Apartamento,Guarapari,Centro,68,2,2,2,1,True,True,True,False,True,True,False,False,False,Guarapari
+2576621594,650000,Apartamento,Guarapari,Centro,70,2,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2886488868,875000,Apartamento,Guarapari,Praia do Morro,80,2,2,0,1,True,False,False,False,False,True,False,False,False,Guarapari
+2882879626,680000,Apartamento,Guarapari,Centro,86,2,2,0,1,False,True,True,False,False,True,False,False,False,Guarapari
+2874512704,660000,Apartamento,Guarapari,Centro,95,3,3,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2894390273,1500000,Cobertura,Guarapari,Centro,170,3,4,0,1,False,False,False,False,False,False,True,False,True,Guarapari
+2573069392,430000,Apartamento,Guarapari,São Judas Tadeu,55,1,1,0,0,True,False,True,True,False,True,False,False,False,Guarapari
+2896039777,550000,Apartamento,Guarapari,Praia do Morro,95,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2893935407,730000,Apartamento,Guarapari,Centro,90,3,2,0,1,False,True,False,False,False,False,False,False,False,Guarapari
+2732236120,1250000,Apartamento,Guarapari,Praia do Morro,130,3,2,0,1,False,False,True,True,False,False,False,False,False,Guarapari
+2877316784,525000,Apartamento,Guarapari,Praia do Morro,65,2,1,1,1,False,True,False,False,True,True,False,False,False,Guarapari
+2875298179,798000,Sobrado,Guarapari,Santa Mônica,180,3,4,2,3,False,False,False,False,False,False,False,False,False,Guarapari
+2743304634,370000,Apartamento,Guarapari,Centro,78,1,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2839137963,600000,Apartamento,Guarapari,Centro,75,2,3,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2771985516,420000,Apartamento,Guarapari,Centro,68,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2880957777,1600000,Apartamento,Guarapari,Enseada Azul,99,3,2,2,1,True,False,True,True,True,True,False,False,False,Guarapari
+2890684481,1050000,Apartamento,Guarapari,Praia do Morro,65,2,1,1,1,False,True,True,False,True,False,False,False,False,Guarapari
+2889422580,595000,Apartamento,Guarapari,Praia do Morro,90,2,2,1,1,True,True,False,False,True,True,False,False,True,Guarapari
+2764006430,650000,Apartamento,Guarapari,Centro,90,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2866803488,700000,Apartamento,Guarapari,Praia do Morro,74,2,1,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2884739834,600000,Apartamento,Guarapari,Praia do Morro,115,2,3,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2892366326,490000,Duplex,Guarapari,Nova Guarapari,62,2,2,1,1,True,False,True,True,True,False,False,True,False,Guarapari
+2686044650,650000,Apartamento,Guarapari,Centro,96,3,3,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2831308319,690000,Apartamento,Guarapari,Praia do Morro,98,2,2,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2889422777,495000,Cobertura,Guarapari,Praia do Morro,120,3,3,1,2,False,True,False,False,True,False,True,False,False,Guarapari
+2538228987,1005939,Apartamento,Guarapari,Centro,144,2,3,1,2,False,False,False,False,False,False,False,False,False,Guarapari
+2826857020,580000,Apartamento,Guarapari,Praia do Morro,85,2,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2826906113,1800000,Apartamento,Guarapari,Enseada Azul,125,3,1,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2866803487,798000,Apartamento,Guarapari,Praia do Morro,98,3,2,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2838558411,820000,Casa de condomínio,Guarapari,Village do Sol,240,4,4,5,1,True,True,False,False,False,False,False,False,False,Guarapari
+2866104176,950000,Apartamento,Guarapari,São Judas Tadeu,83,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2889423276,866412,Apartamento,Guarapari,Enseada Azul,85,2,2,0,3,True,True,True,False,False,True,False,False,False,Guarapari
+2791180522,900000,Apartamento,Guarapari,Condados,145,3,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2734131331,1442197,Apartamento,Guarapari,Praia do Morro,122,3,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2895103386,900000,Apartamento,Guarapari,Enseada Azul,76,2,2,0,1,True,True,True,True,True,True,False,True,False,Guarapari
+2892363910,420000,Cobertura,Guarapari,Praia do Morro,110,2,2,0,0,False,False,False,True,True,False,True,False,False,Guarapari
+2889420515,695000,Cobertura,Guarapari,Praia do Morro,176,4,3,0,2,False,True,True,False,False,False,True,False,True,Guarapari
+2829058057,700000,Apartamento,Guarapari,Muquiçaba,68,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2865499869,850604,Apartamento,Guarapari,Praia do Morro,69,2,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2870644389,565000,Apartamento,Guarapari,Praia do Morro,70,2,3,0,2,False,True,True,False,False,True,False,False,False,Guarapari
+2888937107,800000,Apartamento,Guarapari,Praia do Morro,180,4,4,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2870342113,890000,Apartamento,Guarapari,Praia do Morro,120,4,3,1,1,False,True,False,False,False,True,False,True,True,Guarapari
+2741968491,1000000,Apartamento,Guarapari,Praia do Morro,59,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2710559019,550000,Apartamento,Guarapari,Nova Guarapari,58,1,1,1,0,True,False,True,True,False,True,False,False,False,Guarapari
+2875522409,900000,Apartamento,Guarapari,Praia do Morro,99,3,1,2,1,False,True,True,False,False,False,False,False,False,Guarapari
+2843486029,800000,Cobertura,Guarapari,Nova Guarapari,180,3,4,2,1,True,True,False,True,True,False,True,False,False,Guarapari
+2708901554,1000000,Apartamento,Guarapari,Praia do Morro,116,3,3,2,1,True,True,True,True,False,True,False,False,True,Guarapari
+2889422297,1300000,Apartamento,Guarapari,Muquiçaba,94,3,2,2,1,True,True,True,False,False,True,False,False,True,Guarapari
+2893655587,850000,Apartamento,Guarapari,Centro,122,3,1,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2613023026,490000,Apartamento,Guarapari,Praia do Morro,80,2,3,1,2,False,True,False,False,False,True,False,False,False,Guarapari
+2869904787,389000,Apartamento,Guarapari,Praia do Morro,54,2,1,1,1,False,True,True,False,True,False,False,False,False,Guarapari
+2874927092,720000,Apartamento,Guarapari,São Judas Tadeu,120,3,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2889655383,900000,Apartamento,Guarapari,Praia do Morro,110,3,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2838371628,650000,Casa,Guarapari,Jardim Santa Rosa,140,4,3,3,0,False,True,False,False,False,False,False,False,False,Guarapari
+2765782421,890000,Apartamento,Guarapari,Praia do Morro,95,3,1,2,1,False,False,False,False,False,False,False,False,True,Guarapari
+2843479272,620000,Apartamento,Guarapari,Centro,90,3,2,1,2,False,True,False,False,False,True,False,False,True,Guarapari
+2787495928,775400,Apartamento,Guarapari,Enseada Azul,69,2,2,1,0,True,False,True,True,False,False,False,False,False,Guarapari
+2840784724,650000,Apartamento,Guarapari,Muquiçaba,65,2,2,1,1,False,False,True,True,False,True,False,False,True,Guarapari
+2790616813,1100000,Apartamento,Guarapari,Praia do Morro,150,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2877314341,750000,Apartamento,Guarapari,Praia do Morro,80,2,1,2,1,True,False,False,True,False,False,False,False,False,Guarapari
+2894386498,350000,Duplex,Guarapari,Praia do Morro,50,1,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2894972193,750000,Apartamento,Guarapari,Praia do Morro,120,3,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2862656458,590000,Apartamento,Guarapari,Praia do Morro,59,2,1,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2740843907,1000000,Apartamento,Guarapari,Praia do Morro,104,3,1,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2887483523,650000,Apartamento,Guarapari,Praia do Morro,68,2,1,0,1,False,True,True,True,False,False,False,False,False,Guarapari
+2637158086,550000,Apartamento,Guarapari,Praia do Morro,130,3,3,0,1,False,True,False,False,False,False,False,False,False,Guarapari
+2790602420,680000,Apartamento,Guarapari,Centro,78,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2797379320,1200000,Apartamento,Guarapari,Praia do Morro,113,3,1,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2842101531,1250000,Apartamento,Guarapari,Sol Nascente,250,5,5,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2889422191,2550000,Casa,Guarapari,Itapebussu,720,4,3,0,1,True,True,True,False,False,False,False,False,False,Guarapari
+2747490735,650000,Apartamento,Guarapari,Centro,75,2,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2890979977,850000,Apartamento,Guarapari,Muquiçaba,115,3,1,1,0,False,False,False,False,False,False,False,False,True,Guarapari
+2888163096,390000,Casa,Guarapari,Paturá,144,3,2,3,1,False,True,False,False,False,False,False,True,False,Guarapari
+2892541778,865000,Apartamento,Guarapari,Praia do Morro,84,2,2,1,0,False,False,False,False,True,True,False,False,True,Guarapari
+2885450456,785952,Apartamento,Guarapari,Praia do Morro,100,3,2,1,0,True,False,True,True,False,True,False,True,True,Guarapari
+2818084430,770000,Apartamento,Guarapari,Praia do Morro,115,4,3,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2723513715,650000,Apartamento,Guarapari,Praia do Morro,75,2,3,1,2,False,False,False,False,False,True,False,False,False,Guarapari
+2882689818,470000,Apartamento,Guarapari,Praia do Morro,75,2,2,1,1,False,True,False,False,True,True,False,False,False,Guarapari
+2870343773,750000,Apartamento,Guarapari,Praia do Morro,69,2,2,1,0,False,True,True,True,False,True,False,False,True,Guarapari
+2877246973,550000,Casa,Guarapari,Santa Mônica,110,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2868115780,1100000,Apartamento,Guarapari,Muquiçaba,114,3,2,2,1,False,False,False,False,False,True,False,False,False,Guarapari
+2879708982,680000,Apartamento,Guarapari,Centro,68,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2893394981,570000,Apartamento,Guarapari,Praia do Morro,70,2,3,0,1,False,False,False,False,True,False,False,False,False,Guarapari
+2749774841,880000,Apartamento,Guarapari,Centro,59,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2795767818,980000,Apartamento,Guarapari,Praia do Morro,135,3,1,2,2,False,False,False,False,False,False,False,False,True,Guarapari
+2884958616,850000,Casa,Guarapari,Meaípe,182,3,3,3,1,False,True,False,False,False,False,False,False,False,Guarapari
+2766638727,664000,Apartamento,Guarapari,Praia do Morro,69,2,2,1,0,True,True,False,True,False,False,False,False,False,Guarapari
+2872677398,680000,Apartamento,Guarapari,Enseada Azul,70,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2724366430,749000,Apartamento,Guarapari,Praia do Morro,65,2,2,1,1,False,False,True,True,False,True,False,False,False,Guarapari
+2840761834,700000,Apartamento,Guarapari,Centro,78,2,2,1,1,False,False,False,False,False,True,False,False,True,Guarapari
+2878520688,540000,Apartamento,Guarapari,Praia do Morro,85,2,2,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2753265793,1550000,Apartamento,Guarapari,Praia do Morro,130,3,2,0,2,False,False,False,False,False,False,False,False,True,Guarapari
+2894403074,1150000,Casa,Guarapari,Praia do Morro,122,3,4,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2869120981,1600000,Apartamento,Guarapari,Centro,95,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2724972455,570000,Apartamento,Guarapari,Praia do Morro,84,3,2,0,1,False,True,True,True,True,True,False,False,False,Guarapari
+2854959417,395000,Apartamento,Guarapari,Praia do Morro,80,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2738695450,890000,Apartamento,Guarapari,Muquiçaba,67,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2848112543,870000,Apartamento,Guarapari,Enseada Azul,105,2,1,0,1,True,True,True,False,True,True,False,False,False,Guarapari
+2843484033,1350000,Cobertura,Guarapari,Enseada Azul,180,4,4,0,3,False,True,False,True,True,True,True,False,False,Guarapari
+2870341906,680000,Apartamento,Guarapari,Praia do Morro,100,3,2,0,0,False,True,False,True,False,True,False,False,True,Guarapari
+2852403480,630000,Casa,Guarapari,Santa Mônica,114,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2883897336,700000,Apartamento,Guarapari,Muquiçaba,80,3,2,1,0,False,False,False,False,False,True,False,False,False,Guarapari
+2729329966,370000,Apartamento,Guarapari,Praia do Morro,60,2,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2856098216,430000,Apartamento,Guarapari,Praia do Morro,127,2,3,1,1,False,True,False,False,True,False,False,False,False,Guarapari
+2896040499,380000,Apartamento,Guarapari,Praia do Morro,60,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2569056389,650000,Apartamento,Guarapari,Praia do Morro,102,3,2,1,1,False,True,False,False,True,True,False,False,False,Guarapari
+2724971033,1300000,Apartamento,Guarapari,Lameirão,110,3,3,2,1,True,True,False,False,False,True,False,False,False,Guarapari
+2875867987,620000,Apartamento,Guarapari,Praia do Morro,80,2,2,1,0,False,False,False,False,False,False,False,False,True,Guarapari
+2700180282,860000,Apartamento,Guarapari,Praia do Morro,99,3,2,1,1,False,False,False,True,True,True,False,False,False,Guarapari
+2871125592,1200000,Apartamento,Guarapari,Praia do Morro,110,3,2,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2803951320,690000,Apartamento,Guarapari,Praia do Morro,84,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2731694624,1300000,Apartamento,Guarapari,Centro,140,4,5,2,4,False,False,False,False,False,False,False,False,False,Guarapari
+2893656873,450000,Apartamento,Guarapari,Praia do Morro,147,3,3,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2831288361,700000,Apartamento,Guarapari,Ipiranga,122,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2887474679,720000,Apartamento,Guarapari,Praia do Morro,79,2,3,2,0,False,True,True,True,False,True,False,False,False,Guarapari
+2866384283,595000,Apartamento,Guarapari,Centro,64,2,2,1,1,True,False,False,True,False,False,False,False,False,Guarapari
+2865472803,850000,Apartamento,Guarapari,Ipiranga,78,2,2,2,1,False,True,True,False,False,False,False,False,True,Guarapari
+2884461406,1577720,Apartamento,Guarapari,Praia do Morro,101,3,2,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2856691181,750000,Apartamento,Guarapari,Praia do Morro,75,3,3,1,1,False,False,False,False,False,True,False,False,True,Guarapari
+2843483727,1060000,Apartamento,Guarapari,Praia do Morro,80,2,2,1,1,True,True,True,False,False,False,False,False,True,Guarapari
+2883800233,430000,Apartamento,Guarapari,Centro,52,1,2,1,0,False,True,False,False,False,True,False,False,False,Guarapari
+2870095274,700000,Apartamento,Guarapari,Centro,92,3,3,0,1,False,False,False,True,False,True,False,False,False,Guarapari
+2893336483,420000,Casa,Guarapari,Praia do Riacho,75,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2843486217,1800000,Casa,Guarapari,Nova Guarapari,264,4,4,0,1,True,True,False,False,False,False,False,False,False,Guarapari
+2882402882,620000,Cobertura,Guarapari,Praia do Morro,150,3,3,0,3,False,True,True,False,True,True,True,False,False,Guarapari
+2893541582,1280000,Apartamento,Guarapari,Praia do Morro,117,3,3,0,3,True,True,True,False,False,True,False,False,True,Guarapari
+2894394793,3000000,Casa,Guarapari,Buenos Aires,2100,4,2,0,3,False,False,False,False,False,False,False,False,False,Guarapari
+2708024357,740000,Apartamento,Guarapari,São Judas Tadeu,80,2,2,0,1,False,True,False,False,False,True,False,False,False,Guarapari
+2873807678,500000,Apartamento,Guarapari,Praia do Morro,105,3,3,0,1,False,True,False,False,False,False,False,False,False,Guarapari
+2741699862,1600000,Apartamento,Guarapari,Praia do Morro,213,4,3,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2596861356,690000,Apartamento,Guarapari,Centro,110,3,1,1,1,False,False,False,False,True,True,False,False,False,Guarapari
+2893854875,680000,Apartamento,Guarapari,Centro,150,3,2,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2692474786,860000,Apartamento,Guarapari,Praia do Morro,74,2,7,3,1,True,True,True,True,False,True,False,False,True,Guarapari
+2821360848,680000,Casa,Guarapari,Santa Mônica,150,5,2,8,2,False,False,False,False,False,False,False,False,False,Guarapari
+2890128983,420000,Apartamento,Guarapari,Praia do Morro,70,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2838371925,680000,Casa,Guarapari,Nova Guarapari,129,3,3,2,1,False,True,False,False,False,False,False,False,False,Guarapari
+2881463300,700000,Apartamento,Guarapari,Praia do Morro,78,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2596863668,380000,Apartamento,Guarapari,Centro,60,1,2,1,0,False,False,False,False,False,True,False,False,False,Guarapari
+2893658685,600000,Apartamento,Guarapari,Praia do Morro,97,3,3,1,2,False,False,False,False,False,False,False,False,False,Guarapari
+2888482594,2000000,Apartamento,Guarapari,Enseada Azul,137,4,4,3,1,True,True,True,False,False,False,False,False,True,Guarapari
+2741076181,1100000,Apartamento,Guarapari,Centro,400,3,4,3,2,False,False,False,False,False,False,False,False,False,Guarapari
+2885479685,198000,Casa,Guarapari,Santa Mônica,80,2,2,3,0,True,False,False,False,True,False,False,False,False,Guarapari
+2879642585,450000,Apartamento,Guarapari,Centro,90,2,1,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2889422773,890000,Apartamento,Guarapari,Praia do Morro,105,3,2,1,0,False,True,False,False,False,True,False,False,False,Guarapari
+2883798040,795000,Apartamento,Guarapari,Praia do Morro,138,3,3,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2880299285,1450000,Apartamento,Guarapari,Centro,100,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2870679892,630000,Casa,Guarapari,Perocão,149,3,2,1,1,False,False,False,False,True,True,False,False,False,Guarapari
+2851009282,400000,Apartamento,Guarapari,Praia do Morro,64,2,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2819830334,820000,Apartamento,Guarapari,Centro,145,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2822516013,850000,Apartamento,Guarapari,Muquiçaba,90,3,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2863817597,680000,Apartamento,Guarapari,Praia do Morro,73,2,2,1,1,False,False,True,True,False,True,False,False,False,Guarapari
+2749864928,780000,Apartamento,Guarapari,Praia do Morro,70,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2881171185,950000,Apartamento,Guarapari,Praia do Morro,86,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2869090079,850000,Apartamento,Guarapari,Praia do Morro,117,3,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2686837416,420000,Apartamento,Guarapari,Praia do Morro,55,1,1,0,0,False,False,False,False,True,True,False,False,False,Guarapari
+2837753324,485000,Apartamento,Guarapari,Praia do Morro,85,3,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2849158437,790000,Apartamento,Guarapari,Praia do Morro,120,1,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2761167420,420000,Apartamento,Guarapari,Praia do Morro,58,2,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2891121480,850000,Apartamento,Guarapari,Centro,80,2,2,0,1,False,True,False,False,True,True,False,False,True,Guarapari
+2891949478,550000,Cobertura,Guarapari,Praia do Morro,150,4,4,0,0,False,False,False,False,False,False,True,False,False,Guarapari
+2878610078,750000,Apartamento,Guarapari,Centro,77,2,3,2,2,False,False,False,False,False,True,False,False,False,Guarapari
+2852354337,670000,Apartamento,Guarapari,Centro,68,2,3,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2800008448,600000,Apartamento,Guarapari,Enseada Azul,70,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2843484632,700000,Apartamento,Guarapari,Enseada Azul,90,2,2,3,0,True,True,True,True,True,True,False,False,False,Guarapari
+2889758673,865000,Apartamento,Guarapari,Praia do Morro,95,3,2,1,1,False,True,False,False,False,True,False,False,True,Guarapari
+2892287978,350000,Casa,Guarapari,Setiba,251,4,2,0,1,True,True,False,False,True,False,False,False,False,Guarapari
+2869529739,680000,Apartamento,Guarapari,Centro,68,2,3,1,1,False,True,False,False,True,True,False,False,False,Guarapari
+2838367410,1475000,Apartamento,Guarapari,Praia do Morro,118,3,3,3,3,True,False,False,True,False,True,False,False,False,Guarapari
+2883798483,750000,Cobertura,Guarapari,Praia do Morro,12,3,1,1,1,False,False,False,False,True,False,True,False,False,Guarapari
+2870982474,530000,Apartamento,Guarapari,Centro,100,3,3,1,1,False,False,False,False,True,True,False,False,False,Guarapari
+2847199723,520000,Apartamento,Guarapari,Centro,100,3,2,1,1,False,True,True,False,True,True,False,False,False,Guarapari
+2827402130,550000,Casa,Guarapari,Kubitschek,313,5,4,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2810596613,1690000,Apartamento,Guarapari,Muquiçaba,107,3,2,2,1,True,True,False,True,True,False,False,False,False,Guarapari
+2877221693,620000,Apartamento,Guarapari,Centro,84,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2660810661,916280,Apartamento,Guarapari,Praia do Morro,92,3,2,2,0,True,False,False,True,False,True,False,False,False,Guarapari
+2770833745,1700000,Apartamento,Guarapari,Centro,230,3,3,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2873781776,750000,Apartamento,Guarapari,Centro,88,2,1,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2841877172,950000,Apartamento,Guarapari,Centro,80,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2869075180,750000,Apartamento,Guarapari,Centro,60,2,2,1,1,True,True,False,True,False,True,False,False,False,Guarapari
+2866467588,800000,Apartamento,Guarapari,Praia do Morro,200,5,1,2,0,False,False,False,False,False,False,False,False,True,Guarapari
+2884938130,480000,Apartamento,Guarapari,Centro,52,2,1,0,0,False,False,False,False,False,True,False,False,True,Guarapari
+2569808412,850000,Apartamento,Guarapari,Centro,167,3,3,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2843479866,1500000,Casa,Guarapari,Perocão,180,3,4,0,1,False,True,False,False,False,False,False,False,False,Guarapari
+2865475483,743000,Apartamento,Guarapari,Praia do Morro,82,2,2,0,0,False,True,True,True,False,True,False,False,False,Guarapari
+2652819230,850000,Apartamento,Guarapari,Centro,100,3,3,0,1,True,True,True,True,True,True,False,True,False,Guarapari
+2891521708,650000,Apartamento,Guarapari,São Judas Tadeu,78,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2862656357,550000,Apartamento,Guarapari,Praia do Morro,54,2,1,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2889249790,1627524,Apartamento,Guarapari,Muquiçaba,103,3,2,2,3,False,False,False,False,False,True,False,False,False,Guarapari
+2735083023,680000,Apartamento,Guarapari,Praia do Morro,80,2,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2869625526,430000,Apartamento,Guarapari,Praia do Morro,100,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2818254564,550000,Apartamento,Guarapari,Centro,100,3,3,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2893931725,460000,Apartamento,Guarapari,Enseada Azul,67,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2839344919,700000,Apartamento,Guarapari,Centro,110,3,1,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2843481567,900000,Casa,Guarapari,Itapebussu,136,3,3,2,3,False,True,False,False,False,False,False,False,False,Guarapari
+2837196614,750000,Apartamento,Guarapari,Praia do Morro,88,2,3,1,0,False,False,False,False,False,False,False,False,True,Guarapari
+2889758480,850000,Apartamento,Guarapari,Praia do Morro,117,3,3,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2850553245,680000,Apartamento,Guarapari,Praia do Morro,73,2,2,1,0,False,False,True,True,False,False,False,False,False,Guarapari
+2774662315,760000,Apartamento,Guarapari,Centro,83,2,2,2,1,False,False,False,True,False,True,False,False,False,Guarapari
+2870341467,1004000,Apartamento,Guarapari,Praia do Morro,100,3,2,2,0,False,False,True,True,False,True,False,False,False,Guarapari
+2604778908,780000,Apartamento,Guarapari,Centro,70,2,1,1,1,True,True,False,True,False,True,False,False,False,Guarapari
+2894536386,480000,Apartamento,Guarapari,Centro,82,2,2,1,0,False,True,False,False,True,True,False,False,False,Guarapari
+2857547202,650000,Apartamento,Guarapari,Nova Guarapari,100,3,3,1,2,True,True,True,True,True,True,False,False,True,Guarapari
+2863818261,1280000,Apartamento,Guarapari,Praia do Morro,70,2,2,2,0,True,False,True,True,False,False,False,False,False,Guarapari
+2592094986,3350000,Apartamento,Guarapari,Praia do Morro,180,3,4,2,3,False,True,True,True,True,True,False,False,False,Guarapari
+2654914474,1800000,Apartamento,Guarapari,Praia do Morro,150,4,6,2,4,True,False,False,True,True,True,False,False,False,Guarapari
+2806934822,850000,Apartamento,Guarapari,Praia do Morro,115,3,2,1,2,False,False,False,False,True,True,False,False,False,Guarapari
+2838372124,760000,Apartamento,Guarapari,Centro,83,2,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2839537501,470000,Apartamento,Guarapari,Praia do Morro,70,2,2,1,1,False,True,False,False,True,False,False,False,False,Guarapari
+2831301205,1200000,Apartamento,Guarapari,Praia do Morro,120,3,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2843481468,670000,Apartamento,Guarapari,Enseada Azul,81,2,1,3,0,True,False,True,True,False,True,False,False,False,Guarapari
+2623254742,1580000,Apartamento,Guarapari,Centro,120,3,2,2,1,True,True,True,True,False,False,False,True,False,Guarapari
+2877612701,1200000,Apartamento,Guarapari,Praia do Morro,164,3,2,0,1,False,True,True,True,False,False,False,False,True,Guarapari
+2893938477,700000,Apartamento,Guarapari,Centro,120,3,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2889422778,880000,Apartamento,Guarapari,Praia do Morro,74,2,2,0,1,True,True,True,False,False,True,False,False,False,Guarapari
+2791352232,690000,Apartamento,Guarapari,Praia do Morro,100,2,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2809382701,790000,Apartamento,Guarapari,Centro,105,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2881388434,400000,Apartamento,Guarapari,Praia do Morro,68,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2888043378,1193400,Apartamento,Guarapari,Praia do Morro,102,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2896717488,450000,Apartamento,Guarapari,Praia do Morro,85,3,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2878479193,350000,Apartamento,Guarapari,Centro,46,1,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2821300753,730000,Apartamento,Guarapari,Centro,90,3,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2600472773,499000,Apartamento,Guarapari,Praia do Morro,80,2,1,1,1,False,False,False,False,True,False,False,False,False,Guarapari
+2714591923,970000,Casa,Guarapari,Praia do Morro,136,3,4,1,3,False,True,True,False,False,False,False,False,False,Guarapari
+2793462831,500000,Apartamento,Guarapari,Praia do Morro,45,1,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2818256632,750000,Casa,Guarapari,Muquiçaba,225,3,1,5,0,False,False,False,False,False,False,False,False,False,Guarapari
+2887115683,750000,Apartamento,Guarapari,Praia do Morro,115,3,3,1,2,False,False,True,True,False,True,False,False,False,Guarapari
+2873028811,1300000,Apartamento,Guarapari,Praia do Morro,169,3,3,1,1,False,False,False,True,False,True,False,False,True,Guarapari
+2879149093,630000,Apartamento,Guarapari,Centro,82,2,2,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2881621586,490000,Apartamento,Guarapari,Enseada Azul,65,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2793433526,700000,Apartamento,Guarapari,Centro,150,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2872490614,990000,Apartamento,Guarapari,Praia do Morro,99,3,3,2,2,False,False,False,False,True,False,False,False,True,Guarapari
+2838310016,798000,Apartamento,Guarapari,Praia do Morro,80,2,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2896464808,450000,Apartamento,Guarapari,Praia do Morro,65,1,2,1,0,False,False,False,False,True,False,False,False,False,Guarapari
+2896168185,690000,Apartamento,Guarapari,Praia do Morro,90,3,3,1,1,False,False,False,True,False,False,False,False,False,Guarapari
+2835303249,580000,Apartamento,Guarapari,Praia do Morro,140,3,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2847080729,900000,Apartamento,Guarapari,Praia do Morro,80,3,2,2,1,False,False,False,False,False,True,False,False,False,Guarapari
+2586253458,290000,Apartamento,Guarapari,Pontal de Santa Mônica,96,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2798814429,1250000,Apartamento,Guarapari,Praia do Morro,115,3,3,3,1,False,False,False,False,False,True,False,False,True,Guarapari
+2895102809,570000,Apartamento,Guarapari,São Judas Tadeu,75,2,2,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2771431347,490000,Apartamento,Guarapari,Praia do Morro,132,3,1,1,2,False,False,False,False,False,False,False,False,False,Guarapari
+2886304899,690000,Apartamento,Guarapari,Centro,70,2,1,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2806004923,549000,Apartamento,Guarapari,Praia do Morro,85,2,3,0,1,False,False,False,False,True,False,False,False,False,Guarapari
+2642905227,880000,Casa,Guarapari,Itapebussu,300,4,3,0,1,False,True,False,True,False,False,False,False,False,Guarapari
+2884801979,1100000,Apartamento,Guarapari,Centro,90,1,2,0,2,False,False,True,False,True,False,False,False,True,Guarapari
+2887837498,740000,Apartamento,Guarapari,Muquiçaba,120,2,2,0,0,False,True,False,False,True,True,False,False,False,Guarapari
+2866344183,590000,Casa,Guarapari,Village do Sol,100,4,4,0,2,True,True,True,True,False,False,False,True,False,Guarapari
+2825241019,1250000,Apartamento,Guarapari,Enseada Azul,105,3,1,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2838372022,720000,Apartamento,Guarapari,Centro,75,2,1,0,1,False,True,False,False,False,True,False,False,False,Guarapari
+2894849391,525000,Apartamento,Guarapari,Centro,101,2,2,0,1,False,True,False,False,False,False,False,False,False,Guarapari
+2724970844,1890000,Apartamento,Guarapari,Enseada Azul,120,3,2,0,1,True,True,True,False,True,True,False,False,False,Guarapari
+2738702921,1200000,Apartamento,Guarapari,Praia do Morro,94,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2847476062,690000,Apartamento,Guarapari,Praia do Morro,67,2,3,2,2,True,True,True,True,False,True,False,False,True,Guarapari
+2829649273,707000,Casa,Guarapari,Santa Mônica,390,2,3,4,1,False,False,False,False,False,False,False,False,False,Guarapari
+2695649717,950000,Apartamento,Guarapari,Praia do Morro,110,3,3,2,1,False,False,False,False,False,True,False,False,False,Guarapari
+2811396615,970000,Apartamento,Guarapari,Centro,90,3,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2880642626,800000,Apartamento,Guarapari,Centro,80,2,2,2,1,False,False,False,False,False,True,False,False,False,Guarapari
+2883803593,750000,Apartamento,Guarapari,Praia do Morro,110,3,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2887471008,950000,Apartamento,Guarapari,Praia do Morro,98,3,2,2,1,False,True,True,False,False,True,False,False,True,Guarapari
+2891517491,880000,Apartamento,Guarapari,Centro,81,2,2,2,1,True,True,True,True,True,True,False,False,False,Guarapari
+2857548155,550000,Apartamento,Guarapari,Nova Guarapari,114,2,2,1,1,False,True,True,False,True,False,False,True,False,Guarapari
+2838793755,570000,Apartamento,Guarapari,Praia do Morro,110,2,3,1,1,False,True,False,False,False,True,False,False,True,Guarapari
+2820358025,750000,Apartamento,Guarapari,Praia do Morro,56,2,2,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2852676124,750000,Apartamento,Guarapari,Centro,108,3,3,1,1,False,True,True,True,False,True,False,False,False,Guarapari
+2735574839,450000,Apartamento,Guarapari,Praia do Morro,58,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2879578485,650000,Apartamento,Guarapari,Praia do Morro,72,2,3,1,2,False,False,False,False,False,False,False,False,False,Guarapari
+2628524979,780000,Apartamento,Guarapari,Praia do Morro,90,3,2,1,1,False,False,False,True,False,True,False,False,False,Guarapari
+2727164452,1700000,Apartamento,Guarapari,Centro,119,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2556406269,490000,Apartamento,Guarapari,Centro,140,3,2,1,1,False,False,False,True,True,True,False,False,False,Guarapari
+2812884437,894800,Apartamento,Guarapari,Centro,70,2,2,1,1,True,True,True,False,False,True,False,False,True,Guarapari
+2892085027,670000,Apartamento,Guarapari,São Judas Tadeu,110,3,3,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2879641786,630000,Apartamento,Guarapari,Centro,122,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2870420887,680000,Apartamento,Guarapari,Centro,68,2,2,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2876488589,750000,Apartamento,Guarapari,Praia do Morro,86,2,3,0,1,False,True,False,False,True,True,False,False,True,Guarapari
+2831378258,570600,Apartamento,Guarapari,Praia do Morro,58,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2809293524,630000,Apartamento,Guarapari,Praia do Morro,59,2,2,0,0,False,True,True,True,False,True,False,True,False,Guarapari
+2852145018,950000,Apartamento,Guarapari,Centro,110,3,3,0,1,False,False,False,True,False,True,False,False,False,Guarapari
+2812884635,816256,Apartamento,Guarapari,Centro,58,2,2,0,1,True,True,True,False,False,True,False,False,True,Guarapari
+2857849753,750000,Apartamento,Guarapari,Centro,70,2,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2858089220,350000,Apartamento,Guarapari,Praia do Morro,70,2,1,0,1,False,False,False,False,True,False,False,False,False,Guarapari
+2887471014,1200000,Apartamento,Guarapari,Praia do Morro,112,3,2,0,1,False,True,False,False,False,True,False,False,True,Guarapari
+2890045676,790000,Casa de condomínio,Guarapari,Village do Sol,240,4,3,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2845047415,130000,Apartamento,Guarapari,Kubitschek,55,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2883801107,550000,Apartamento,Guarapari,Centro,85,2,2,1,0,False,False,False,True,False,True,False,False,True,Guarapari
+2752719125,305716,Apartamento,Guarapari,Meaípe,70,2,2,1,1,False,True,False,False,True,False,False,False,True,Guarapari
+2699297296,890000,Apartamento,Guarapari,Praia do Morro,80,2,1,2,1,True,False,True,True,False,True,False,False,False,Guarapari
+2880009164,1600000,Apartamento,Guarapari,Centro,194,3,2,2,1,False,True,True,True,False,True,False,False,False,Guarapari
+2879172400,650000,Apartamento,Guarapari,Centro,85,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2894395618,1300000,Apartamento,Guarapari,Muquiçaba,153,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2889471807,590000,Apartamento,Guarapari,Praia do Morro,75,2,1,1,1,False,True,True,False,False,False,False,False,True,Guarapari
+2721639391,1200000,Apartamento,Guarapari,Centro,140,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2895423574,420000,Apartamento,Guarapari,Praia do Morro,85,2,2,1,1,False,False,False,False,True,False,False,False,False,Guarapari
+2843484624,850000,Apartamento,Guarapari,Enseada Azul,142,3,3,2,1,False,True,False,False,False,True,False,False,False,Guarapari
+2713351329,751300,Apartamento,Guarapari,Praia do Morro,66,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2809675734,580000,Apartamento,Guarapari,Jardim Santa Rosa,240,3,3,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2444882583,170000,Térrea,Guarapari,Santa Mônica,104,3,3,1,2,False,True,False,False,False,False,False,True,False,Guarapari
+2865602123,590000,Casa,Guarapari,Setiba,80,1,2,2,1,True,False,False,False,False,False,False,True,False,Guarapari
+2773066421,750000,Apartamento,Guarapari,Praia do Morro,153,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2786071623,941715,Apartamento,Guarapari,Praia do Morro,100,3,1,2,3,False,False,False,False,False,False,False,False,False,Guarapari
+2894389588,1500000,Apartamento,Guarapari,Praia do Morro,110,3,2,2,1,False,False,False,False,False,False,False,False,True,Guarapari
+2733356014,500000,Casa,Guarapari,Pontal de Santa Mônica,125,4,2,4,1,False,False,False,False,False,False,False,True,False,Guarapari
+2879823853,550000,Cobertura,Guarapari,Praia do Morro,127,3,4,2,1,False,True,False,False,False,True,True,False,False,Guarapari
+2883801006,550000,Apartamento,Guarapari,Enseada Azul,55,1,1,0,1,True,True,True,True,True,True,False,False,False,Guarapari
+2825971615,525000,Apartamento,Guarapari,Praia do Morro,100,2,1,0,1,False,False,False,False,False,True,False,False,True,Guarapari
+2848744832,959000,Apartamento,Guarapari,Praia do Morro,95,2,2,0,1,False,True,False,False,True,True,False,False,True,Guarapari
+2819089215,750000,Apartamento,Guarapari,Praia do Morro,75,3,1,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2870065115,360000,Apartamento,Guarapari,Praia do Morro,71,2,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2892367277,800000,Apartamento,Guarapari,Praia do Morro,67,2,2,0,1,False,False,False,False,True,True,False,False,True,Guarapari
+2828854357,580000,Apartamento,Guarapari,Praia do Morro,70,2,2,0,1,False,False,False,True,True,True,False,False,False,Guarapari
+2878649354,650000,Apartamento,Guarapari,Praia do Morro,130,3,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2812883232,595000,Apartamento,Guarapari,Centro,68,2,2,0,1,True,True,False,True,False,True,False,False,True,Guarapari
+2812883232,595000,Apartamento,Guarapari,Centro,68,2,2,1,1,True,True,False,True,False,True,False,False,True,Guarapari
+2613013498,300000,Apartamento,Guarapari,Centro,40,1,1,0,0,True,True,False,True,True,True,False,False,False,Guarapari
+2841167320,759900,Apartamento,Guarapari,Praia do Morro,100,3,3,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2888272522,580000,Casa,Guarapari,Nova Guarapari,100,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2894396290,1500000,Apartamento,Guarapari,Praia do Morro,220,3,4,2,2,False,False,False,False,False,False,False,False,True,Guarapari
+2894546288,500000,Casa,Guarapari,Portal,140,3,2,3,1,False,True,False,False,False,False,False,False,False,Guarapari
+2605356373,1800000,Casa,Guarapari,Una,300,3,3,4,1,False,False,False,False,True,False,False,False,False,Guarapari
+2859871071,690000,Apartamento,Guarapari,Enseada Azul,67,2,1,1,2,True,False,False,False,True,True,False,False,False,Guarapari
+2577443553,930000,Apartamento,Guarapari,Muquiçaba,160,3,2,2,1,False,True,True,False,False,True,False,False,False,Guarapari
+2893971439,580000,Apartamento,Guarapari,São Judas Tadeu,71,2,2,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2880839291,630000,Apartamento,Guarapari,Praia do Morro,103,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2887989580,1140000,Casa de condomínio,Guarapari,Recanto da Sereia,400,3,3,10,0,False,False,False,False,True,False,False,False,False,Guarapari
+2837070565,300000,Apartamento,Guarapari,Praia do Morro,84,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2766637248,739166,Apartamento,Guarapari,São Judas Tadeu,73,2,2,1,1,True,True,False,True,False,False,False,False,False,Guarapari
+2888085773,680000,Apartamento,Guarapari,Praia do Morro,100,2,2,1,1,False,False,False,False,False,True,False,False,True,Guarapari
+2776746279,1390000,Apartamento,Guarapari,Lameirão,114,3,2,2,1,True,True,False,True,False,True,False,False,False,Guarapari
+2859273064,750000,Apartamento,Guarapari,Praia do Morro,75,3,2,1,1,False,False,False,False,True,False,False,False,True,Guarapari
+2893653502,430000,Apartamento,Guarapari,Ipiranga,30,1,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2896691882,880000,Apartamento,Guarapari,Praia do Morro,180,3,3,2,1,False,False,True,True,False,True,False,False,False,Guarapari
+2894404074,1900000,Cobertura,Guarapari,Muquiçaba,178,4,5,3,3,False,False,False,False,False,False,True,False,True,Guarapari
+2870094780,720000,Apartamento,Guarapari,Centro,78,2,2,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2892398695,650000,Apartamento,Guarapari,Centro,77,2,2,0,1,True,True,False,True,False,True,False,False,False,Guarapari
+2875882517,1480000,Apartamento,Guarapari,Praia do Morro,88,3,2,2,1,True,True,True,False,True,True,False,False,False,Guarapari
+2577322269,1200000,Apartamento,Guarapari,Praia do Morro,130,3,3,0,1,False,False,False,False,True,True,False,False,False,Guarapari
+2893649942,1390000,Apartamento,Guarapari,Pontal de Santa Mônica,92,3,2,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2888085873,750000,Apartamento,Guarapari,Praia do Morro,110,4,3,0,1,False,False,False,False,False,True,False,False,True,Guarapari
+1480965486,3300000,Cobertura,Guarapari,Enseada Azul,400,4,1,0,1,True,True,True,False,False,True,True,True,False,Guarapari
+2865473793,1850000,Casa,Guarapari,Santa Mônica,800,6,4,0,1,True,True,True,False,False,False,False,False,True,Guarapari
+2849803743,1147500,Apartamento,Guarapari,Praia do Morro,102,3,2,0,1,True,True,True,True,False,False,False,False,False,Guarapari
+2888085282,550000,Apartamento,Guarapari,Praia do Morro,74,2,2,0,1,False,False,False,False,False,True,False,True,True,Guarapari
+2770235402,1050000,Apartamento,Guarapari,Praia do Morro,95,3,1,2,1,True,False,True,True,False,True,False,False,False,Guarapari
+2812881994,750000,Apartamento,Guarapari,Enseada Azul,75,2,2,1,1,True,True,True,False,True,True,False,False,True,Guarapari
+2872596474,480000,Apartamento,Guarapari,Praia do Morro,90,3,1,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2647745332,800000,Apartamento,Guarapari,Praia do Morro,88,3,2,2,1,False,False,False,False,False,True,False,False,True,Guarapari
+2733896225,997800,Apartamento,Guarapari,Praia do Morro,88,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2822282116,1700000,Apartamento,Guarapari,Centro,115,3,2,2,1,True,False,False,False,False,False,False,False,False,Guarapari
+2893807488,845000,Apartamento,Guarapari,Praia do Morro,90,3,2,2,1,False,True,False,False,False,True,False,False,True,Guarapari
+2608058815,690000,Apartamento,Guarapari,Centro,130,3,3,1,1,False,True,False,True,False,True,False,False,False,Guarapari
+2869532696,850600,Apartamento,Guarapari,Centro,72,2,2,1,0,True,True,False,True,False,True,False,False,False,Guarapari
+2885444887,1230000,Apartamento,Guarapari,Praia do Morro,107,3,2,1,0,True,False,False,True,False,True,False,False,True,Guarapari
+2894393168,1500000,Apartamento,Guarapari,Praia do Morro,106,3,3,2,0,False,False,False,False,False,False,False,False,True,Guarapari
+2728835920,650000,Apartamento,Guarapari,Centro,89,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2877798237,780000,Apartamento,Guarapari,Centro,80,2,3,1,0,False,False,False,False,False,True,False,False,False,Guarapari
+2828744921,890000,Apartamento,Guarapari,Praia do Morro,110,3,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2821311367,842400,Apartamento,Guarapari,Praia do Morro,66,2,2,1,1,True,False,False,True,False,True,False,False,False,Guarapari
+2894400876,1150000,Apartamento,Guarapari,Muquiçaba,159,3,3,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2888938526,1190000,Apartamento,Guarapari,Praia do Morro,110,2,3,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2889758282,550000,Apartamento,Guarapari,Praia do Morro,80,3,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2873601905,760000,Apartamento,Guarapari,Enseada Azul,80,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2713905712,950000,Casa,Guarapari,Praia do Morro,200,3,3,2,3,True,False,False,False,False,False,False,False,False,Guarapari
+2829647983,1099000,Apartamento,Guarapari,Praia do Morro,100,3,2,2,1,False,True,True,True,False,False,False,False,False,Guarapari
+2820246918,1790000,Apartamento,Guarapari,Muquiçaba,110,3,2,0,1,True,True,True,True,True,True,False,False,False,Guarapari
+2724968880,650000,Apartamento,Guarapari,Centro,94,3,2,1,1,False,True,False,False,True,True,False,False,True,Guarapari
+2894389389,1000000,Casa,Guarapari,Buenos Aires,90,2,2,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2838371926,810000,Apartamento,Guarapari,Praia do Morro,90,2,1,0,2,False,False,False,True,False,False,False,False,False,Guarapari
+2891161482,1100000,Apartamento,Guarapari,Centro,110,3,3,0,1,True,True,False,True,False,True,False,False,False,Guarapari
+2879634895,550000,Cobertura,Guarapari,Praia do Morro,144,2,2,0,0,False,False,False,False,False,False,True,False,False,Guarapari
+2894404707,2300000,Apartamento,Guarapari,Praia do Morro,180,4,3,0,2,False,False,False,False,False,False,False,False,True,Guarapari
+2862656457,800000,Apartamento,Guarapari,Centro,120,3,3,0,1,False,True,False,False,False,True,False,False,False,Guarapari
+2742979577,1800000,Apartamento,Guarapari,Praia do Morro,120,3,1,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2642743762,1200000,Apartamento,Guarapari,Centro,130,3,3,3,1,False,True,False,False,True,True,False,False,False,Guarapari
+2824171749,990000,Apartamento,Guarapari,Praia do Morro,150,2,2,2,1,False,False,False,False,False,True,False,False,False,Guarapari
+2801970728,370000,Apartamento,Guarapari,Enseada Azul,60,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2744685338,1200000,Apartamento,Guarapari,Centro,140,3,3,2,3,False,False,False,False,False,False,False,False,False,Guarapari
+2866062254,700000,Apartamento,Guarapari,Enseada Azul,80,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2812884837,840000,Apartamento,Guarapari,Enseada Azul,81,2,2,3,1,True,True,True,True,False,True,False,False,False,Guarapari
+2779917941,1200000,Apartamento,Guarapari,Nova Guarapari,450,4,2,3,1,False,False,False,False,False,False,False,False,False,Guarapari
+2843482232,840000,Apartamento,Guarapari,Praia do Morro,59,2,1,1,1,True,False,False,True,False,False,False,False,False,Guarapari
+2829651315,950000,Apartamento,Guarapari,Praia do Morro,120,3,3,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2825728714,850000,Apartamento,Guarapari,Praia do Morro,95,3,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2811390067,720000,Apartamento,Guarapari,Praia do Morro,98,2,2,1,2,False,True,False,False,False,True,False,False,False,Guarapari
+2843486320,450000,Apartamento,Guarapari,Enseada Azul,80,2,1,1,0,False,False,False,False,True,False,False,False,False,Guarapari
+2843481557,990000,Casa,Guarapari,Nova Guarapari,196,4,2,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2883632975,420000,Apartamento,Guarapari,Praia do Morro,71,2,2,1,1,False,False,False,False,False,True,False,False,True,Guarapari
+2786242817,1200000,Apartamento,Guarapari,Praia do Morro,120,3,2,2,1,True,True,False,True,True,False,False,False,True,Guarapari
+2825234018,980000,Apartamento,Guarapari,Centro,78,2,1,1,1,True,False,False,False,False,False,False,False,False,Guarapari
+2877405435,700000,Apartamento,Guarapari,Centro,110,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2883801411,580000,Apartamento,Guarapari,Centro,80,2,2,1,1,False,True,False,True,False,True,False,False,False,Guarapari
+2883802809,380000,Apartamento,Guarapari,Centro,61,1,1,1,0,False,False,False,False,True,True,False,False,False,Guarapari
+2892026780,500000,Apartamento,Guarapari,Praia do Morro,130,4,3,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2846419936,1500000,Apartamento,Guarapari,Praia do Morro,117,3,4,2,3,False,False,False,False,True,False,False,False,True,Guarapari
+2896411075,590000,Apartamento,Guarapari,Praia do Morro,67,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2879234314,900000,Apartamento,Guarapari,Praia do Morro,96,3,2,0,1,True,False,False,True,False,True,False,False,False,Guarapari
+2843481440,695000,Apartamento,Guarapari,Praia do Morro,65,2,1,0,1,True,True,True,True,False,True,False,False,False,Guarapari
+2872306980,470000,Apartamento,Guarapari,Centro,65,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2892301874,827000,Apartamento,Guarapari,Enseada Azul,72,2,2,0,1,False,True,True,True,False,True,False,False,True,Guarapari
+2887706874,650000,Casa,Guarapari,Meaípe,240,4,3,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2892537205,830000,Apartamento,Guarapari,Praia do Morro,65,2,2,0,1,True,True,True,False,True,True,False,False,False,Guarapari
+2791733451,890000,Apartamento,Guarapari,Praia do Morro,69,2,1,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2877448782,600000,Casa,Guarapari,Nova Guarapari,220,4,4,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2724971194,1250000,Casa,Guarapari,Jardim Boa Vista,270,3,4,2,3,False,False,False,False,False,False,False,False,False,Guarapari
+2623067666,1950000,Apartamento,Guarapari,Praia do Morro,111,3,2,2,1,True,False,True,True,False,True,False,False,True,Guarapari
+2889419304,890000,Apartamento,Guarapari,Muquiçaba,95,3,2,1,1,False,True,True,False,False,True,False,False,False,Guarapari
+2875513591,650000,Apartamento,Guarapari,Muquiçaba,90,2,1,1,1,False,False,False,False,True,True,False,False,False,Guarapari
+2873067696,850000,Apartamento,Guarapari,Centro,85,2,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2870337962,1055000,Apartamento,Guarapari,Praia do Morro,117,3,2,2,0,False,True,True,True,False,True,False,True,True,Guarapari
+2894166375,1150000,Casa,Guarapari,Nova Guarapari,200,3,2,4,1,False,False,False,False,False,False,False,False,False,Guarapari
+2873967582,929000,Casa,Guarapari,Jardim Boa Vista,190,3,1,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2797421322,499000,Apartamento,Guarapari,Centro,83,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2871337367,280000,Casa,Guarapari,Ipiranga,65,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2838371719,1380000,Apartamento,Guarapari,Enseada Azul,110,3,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2886734029,990000,Apartamento,Guarapari,Praia do Morro,87,3,2,2,1,True,False,False,True,False,True,False,False,False,Guarapari
+2892366685,500000,Apartamento,Guarapari,Praia do Morro,105,2,2,1,1,False,False,False,False,True,True,False,False,False,Guarapari
+2892781281,840000,Apartamento,Guarapari,Enseada Azul,70,2,2,1,1,True,False,True,True,True,True,False,True,False,Guarapari
+2890620920,380000,Apartamento,Guarapari,Praia do Morro,60,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2812882372,890000,Apartamento,Guarapari,Praia do Morro,95,3,2,2,1,False,True,False,False,False,True,False,False,True,Guarapari
+2569346606,550000,Apartamento,Guarapari,Centro,160,3,3,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2800032918,580000,Apartamento,Guarapari,Ipiranga,75,2,2,1,1,True,True,False,True,False,True,False,False,False,Guarapari
+2838506127,750000,Casa,Guarapari,Meaípe,240,4,4,1,1,False,False,False,False,True,False,False,False,False,Guarapari
+2894386376,1800000,Casa,Guarapari,Praia do Morro,200,3,4,4,3,False,False,False,False,False,False,False,False,True,Guarapari
+2886942412,750000,Apartamento,Guarapari,Praia do Morro,85,3,1,1,1,False,True,True,True,False,False,False,False,False,Guarapari
+2843483624,1300000,Apartamento,Guarapari,Muquiçaba,90,3,1,2,1,True,True,True,True,False,True,False,False,True,Guarapari
+2869529740,750000,Casa,Guarapari,Meaípe,305,3,4,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2883237974,2650000,Apartamento,Guarapari,Enseada Azul,150,4,4,0,4,True,False,True,True,True,True,False,False,True,Guarapari
+2855163344,760000,Casa,Guarapari,Ipiranga,228,4,4,0,1,False,True,False,True,False,False,False,False,True,Guarapari
+2896485690,520000,Apartamento,Guarapari,Praia do Morro,78,2,2,0,0,False,False,False,False,False,False,False,False,True,Guarapari
+2818574529,450000,Apartamento,Guarapari,Centro,88,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2804544816,680000,Apartamento,Guarapari,Centro,90,3,3,0,1,False,True,False,False,False,True,False,False,False,Guarapari
+2829651320,750000,Apartamento,Guarapari,Praia do Morro,80,2,3,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2878712005,450000,Apartamento,Guarapari,Centro,48,2,1,0,0,False,False,False,False,False,True,False,False,True,Guarapari
+2868226324,890000,Apartamento,Guarapari,Praia do Morro,70,2,2,1,1,True,True,True,True,True,True,False,False,False,Guarapari
+2866800148,1250000,Apartamento,Guarapari,Praia do Morro,113,3,1,2,1,True,True,True,True,False,True,False,False,False,Guarapari
+2889420514,630000,Apartamento,Guarapari,Praia do Morro,90,2,2,1,0,True,True,True,False,False,True,False,False,False,Guarapari
+2843486117,820000,Casa,Guarapari,São Judas Tadeu,170,4,2,1,0,False,True,False,False,False,False,False,False,False,Guarapari
+2884743097,1300000,Apartamento,Guarapari,Praia do Morro,140,3,2,2,0,True,True,True,True,True,True,False,False,False,Guarapari
+2716204180,2820000,Apartamento,Guarapari,Praia do Morro,190,4,5,2,1,False,False,False,False,False,True,False,False,True,Guarapari
+2883055618,780000,Apartamento,Guarapari,Praia do Morro,87,3,2,1,1,False,True,True,False,False,True,False,False,False,Guarapari
+2870328475,1500000,Apartamento,Guarapari,Praia do Morro,169,4,3,2,2,False,False,False,False,True,False,False,False,True,Guarapari
+2766060921,1100000,Apartamento,Guarapari,Enseada Azul,110,3,2,2,1,False,True,True,False,False,False,False,False,False,Guarapari
+2772003841,2200000,Cobertura,Guarapari,Recanto da Sereia,285,3,3,4,2,True,False,True,True,False,False,True,True,False,Guarapari
+2708024257,758142,Apartamento,Guarapari,Praia do Morro,78,2,2,1,1,False,False,False,True,False,True,False,False,False,Guarapari
+2838505969,850000,Apartamento,Guarapari,Praia do Morro,110,3,3,2,1,False,True,False,False,False,True,False,False,True,Guarapari
+2883803596,980000,Apartamento,Guarapari,Centro,100,3,2,1,1,False,True,False,True,False,True,False,False,False,Guarapari
+2892361811,850000,Apartamento,Guarapari,Muquiçaba,105,3,3,1,1,False,True,False,False,False,True,False,False,True,Guarapari
+2892541578,1790000,Apartamento,Guarapari,Praia do Morro,95,3,2,3,1,True,True,False,False,False,False,False,False,False,Guarapari
+2799643916,1590000,Apartamento,Guarapari,Praia do Morro,105,3,2,2,1,True,True,True,False,False,True,False,False,True,Guarapari
+2822515914,950000,Apartamento,Guarapari,Muquiçaba,90,3,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2883803387,980000,Apartamento,Guarapari,Centro,100,4,3,2,2,False,True,False,True,False,True,False,False,False,Guarapari
+2869919290,660000,Apartamento,Guarapari,Centro,143,3,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2874139673,1750000,Cobertura,Guarapari,Praia do Morro,206,5,4,3,3,False,False,False,False,False,True,True,False,True,Guarapari
+2568731907,1200000,Apartamento,Guarapari,Praia do Morro,120,3,3,2,1,False,False,False,False,False,True,False,False,False,Guarapari
+2555717723,1080000,Apartamento,Guarapari,Praia do Morro,145,3,3,0,1,True,True,False,True,True,True,False,False,False,Guarapari
+2792793525,1950000,Apartamento,Guarapari,Centro,145,3,1,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2791237915,700000,Apartamento,Guarapari,Praia do Morro,70,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2737639826,2500000,Apartamento,Guarapari,Centro,260,4,3,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2847478841,2200000,Apartamento,Guarapari,Centro,105,3,3,0,2,False,True,True,False,True,False,False,False,True,Guarapari
+2883798998,1100000,Apartamento,Guarapari,Praia do Morro,110,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2799113041,680000,Apartamento,Guarapari,Praia do Morro,100,3,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2829421316,720000,Casa de condomínio,Guarapari,Enseada Azul,70,2,2,0,1,False,True,False,False,False,False,False,True,True,Guarapari
+2751653611,1800000,Casa,Guarapari,Santa Mônica,150,3,3,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2883802799,540000,Apartamento,Guarapari,Centro,101,2,3,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2887865682,1200000,Casa,Guarapari,São Judas Tadeu,400,3,4,4,1,False,False,False,False,False,False,False,False,False,Guarapari
+2877442992,370000,Apartamento,Guarapari,Centro,58,1,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2884476391,400000,Apartamento,Guarapari,Village da Praia,70,2,2,2,1,False,True,False,False,True,False,False,False,False,Guarapari
+2804171286,1390000,Apartamento,Guarapari,Centro,150,3,1,1,2,False,False,False,False,False,False,False,False,False,Guarapari
+2870269505,695000,Apartamento,Guarapari,Praia do Morro,80,2,2,1,1,False,False,True,True,False,True,False,False,True,Guarapari
+2847479132,895000,Apartamento,Guarapari,Praia do Morro,72,2,2,2,1,True,True,True,True,False,True,False,False,False,Guarapari
+2891982674,950000,Apartamento,Guarapari,São Judas Tadeu,71,2,2,1,1,True,True,True,True,False,True,False,False,False,Guarapari
+2881429682,900000,Apartamento,Guarapari,Centro,74,2,2,1,1,True,True,True,False,False,False,False,False,False,Guarapari
+2894400089,1350000,Apartamento,Guarapari,Praia do Morro,256,3,3,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2771920517,800000,Casa,Guarapari,Recanto da Sereia,300,4,3,6,2,True,False,False,False,False,False,False,False,False,Guarapari
+2812883226,1297309,Apartamento,Guarapari,Centro,92,3,2,2,1,True,True,True,False,False,True,False,False,True,Guarapari
+2873805706,1450000,Casa,Guarapari,Praia do Morro,250,4,4,6,1,False,False,False,False,False,False,False,False,False,Guarapari
+2873888804,2300000,Cobertura,Guarapari,Praia do Morro,200,4,4,3,2,False,True,True,True,False,True,True,True,True,Guarapari
+2812883077,620000,Casa de condomínio,Guarapari,Nova Guarapari,90,3,3,2,1,False,True,False,False,False,False,False,True,True,Guarapari
+2889422780,500000,Casa,Guarapari,Lagoa Funda,95,2,2,1,0,False,True,False,False,False,False,False,False,False,Guarapari
+2856669622,480000,Apartamento,Guarapari,Praia do Morro,59,2,1,1,0,False,True,False,False,True,True,False,False,False,Guarapari
+2889419306,790000,Apartamento,Guarapari,Muquiçaba,67,2,1,1,1,True,True,True,False,True,True,False,False,False,Guarapari
+2722126243,1500000,Apartamento,Guarapari,Muquiçaba,100,3,3,2,1,True,True,True,False,False,True,False,False,True,Guarapari
+2870283297,550000,Apartamento,Guarapari,Centro,80,2,3,1,1,False,False,False,False,False,True,False,False,True,Guarapari
+2827130085,900000,Apartamento,Guarapari,Praia do Morro,140,3,1,1,2,False,False,False,False,False,False,False,False,False,Guarapari
+2879146663,550000,Apartamento,Guarapari,Praia do Morro,75,2,2,0,1,False,True,False,False,False,True,False,False,False,Guarapari
+2886062883,929000,Casa,Guarapari,Jardim Boa Vista,130,3,3,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2884186982,900000,Apartamento,Guarapari,Enseada Azul,115,3,2,0,1,True,False,False,True,False,True,False,False,False,Guarapari
+2866804271,1050000,Apartamento,Guarapari,Centro,80,2,2,0,1,True,True,True,True,False,True,False,False,False,Guarapari
+2879190178,750000,Apartamento,Guarapari,Centro,125,3,3,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2826262617,1150000,Casa,Guarapari,Nova Guarapari,419,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2797477822,770000,Apartamento,Guarapari,Praia do Morro,60,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2724971047,1300000,Apartamento,Guarapari,Centro,110,3,3,0,1,False,True,False,False,False,True,False,False,False,Guarapari
+2886101221,730000,Casa,Guarapari,Santa Mônica,120,3,3,0,1,True,True,False,True,False,False,False,False,False,Guarapari
+2865473797,890000,Apartamento,Guarapari,Praia do Morro,100,3,2,2,1,False,True,True,True,False,True,False,True,True,Guarapari
+2887883075,650000,Apartamento,Guarapari,Praia do Morro,78,2,2,1,0,False,True,True,True,False,True,False,False,False,Guarapari
+2845475551,940000,Apartamento,Guarapari,Praia do Morro,93,3,2,2,1,False,True,False,False,True,True,False,False,False,Guarapari
+2852144621,1950000,Apartamento,Guarapari,Centro,140,4,6,2,4,False,False,False,False,False,True,False,False,True,Guarapari
+2889422292,636030,Apartamento,Guarapari,Praia do Morro,70,2,1,1,0,True,True,True,False,False,True,False,False,True,Guarapari
+2893879181,420000,Apartamento,Guarapari,Praia do Morro,65,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2896039491,990000,Apartamento,Guarapari,Muquiçaba,140,3,1,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2570185635,950000,Apartamento,Guarapari,Centro,98,3,3,2,2,False,False,False,False,True,True,False,False,False,Guarapari
+2893892880,365000000,Apartamento,Guarapari,Praia do Morro,55,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2868982873,490000,Apartamento,Guarapari,Praia do Morro,60,2,1,1,0,False,False,False,False,True,False,False,False,False,Guarapari
+2839247729,600000,Casa,Guarapari,Setiba,250,3,2,2,1,True,False,True,False,False,False,False,True,False,Guarapari
+2847477408,675000,Apartamento,Guarapari,Enseada Azul,75,2,2,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2896328489,590000,Apartamento,Guarapari,Praia do Morro,66,1,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2894400829,600000,Apartamento,Guarapari,Ipiranga,45,1,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2894392837,1070000,Casa,Guarapari,Praia do Morro,180,3,4,2,3,False,False,False,False,False,False,False,False,False,Guarapari
+2843483141,1350000,Apartamento,Guarapari,Enseada Azul,110,3,3,2,1,True,True,True,True,False,True,False,False,False,Guarapari
+2589796936,1250000,Apartamento,Guarapari,Centro,100,3,3,2,1,True,True,True,True,True,True,False,False,False,Guarapari
+2886049178,650000,Apartamento,Guarapari,Centro,74,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2826301615,700000,Apartamento,Guarapari,Praia do Morro,98,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2838872253,800000,Apartamento,Guarapari,Praia do Morro,75,2,1,2,1,False,True,True,False,False,False,False,False,False,Guarapari
+2887839904,900000,Casa,Guarapari,Jardim Boa Vista,168,3,2,2,1,False,True,False,False,False,False,False,False,False,Guarapari
+2889423176,601803,Apartamento,Guarapari,Praia do Morro,42,1,1,0,2,True,True,True,False,False,True,False,False,True,Guarapari
+2890327197,1200000,Apartamento,Guarapari,Praia do Morro,100,3,1,0,1,True,False,False,True,False,True,False,False,False,Guarapari
+2753353852,780000,Apartamento,Guarapari,Centro,130,3,3,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2894400573,2400000,Casa,Guarapari,Centro,150,4,2,0,4,False,False,False,False,False,False,False,False,False,Guarapari
+2843484523,749000,Apartamento,Guarapari,Praia do Morro,64,2,1,1,2,False,False,True,True,False,True,False,False,False,Guarapari
+2724968265,1300000,Apartamento,Guarapari,Centro,100,3,2,0,1,False,True,False,False,False,True,False,False,False,Guarapari
+2810396118,550000,Apartamento,Guarapari,Praia do Morro,90,2,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2853895029,600000,Apartamento,Guarapari,Centro,82,2,2,0,1,False,True,False,False,True,True,False,False,False,Guarapari
+2838371136,450000,Casa,Guarapari,Comunidade Urbana de Jaboti,130,2,3,0,2,True,False,False,False,False,False,False,False,False,Guarapari
+2749489931,1400000,Apartamento,Guarapari,Praia do Morro,108,3,3,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2883895179,630000,Apartamento,Guarapari,Santa Mônica,86,3,3,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2576621648,1200000,Cobertura,Guarapari,Praia do Morro,266,4,5,3,2,False,False,False,False,False,True,True,False,False,Guarapari
+2854427139,530000,Apartamento,Guarapari,São Judas Tadeu,140,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2824658042,350000,Apartamento,Guarapari,Muquiçaba,100,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2847478933,730000,Apartamento,Guarapari,Praia do Morro,63,2,2,1,1,True,True,False,True,False,True,False,False,False,Guarapari
+2843480699,900000,Cobertura,Guarapari,Enseada Azul,140,2,3,1,0,True,True,True,True,True,True,True,False,False,Guarapari
+2889422090,1625000,Apartamento,Guarapari,Praia do Morro,135,4,4,2,4,True,True,True,True,False,True,False,False,True,Guarapari
+2785723121,420000,Apartamento,Guarapari,Enseada Azul,45,1,1,1,0,False,False,False,False,False,True,False,False,False,Guarapari
+2874908137,680000,Apartamento,Guarapari,Praia do Morro,115,3,3,2,1,False,True,False,False,False,False,False,False,False,Guarapari
+2573193001,1300000,Apartamento,Guarapari,Enseada Azul,136,3,5,2,3,False,True,True,False,False,True,False,False,False,Guarapari
+2596935010,780000,Apartamento,Guarapari,Centro,80,2,3,2,2,False,True,True,False,False,True,False,False,False,Guarapari
+2896630738,590000,Apartamento,Guarapari,Praia do Morro,75,2,2,1,1,True,True,True,True,False,True,False,False,True,Guarapari
+2893655880,1080000,Apartamento,Guarapari,Praia do Morro,125,3,2,2,1,False,False,False,False,False,False,False,False,True,Guarapari
+2843484627,1100000,Apartamento,Guarapari,Centro,138,2,2,1,1,True,True,True,True,False,True,False,False,False,Guarapari
+2871242703,800000,Apartamento,Guarapari,Praia do Morro,73,2,2,2,1,False,True,True,False,False,True,False,False,False,Guarapari
+2892537018,500000,Apartamento,Guarapari,Centro,80,2,1,1,1,False,True,False,False,True,True,False,False,False,Guarapari
+2789720870,1050000,Apartamento,Guarapari,Praia do Morro,110,3,2,2,0,False,True,False,False,False,False,False,False,False,Guarapari
+2887837500,1100000,Apartamento,Guarapari,Centro,105,3,2,2,1,True,True,False,False,True,True,False,False,False,Guarapari
+2892541474,950000,Apartamento,Guarapari,Centro,88,3,2,1,2,False,True,False,False,True,True,False,False,False,Guarapari
+2709382791,1850000,Apartamento,Guarapari,Praia do Morro,111,3,2,2,1,False,False,False,False,False,False,False,False,True,Guarapari
+2632681804,800000,Casa,Guarapari,Nova Guarapari,180,3,3,0,1,False,True,False,False,False,False,False,False,False,Guarapari
+2835599936,500000,Apartamento,Guarapari,São Judas Tadeu,200,5,3,0,2,False,False,False,False,False,False,False,False,False,Guarapari
+2570188293,650000,Cobertura,Guarapari,Centro,130,3,4,0,1,False,False,False,False,False,True,True,False,False,Guarapari
+2736330049,800000,Apartamento,Guarapari,Praia do Morro,74,2,2,0,1,True,False,False,False,False,True,False,False,True,Guarapari
+2724470933,1800000,Apartamento,Guarapari,Praia do Morro,180,4,5,0,4,True,True,True,False,False,True,False,False,False,Guarapari
+2555717731,650000,Apartamento,Guarapari,Praia do Morro,99,3,3,0,1,False,True,False,False,True,True,False,False,True,Guarapari
+2895102128,500000,Casa,Guarapari,Santa Mônica,250,3,4,0,3,False,False,False,False,False,False,False,False,False,Guarapari
+2829647990,790000,Casa de condomínio,Guarapari,Village do Sol,200,3,4,4,1,False,False,False,False,False,False,False,False,False,Guarapari
+2870848298,550000,Apartamento,Guarapari,Praia do Morro,70,2,2,0,2,False,True,False,True,False,True,False,False,False,Guarapari
+2809720817,850000,Apartamento,Guarapari,Muquiçaba,100,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2883802810,320000,Casa,Guarapari,Santa Mônica,65,2,1,3,0,False,False,False,False,False,False,False,False,False,Guarapari
+2843478682,680000,Apartamento,Guarapari,Centro,79,3,1,1,1,True,True,False,True,False,False,False,False,False,Guarapari
+2724971177,1260000,Apartamento,Guarapari,Enseada Azul,108,3,2,2,1,True,True,False,False,True,True,False,False,False,Guarapari
+2812886523,750000,Apartamento,Guarapari,Centro,92,2,3,2,1,False,True,False,False,False,True,False,False,True,Guarapari
+2877361077,900000,Apartamento,Guarapari,Praia do Morro,52,2,2,2,1,True,True,True,True,True,True,False,False,False,Guarapari
+2708921907,480000,Apartamento,Guarapari,Centro,78,1,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2875592990,950000,Apartamento,Guarapari,Praia do Morro,95,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2889419699,795000,Apartamento,Guarapari,Muquiçaba,90,3,2,1,1,False,True,True,False,False,True,False,False,True,Guarapari
+2846167148,750000,Casa,Guarapari,São Judas Tadeu,190,4,4,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2770526634,680000,Apartamento,Guarapari,Centro,80,2,2,2,1,False,False,False,False,False,True,False,False,True,Guarapari
+2893676747,635000,Apartamento,Guarapari,Praia do Morro,65,2,1,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2762039140,1500000,Apartamento,Guarapari,Praia do Morro,112,3,3,2,2,False,True,True,True,False,True,False,False,True,Guarapari
+2881209099,350000,Apartamento,Guarapari,Centro,87,3,2,0,0,False,True,False,False,True,True,False,False,False,Guarapari
+2870956981,580000,Apartamento,Guarapari,Portal,80,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2585994952,350000,Apartamento,Guarapari,Centro,60,1,1,0,1,False,False,False,False,False,True,False,False,True,Guarapari
+2868973500,680000,Apartamento,Guarapari,Centro,130,3,2,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2847475407,695000,Apartamento,Guarapari,Praia do Morro,65,2,2,1,1,True,True,True,True,False,True,False,False,True,Guarapari
+2817922310,750000,Apartamento,Guarapari,Enseada Azul,85,2,2,2,1,True,False,False,False,True,True,False,False,False,Guarapari
+2889417548,804023,Apartamento,Guarapari,Centro,54,2,2,1,1,True,True,True,True,False,True,False,False,False,Guarapari
+2870582992,883907,Apartamento,Guarapari,Centro,42,2,2,1,1,True,False,False,True,False,True,False,False,True,Guarapari
+2857313857,950000,Apartamento,Guarapari,Praia do Morro,90,3,2,0,1,False,False,False,True,False,True,False,False,False,Guarapari
+2843484527,980000,Apartamento,Guarapari,Enseada Azul,90,3,3,0,1,True,False,False,True,False,True,False,False,False,Guarapari
+2637154680,700000,Apartamento,Guarapari,Praia do Morro,130,2,2,0,1,True,True,True,True,False,True,False,False,False,Guarapari
+2888084881,1300000,Apartamento,Guarapari,Praia do Morro,148,4,3,0,2,False,True,True,True,False,True,False,False,True,Guarapari
+2824957830,790000,Apartamento,Guarapari,Muquiçaba,78,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2724971173,1300000,Apartamento,Guarapari,Centro,110,3,2,0,1,False,True,False,False,False,True,False,False,False,Guarapari
+2642744263,1100000,Apartamento,Guarapari,Praia do Morro,120,3,2,0,1,False,True,True,False,True,True,False,False,False,Guarapari
+2887714181,650000,Apartamento,Guarapari,Praia do Morro,110,3,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2838371040,900000,Apartamento,Guarapari,Muquiçaba,91,3,1,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2851243573,550000,Apartamento,Guarapari,Praia do Morro,120,3,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2879146666,800000,Apartamento,Guarapari,Praia do Morro,76,2,1,1,1,True,True,True,True,True,True,False,False,True,Guarapari
+2822515718,1850000,Apartamento,Guarapari,Praia do Morro,95,3,1,2,1,True,True,True,True,False,True,False,False,False,Guarapari
+2892363583,650000,Apartamento,Guarapari,Praia do Morro,140,3,3,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2896354380,300000,Apartamento,Guarapari,Praia do Morro,65,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2690549156,310000,Apartamento,Guarapari,Centro,45,1,1,0,0,False,False,False,False,False,True,False,False,False,Guarapari
+2812881000,469000,Casa,Guarapari,Fátima Cidade Jardim,78,2,2,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2883799819,850000,Apartamento,Guarapari,Centro,71,2,2,1,0,True,False,True,True,False,True,False,False,False,Guarapari
+2865474598,930000,Apartamento,Guarapari,Praia do Morro,90,3,2,2,1,False,True,True,True,False,True,False,False,False,Guarapari
+2892537120,690000,Apartamento,Guarapari,Praia do Morro,144,2,2,1,1,True,True,True,False,False,True,False,False,False,Guarapari
+2885929475,1585582,Apartamento,Guarapari,Muquiçaba,116,3,2,2,0,True,False,True,True,False,True,False,True,True,Guarapari
+2843483552,920000,Apartamento,Guarapari,Enseada Azul,90,3,3,2,1,False,True,False,False,True,False,False,False,True,Guarapari
+2824808214,600000,Casa,Guarapari,Portal,250,6,4,5,1,False,True,False,False,False,False,False,False,False,Guarapari
+2838369481,750000,Apartamento,Guarapari,São Judas Tadeu,210,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2817199453,495000,Apartamento,Guarapari,Centro,65,1,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2883803592,782105,Apartamento,Guarapari,Praia do Morro,78,2,2,2,1,False,False,True,True,False,True,False,False,False,Guarapari
+2780354817,1250000,Apartamento,Guarapari,Enseada Azul,110,3,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2857718799,700000,Casa de condomínio,Guarapari,Enseada Azul,100,2,3,1,2,False,False,False,True,False,False,False,False,False,Guarapari
+2760760118,749000,Casa,Guarapari,Santa Mônica,125,3,3,2,3,False,False,False,False,False,False,False,False,False,Guarapari
+2862023876,550000,Apartamento,Guarapari,Centro,111,2,2,1,0,False,False,False,False,True,True,False,False,False,Guarapari
+2837399534,777697,Apartamento,Guarapari,Praia do Morro,78,2,2,1,0,False,True,False,False,False,True,False,False,True,Guarapari
+2872596280,640000,Apartamento,Guarapari,Centro,116,3,3,0,1,False,True,False,False,True,False,False,False,True,Guarapari
+2841169822,480000,Apartamento,Guarapari,Praia do Morro,80,2,2,0,1,False,True,False,False,False,False,False,False,False,Guarapari
+2603137774,250000,Apartamento,Guarapari,Ipiranga,85,1,1,0,0,False,False,False,False,False,True,False,False,False,Guarapari
+2884795491,550000,Apartamento,Guarapari,Praia do Morro,75,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2576622271,1950000,Apartamento,Guarapari,Praia do Morro,100,3,2,2,1,False,False,False,False,True,True,False,False,True,Guarapari
+2893398175,749000,Apartamento,Guarapari,Enseada Azul,67,2,2,0,1,False,False,False,True,False,True,False,False,False,Guarapari
+2843483635,1200000,Apartamento,Guarapari,Praia do Morro,140,3,3,0,2,False,True,False,False,False,False,False,False,True,Guarapari
+2843485817,1200000,Apartamento,Guarapari,Centro,120,3,3,0,1,True,True,True,True,False,True,False,False,False,Guarapari
+2847476605,850000,Apartamento,Guarapari,Praia do Morro,110,2,4,0,1,True,False,False,True,False,True,False,False,False,Guarapari
+2888465687,399000,Apartamento,Guarapari,Enseada Azul,45,1,1,1,0,False,False,False,False,True,True,False,False,True,Guarapari
+2843485037,680000,Apartamento,Guarapari,Praia do Morro,74,2,1,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2894386488,1750000,Apartamento,Guarapari,Praia do Morro,110,3,2,2,1,False,False,False,False,False,False,False,False,True,Guarapari
+2865475879,900000,Apartamento,Guarapari,Praia do Morro,70,2,2,2,1,False,True,True,True,False,True,False,False,False,Guarapari
+2866984572,820000,Apartamento,Guarapari,Praia do Morro,90,3,3,1,0,False,True,False,False,False,True,False,True,True,Guarapari
+2881382310,480000,Apartamento,Guarapari,Centro,69,1,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2805316414,520000,Apartamento,Guarapari,Praia do Morro,72,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2877833179,1500000,Apartamento,Guarapari,Enseada Azul,115,3,3,2,1,True,True,True,True,False,True,False,False,False,Guarapari
+2766639418,914490,Apartamento,Guarapari,Praia do Morro,123,2,2,2,1,True,True,False,True,False,False,False,False,False,Guarapari
+2576621586,900000,Apartamento,Guarapari,Praia do Morro,120,3,2,2,1,False,False,False,False,False,True,False,False,True,Guarapari
+2576623938,950000,Apartamento,Guarapari,Centro,110,3,3,1,1,False,True,False,False,True,True,False,False,False,Guarapari
+2812883148,620000,Apartamento,Guarapari,Praia do Morro,98,3,3,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2686851322,320000,Apartamento,Guarapari,Enseada Azul,52,1,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2810256424,800000,Apartamento,Guarapari,Praia do Morro,100,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2885705321,850000,Apartamento,Guarapari,Praia do Morro,120,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2893039289,1350000,Apartamento,Guarapari,Centro,63,2,2,2,1,True,True,True,True,True,True,False,False,False,Guarapari
+2576622937,1050000,Casa,Guarapari,Itapebussu,200,3,4,2,1,True,True,False,False,False,False,False,False,False,Guarapari
+2880992485,1350000,Apartamento,Guarapari,Praia do Morro,129,3,2,2,1,True,True,True,False,False,False,False,False,False,Guarapari
+2879145636,470000,Apartamento,Guarapari,Nova Guarapari,65,2,1,1,1,True,True,True,True,False,False,False,False,False,Guarapari
+2835512892,490000,Apartamento,Guarapari,Enseada Azul,70,2,2,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2893654599,1500000,Casa,Guarapari,São Judas Tadeu,500,4,5,5,4,False,False,False,False,False,False,False,False,False,Guarapari
+2875625690,879000,Apartamento,Guarapari,Praia do Morro,65,2,2,0,0,True,False,False,True,False,True,False,False,False,Guarapari
+2829647063,690000,Apartamento,Guarapari,Praia do Morro,60,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2826620263,550000,Apartamento,Guarapari,Praia do Morro,90,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2852932317,600000,Apartamento,Guarapari,Praia do Morro,80,3,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2889919996,850000,Apartamento,Guarapari,Praia do Morro,90,2,2,0,1,True,False,False,True,True,True,False,False,False,Guarapari
+2883799390,1250000,Apartamento,Guarapari,São Judas Tadeu,93,3,2,0,1,True,True,True,True,True,True,False,False,False,Guarapari
+2887861421,1500000,Apartamento,Guarapari,Praia do Morro,112,3,3,0,1,True,False,False,True,True,True,False,False,False,Guarapari
+2883055621,550000,Apartamento,Guarapari,Praia do Morro,70,2,2,0,1,False,True,False,False,False,True,False,False,False,Guarapari
+2845027861,1500000,Apartamento,Guarapari,Centro,85,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2883055621,550000,Apartamento,Guarapari,Praia do Morro,70,2,2,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2845027861,1500000,Apartamento,Guarapari,Centro,85,2,2,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2798813637,550000,Casa,Guarapari,Jardim Santa Rosa,200,4,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2824671797,380000,Apartamento,Guarapari,Praia do Morro,58,1,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2885222687,1250000,Apartamento,Guarapari,Praia do Morro,94,3,2,2,1,True,True,False,False,False,True,False,False,False,Guarapari
+2877661690,1600000,Apartamento,Guarapari,Praia do Morro,115,3,2,2,1,True,True,True,True,False,False,False,False,False,Guarapari
+2732446599,1200000,Apartamento,Guarapari,Centro,90,3,2,2,1,False,True,True,True,False,True,False,True,True,Guarapari
+2829651422,750000,Casa,Guarapari,Praia do Morro,180,3,1,5,1,False,True,True,False,False,False,False,False,False,Guarapari
+2818080315,370000,Apartamento,Guarapari,Centro,58,1,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2843486015,1295000,Apartamento,Guarapari,Enseada Azul,110,3,4,2,3,True,False,True,True,True,True,False,False,False,Guarapari
+2882742622,500000,Apartamento,Guarapari,Praia do Morro,70,2,2,1,1,False,False,False,False,True,True,False,False,False,Guarapari
+2834156737,550000,Apartamento,Guarapari,Praia do Morro,60,2,3,1,2,False,False,False,False,False,True,False,False,True,Guarapari
+2802590460,1200000,Apartamento,Guarapari,Centro,210,3,1,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2857614273,750000,Apartamento,Guarapari,Praia do Morro,105,3,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2891936610,700000,Apartamento,Guarapari,Centro,134,3,3,1,1,False,True,False,False,False,True,False,False,True,Guarapari
+2889659892,590000,Apartamento,Guarapari,Enseada Azul,90,3,2,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2895418280,230000,Apartamento,Guarapari,Kubitschek,50,2,1,1,0,False,False,False,True,False,True,False,False,False,Guarapari
+2795365743,420000,Apartamento,Guarapari,Meaípe,90,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2844391432,949000,Cobertura,Guarapari,Enseada Azul,104,2,2,2,1,True,False,False,False,True,True,True,False,True,Guarapari
+2883802396,1590000,Apartamento,Guarapari,Praia do Morro,118,3,1,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2777562219,350000,Apartamento,Guarapari,Centro,55,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2865802559,1400000,Apartamento,Guarapari,Praia do Morro,113,3,3,0,1,False,True,True,True,True,True,False,False,True,Guarapari
+2827997817,360000,Apartamento,Guarapari,Praia do Morro,87,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2882644595,1580000,Casa,Guarapari,Fátima Cidade Jardim,1000,7,7,0,4,False,False,False,False,False,False,False,False,False,Guarapari
+2883803592,782105,Apartamento,Guarapari,Praia do Morro,78,2,2,0,1,False,False,True,True,False,True,False,False,False,Guarapari
+2857313859,790000,Apartamento,Guarapari,Praia do Morro,95,3,2,0,1,False,False,False,False,False,True,False,False,True,Guarapari
+2765432352,1300000,Apartamento,Guarapari,Praia do Morro,107,3,3,0,1,False,True,True,False,False,False,False,False,True,Guarapari
+2879048880,1265000,Apartamento,Guarapari,Praia do Morro,91,3,2,0,0,True,False,False,False,False,True,False,False,False,Guarapari
+2895103501,600000,Apartamento,Guarapari,Praia do Morro,137,3,3,0,1,False,True,False,False,False,False,False,False,False,Guarapari
+2734544332,850000,Apartamento,Guarapari,Centro,67,2,2,0,1,True,False,False,True,False,True,False,False,False,Guarapari
+2885705322,1190000,Apartamento,Guarapari,Praia do Morro,99,3,1,2,1,True,True,True,True,False,True,False,False,False,Guarapari
+2872130587,1300000,Apartamento,Guarapari,Centro,140,3,3,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2892363904,550000,Apartamento,Guarapari,Praia do Morro,82,2,2,1,1,False,True,False,False,True,True,False,False,False,Guarapari
+2829834545,830000,Apartamento,Guarapari,Centro,65,2,2,1,1,False,True,True,True,False,True,False,False,False,Guarapari
+2886732498,450000,Apartamento,Guarapari,Portal,55,1,2,0,0,False,False,False,False,False,True,False,False,False,Guarapari
+2852932415,750000,Apartamento,Guarapari,Muquiçaba,100,3,2,2,1,False,False,False,False,False,True,False,False,True,Guarapari
+2892719429,1400000,Casa,Guarapari,Buenos Aires,500,3,4,4,2,True,False,False,False,False,False,False,False,False,Guarapari
+2864372254,800000,Apartamento,Guarapari,Praia do Morro,60,2,2,1,1,True,False,False,False,False,True,False,False,False,Guarapari
+2889419303,1121348,Apartamento,Guarapari,Praia do Morro,103,3,2,2,2,True,True,True,False,False,True,False,False,False,Guarapari
+2868776582,1295000,Apartamento,Guarapari,Enseada Azul,148,4,5,3,0,True,True,True,True,False,False,False,False,False,Guarapari
+2779918234,350000,Apartamento,Guarapari,Centro,90,3,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2795975252,850000,Apartamento,Guarapari,Centro,94,3,1,1,0,False,True,False,False,True,False,False,False,False,Guarapari
+2751322271,950000,Casa,Guarapari,Meaípe,180,3,3,4,1,False,True,True,False,False,False,False,False,False,Guarapari
+2852144921,525000,Apartamento,Guarapari,Centro,75,2,3,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2879611104,700000,Apartamento,Guarapari,Praia do Morro,95,2,3,1,1,False,True,True,False,False,True,False,False,True,Guarapari
+2768464082,420000,Apartamento,Guarapari,Enseada Azul,45,1,1,1,0,False,False,False,False,True,True,False,False,False,Guarapari
+2841654834,650000,Casa,Guarapari,São Judas Tadeu,180,3,3,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2802911370,380000,Studio,Guarapari,Enseada Azul,40,1,1,1,0,False,False,False,False,True,False,False,False,False,Guarapari
+2802462440,750000,Apartamento,Guarapari,Praia do Morro,110,3,1,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2870490800,700000,Apartamento,Guarapari,Nova Guarapari,100,3,5,1,2,False,True,False,False,True,True,False,True,True,Guarapari
+2826347916,780000,Apartamento,Guarapari,Centro,74,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2812882762,1900000,Apartamento,Guarapari,Praia do Morro,185,4,3,0,2,True,True,True,False,False,True,False,False,False,Guarapari
+2870191322,1150000,Apartamento,Guarapari,Muquiçaba,115,3,2,0,0,False,True,True,False,False,True,False,False,False,Guarapari
+2876927092,780000,Apartamento,Guarapari,Praia do Morro,70,2,2,0,1,True,True,True,True,False,False,False,False,True,Guarapari
+2730967937,1400000,Apartamento,Guarapari,Centro,90,3,2,0,1,True,False,False,True,False,True,False,False,False,Guarapari
+2892536716,520000,Apartamento,Guarapari,Centro,100,2,2,0,0,False,True,False,False,False,True,False,False,True,Guarapari
+2845627255,780000,Apartamento,Guarapari,Centro,90,3,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2784637522,550000,Apartamento,Guarapari,Centro,100,3,3,0,1,False,True,False,False,True,True,False,False,False,Guarapari
+2596934408,878000,Apartamento,Guarapari,Praia do Morro,77,2,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2832444536,762000,Apartamento,Guarapari,Muquiçaba,60,2,2,0,1,True,True,True,True,False,True,False,False,True,Guarapari
+2818583953,740000,Apartamento,Guarapari,Centro,84,2,2,1,1,False,True,False,True,False,True,False,False,False,Guarapari
+2881042596,376000,Apartamento,Guarapari,Praia do Morro,71,2,1,1,0,False,True,True,False,False,False,False,False,False,Guarapari
+2888135008,490000,Apartamento,Guarapari,Enseada Azul,79,2,1,1,1,False,False,False,False,True,False,False,False,True,Guarapari
+2843481949,630000,Casa,Guarapari,Santa Mônica,124,3,1,0,1,False,True,False,False,False,False,False,False,False,Guarapari
+2887471010,680000,Apartamento,Guarapari,Praia do Morro,70,2,2,1,0,False,True,False,False,False,True,False,True,False,Guarapari
+2866804272,1950000,Apartamento,Guarapari,Centro,116,3,2,2,1,True,False,False,True,False,True,False,False,False,Guarapari
+2847475960,875000,Apartamento,Guarapari,Praia do Morro,110,3,3,2,1,False,True,False,False,False,False,False,False,True,Guarapari
+2843481946,389000,Apartamento,Guarapari,Ipiranga,80,3,2,1,0,False,True,False,True,False,False,False,False,False,Guarapari
+2870342114,900000,Apartamento,Guarapari,Muquiçaba,100,3,2,2,1,False,True,True,False,False,True,False,False,True,Guarapari
+2847476708,799900,Apartamento,Guarapari,Centro,72,2,2,1,1,True,True,True,True,False,True,False,False,False,Guarapari
+2804878198,1460000,Apartamento,Guarapari,Praia do Morro,108,3,3,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2833615820,800000,Apartamento,Guarapari,Centro,68,2,1,1,0,False,False,False,False,False,True,False,False,False,Guarapari
+2863791099,1990000,Cobertura,Guarapari,Enseada Azul,120,4,3,2,2,False,False,False,False,False,False,True,False,True,Guarapari
+2852643513,1250000,Apartamento,Guarapari,Centro,104,3,3,2,1,False,False,False,False,False,True,False,False,False,Guarapari
+2828668113,1050000,Apartamento,Guarapari,Praia do Morro,116,3,3,2,0,False,False,True,True,False,True,False,False,False,Guarapari
+2889422486,800000,Casa,Guarapari,Itapebussu,130,3,3,3,0,False,True,False,False,False,False,False,False,False,Guarapari
+2735082434,530000,Apartamento,Guarapari,Praia do Morro,73,2,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2893638291,420000,Apartamento,Guarapari,Praia do Morro,90,2,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2870343387,940000,Apartamento,Guarapari,Praia do Morro,115,3,2,2,1,False,True,True,False,False,True,False,False,False,Guarapari
+2724969355,710000,Casa de condomínio,Guarapari,Enseada Azul,58,2,2,1,1,False,True,False,False,True,False,False,False,False,Guarapari
+2892527174,1350000,Casa de condomínio,Guarapari,Village do Sol,300,4,4,7,2,True,False,False,False,False,False,False,False,False,Guarapari
+2814120418,1350000,Apartamento,Guarapari,Praia do Morro,100,3,3,0,1,True,False,False,True,False,True,False,False,False,Guarapari
+2778421682,1100000,Cobertura,Guarapari,Praia do Morro,166,3,2,0,1,True,False,False,False,False,False,True,False,True,Guarapari
+2879149101,650000,Casa,Guarapari,Nova Guarapari,415,3,2,0,1,True,True,False,False,False,False,False,True,False,Guarapari
+2766638730,710827,Apartamento,Guarapari,Enseada Azul,69,2,2,0,1,True,True,False,False,False,False,False,False,False,Guarapari
+2887529687,1500000,Apartamento,Guarapari,Praia do Morro,129,4,4,0,2,False,True,False,False,False,True,False,False,False,Guarapari
+2791349130,890000,Apartamento,Guarapari,Muquiçaba,110,2,2,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2724971070,818000,Apartamento,Guarapari,Praia do Morro,100,3,2,0,1,True,True,True,True,False,True,False,True,False,Guarapari
+2869916024,750000,Apartamento,Guarapari,Centro,123,2,2,0,1,False,False,False,True,False,True,False,False,True,Guarapari
+2826301119,690000,Apartamento,Guarapari,Centro,88,2,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2869916024,750000,Apartamento,Guarapari,Centro,123,2,2,1,1,False,False,False,True,False,True,False,False,True,Guarapari
+2826301119,690000,Apartamento,Guarapari,Centro,88,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2847478832,1100000,Casa,Guarapari,São Judas Tadeu,135,3,5,2,3,True,True,True,True,False,False,False,True,False,Guarapari
+2883803594,803538,Apartamento,Guarapari,Praia do Morro,80,2,2,2,1,False,False,True,True,False,True,False,False,False,Guarapari
+2716376712,2600000,Apartamento,Guarapari,Praia do Morro,190,4,5,2,1,False,True,True,False,True,False,False,False,True,Guarapari
+2835243068,780000,Apartamento,Guarapari,Praia do Morro,80,2,1,2,0,False,False,False,False,False,False,False,False,True,Guarapari
+2805416736,650000,Apartamento,Guarapari,Praia do Morro,85,2,1,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2886071380,750000,Apartamento,Guarapari,Praia do Morro,105,3,2,1,2,False,False,False,False,False,False,False,False,False,Guarapari
+2829651028,700000,Casa,Guarapari,Santa Mônica,110,3,3,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2825761529,1000000,Apartamento,Guarapari,Centro,82,2,1,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2776085432,550000,Apartamento,Guarapari,Centro,90,2,3,1,1,False,True,False,False,True,False,False,False,False,Guarapari
+2732445657,2000000,Cobertura,Guarapari,Praia do Morro,180,4,3,3,1,True,True,True,True,False,True,True,False,True,Guarapari
+2771752729,791175,Apartamento,Guarapari,Praia do Morro,75,2,2,1,2,True,True,False,True,False,False,False,False,False,Guarapari
+2872056502,430000,Apartamento,Guarapari,Praia do Morro,130,3,2,1,1,False,False,False,False,True,False,False,False,False,Guarapari
+2844998182,750000,Apartamento,Guarapari,Centro,70,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2838716523,690000,Apartamento,Guarapari,Centro,100,3,3,0,1,False,True,False,True,False,True,False,False,False,Guarapari
+2843483631,1100000,Apartamento,Guarapari,Nova Guarapari,114,3,3,2,1,True,True,False,True,False,False,False,False,False,Guarapari
+2865213078,872000,Apartamento,Guarapari,Praia do Morro,115,2,2,1,0,True,False,False,True,False,True,False,False,False,Guarapari
+2728634370,680000,Apartamento,Guarapari,Centro,68,2,3,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2821299824,1000000,Apartamento,Guarapari,Centro,94,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2886887977,1100000,Apartamento,Guarapari,Praia do Morro,100,3,2,1,1,False,True,True,False,True,True,False,False,False,Guarapari
+2890996083,2200000,Cobertura,Guarapari,Praia do Morro,250,4,4,0,2,True,True,True,True,True,True,True,False,False,Guarapari
+2596935668,450000,Apartamento,Guarapari,Praia do Morro,125,3,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2642506730,390000,Apartamento,Guarapari,Praia do Morro,50,1,1,0,0,False,False,False,False,True,True,False,False,False,Guarapari
+2885250507,500000,Apartamento,Guarapari,Enseada Azul,85,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2891939077,780000,Apartamento,Guarapari,Centro,109,2,3,0,1,False,True,False,False,False,True,False,False,False,Guarapari
+2825229135,900000,Apartamento,Guarapari,Centro,95,3,1,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2892361813,280000,Apartamento,Guarapari,Praia do Morro,65,2,1,0,0,False,False,False,False,True,False,False,False,False,Guarapari
+2894386793,1400000,Casa,Guarapari,Nova Guarapari,360,3,2,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2700805779,2350000,Apartamento,Guarapari,Praia do Morro,180,4,1,0,1,False,False,False,False,False,False,False,False,True,Guarapari
+2867598918,324990,Apartamento,Guarapari,Praia do Morro,36,1,1,1,1,True,True,True,True,False,False,False,False,False,Guarapari
+2761307729,800000,Apartamento,Guarapari,Praia do Morro,90,3,2,2,1,True,True,True,True,False,False,False,False,False,Guarapari
+2865473796,1390000,Apartamento,Guarapari,Praia do Morro,120,3,2,3,1,False,True,False,False,False,True,False,False,True,Guarapari
+2895102810,590000,Apartamento,Guarapari,Praia do Morro,60,2,2,1,1,False,True,False,False,False,True,False,False,False,Guarapari
+2571057696,900000,Apartamento,Guarapari,Praia do Morro,160,3,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2812884636,1437732,Apartamento,Guarapari,Centro,102,3,2,2,1,True,True,True,False,False,True,False,False,True,Guarapari
+2893407205,400000,Apartamento,Guarapari,Praia do Morro,80,2,2,1,1,False,False,False,False,True,False,False,False,True,Guarapari
+2734024022,789000,Apartamento,Guarapari,Praia do Morro,120,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2724971955,931185,Apartamento,Guarapari,Praia do Morro,121,2,2,2,1,True,False,True,True,False,False,False,False,False,Guarapari
+2869683780,750000,Apartamento,Guarapari,Praia do Morro,75,2,1,2,2,False,False,False,False,False,False,False,False,True,Guarapari
+2894390474,1500000,Casa,Guarapari,Enseada Azul,400,4,5,3,3,False,False,False,False,False,False,False,False,False,Guarapari
+2807864516,650000,Apartamento,Guarapari,Centro,90,2,3,1,0,False,True,False,False,False,True,False,False,False,Guarapari
+2838369482,890000,Apartamento,Guarapari,Praia do Morro,98,3,2,2,0,True,True,True,True,True,False,False,False,False,Guarapari
+2822934623,800000,Cobertura,Guarapari,Nova Guarapari,200,3,5,2,1,True,True,False,False,True,True,True,True,False,Guarapari
+2803665221,650000,Casa,Guarapari,Meaípe,300,4,2,4,0,True,True,True,False,True,False,False,True,True,Guarapari
+2883802800,790000,Apartamento,Guarapari,Centro,87,3,3,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2879146665,790000,Apartamento,Guarapari,Praia do Morro,76,2,1,1,1,True,True,True,True,True,True,False,False,True,Guarapari
+2848559530,500000,Apartamento,Guarapari,Praia do Morro,118,2,3,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2798814426,1230000,Apartamento,Guarapari,Praia do Morro,106,3,2,1,1,True,True,False,True,False,False,False,False,False,Guarapari
+2896373048,330000,Apartamento,Guarapari,Centro,25,1,1,0,0,False,False,False,False,True,True,False,False,True,Guarapari
+2873602678,2000000,Apartamento,Guarapari,Praia do Morro,111,3,2,2,1,True,True,True,True,False,True,False,False,True,Guarapari
+2889420794,1550000,Apartamento,Guarapari,Praia do Morro,118,3,2,0,1,True,True,True,False,False,True,False,False,True,Guarapari
+2596936371,429000,Casa,Guarapari,Fátima Cidade Jardim,90,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2555717804,850000,Apartamento,Guarapari,Enseada Azul,70,2,2,0,1,True,True,True,True,False,True,False,True,False,Guarapari
+2832261323,750000,Apartamento,Guarapari,São Judas Tadeu,110,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2814157762,1675000,Apartamento,Guarapari,Praia do Morro,119,3,4,0,3,True,True,True,True,False,True,False,False,True,Guarapari
+2843402545,475000,Cobertura,Guarapari,Praia do Morro,140,2,2,0,1,False,True,False,True,False,False,True,False,True,Guarapari
+2883799385,900000,Apartamento,Guarapari,Enseada Azul,85,2,2,0,1,True,True,True,True,False,True,False,False,True,Guarapari
+2773821864,890000,Apartamento,Guarapari,Praia do Morro,87,3,2,0,1,True,True,True,True,True,True,False,False,False,Guarapari
+2848105674,950000,Apartamento,Guarapari,Centro,78,2,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2843402545,475000,Cobertura,Guarapari,Praia do Morro,140,2,2,2,1,False,True,False,True,False,False,True,False,True,Guarapari
+2883799385,900000,Apartamento,Guarapari,Enseada Azul,85,2,2,1,1,True,True,True,True,False,True,False,False,True,Guarapari
+2773821864,890000,Apartamento,Guarapari,Praia do Morro,87,3,2,2,1,True,True,True,True,True,True,False,False,False,Guarapari
+2848105674,950000,Apartamento,Guarapari,Centro,78,2,1,2,0,False,False,False,False,False,False,False,False,False,Guarapari
+2786624120,580000,Apartamento,Guarapari,Praia do Morro,152,3,3,1,1,False,True,False,False,True,False,False,False,False,Guarapari
+2806473007,750000,Casa de condomínio,Guarapari,Meaípe,271,3,3,2,1,False,False,False,False,False,False,False,False,True,Guarapari
+2701527688,750000,Casa,Guarapari,Meaípe,271,3,3,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2689036551,850000,Casa,Guarapari,Nossa Senhora da Conceição,190,2,2,0,1,False,False,True,False,False,False,False,False,False,Guarapari
+2866804267,600000,Apartamento,Guarapari,Praia do Morro,98,3,3,1,2,False,False,False,False,False,True,False,False,False,Guarapari
+2838370273,500000,Apartamento,Guarapari,Centro,80,2,2,1,0,False,False,False,False,False,True,False,False,False,Guarapari
+2843481455,900000,Casa,Guarapari,Meaípe,280,6,3,6,0,False,False,False,False,False,False,False,False,False,Guarapari
+2847477064,940000,Apartamento,Guarapari,Praia do Morro,110,3,2,2,1,True,True,True,True,False,True,False,True,False,Guarapari
+2843479764,760000,Apartamento,Guarapari,Praia do Morro,65,2,1,1,1,True,True,False,True,False,True,False,False,False,Guarapari
+2890643501,1500000,Apartamento,Guarapari,Enseada Azul,115,3,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2870286676,650000,Apartamento,Guarapari,Centro,94,3,3,1,1,False,True,False,False,True,True,False,False,True,Guarapari
+2881210291,1600000,Cobertura,Guarapari,Centro,197,4,5,3,4,False,False,False,False,False,False,True,False,True,Guarapari
+2847475162,380000,Apartamento,Guarapari,Praia do Morro,48,1,2,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2883803677,390000,Apartamento,Guarapari,Muquiçaba,90,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2812883541,890000,Apartamento,Guarapari,Centro,148,3,3,1,2,True,True,False,False,True,True,False,True,True,Guarapari
+2893940777,1295000,Apartamento,Guarapari,Praia do Morro,117,3,3,2,3,True,True,True,False,False,True,False,False,True,Guarapari
+2556397814,1200000,Apartamento,Guarapari,Praia do Morro,145,3,4,2,2,True,True,True,True,False,True,False,False,False,Guarapari
+2887664480,2200000,Cobertura,Guarapari,Praia do Morro,256,4,4,0,2,True,False,True,True,False,True,True,False,False,Guarapari
+2829650142,1590000,Apartamento,Guarapari,Praia do Morro,119,3,4,0,3,False,False,False,False,False,False,False,False,False,Guarapari
+2887116180,1250000,Apartamento,Guarapari,Centro,94,3,2,0,1,True,False,True,True,False,True,False,False,False,Guarapari
+2868973498,950000,Apartamento,Guarapari,Praia do Morro,74,2,2,1,1,True,True,True,True,False,True,False,False,True,Guarapari
+2888084985,698000,Cobertura,Guarapari,Praia do Morro,130,4,3,0,0,True,True,True,False,False,False,True,False,False,Guarapari
+2850361013,450000,Apartamento,Guarapari,São Judas Tadeu,55,2,2,0,0,False,False,False,False,False,True,False,False,False,Guarapari
+2831227039,890000,Casa,Guarapari,Itapebussu,196,3,3,0,1,False,False,True,False,False,False,False,True,False,Guarapari
+2821909455,1450000,Apartamento,Guarapari,Muquiçaba,228,4,1,0,3,False,False,False,False,False,False,False,False,False,Guarapari
+2843206140,500000,Apartamento,Guarapari,Praia do Morro,100,2,2,0,1,False,False,True,False,False,False,False,False,False,Guarapari
+2751831107,690000,Casa,Guarapari,Nova Guarapari,480,4,1,2,3,False,False,False,False,False,False,False,False,False,Guarapari
+2798811808,1200000,Apartamento,Guarapari,Praia do Morro,111,3,2,2,1,True,True,True,True,True,True,False,False,False,Guarapari
+2796123520,700000,Apartamento,Guarapari,Praia do Morro,86,3,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2879790966,480000,Apartamento,Guarapari,Praia do Morro,78,2,1,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2867726923,450000,Apartamento,Guarapari,Ipiranga,86,2,2,1,1,False,False,False,False,False,False,False,False,True,Guarapari
+2892666809,1350000,Casa de condomínio,Guarapari,Village do Sol,300,4,4,7,2,True,False,False,False,False,False,False,False,False,Guarapari
+2810277922,980000,Apartamento,Guarapari,Praia do Morro,75,2,1,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2892536721,450000,Apartamento,Guarapari,São Judas Tadeu,55,1,1,1,0,False,True,False,False,False,False,False,False,False,Guarapari
+2733355628,850000,Casa,Guarapari,Praia do Morro,130,3,3,4,3,False,True,False,False,False,False,False,False,False,Guarapari
+2876934578,780000,Apartamento,Guarapari,Enseada Azul,85,2,2,3,1,True,False,True,True,False,True,False,False,False,Guarapari
+2894394515,1600000,Apartamento,Guarapari,Enseada Azul,100,2,3,2,1,False,False,False,False,False,False,False,False,False,Guarapari
+2877663380,1100000,Apartamento,Guarapari,Centro,200,3,2,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2830801032,370000,Apartamento,Guarapari,Praia do Morro,65,2,1,1,0,False,False,False,False,False,False,False,False,False,Guarapari
+2893655427,2300000,Apartamento,Guarapari,Praia do Morro,180,4,3,2,2,False,False,False,False,False,False,False,False,True,Guarapari
+2889150382,700000,Apartamento,Guarapari,Centro,112,3,3,1,1,False,False,False,False,False,True,False,False,False,Guarapari
+2893189906,580000,Cobertura,Guarapari,Praia do Morro,200,4,4,1,2,False,False,False,False,False,False,True,False,False,Guarapari
+2811395946,475000,Apartamento,Guarapari,Enseada Azul,83,2,2,1,1,False,True,False,False,False,False,False,False,False,Guarapari
+2878579174,1490000,Casa de condomínio,Guarapari,Meaípe,170,4,4,2,3,True,True,True,False,False,False,False,True,False,Guarapari
+2884956774,680000,Apartamento,Guarapari,Praia do Morro,100,2,1,2,1,False,False,False,False,False,True,False,False,True,Guarapari
+2894400397,1700000,Casa,Guarapari,Buenos Aires,1600,3,3,2,2,False,False,False,False,False,False,False,False,False,Guarapari
+2828227078,749000,Apartamento,Guarapari,São Judas Tadeu,100,3,2,1,1,False,False,False,False,False,False,False,False,False,Guarapari
+2811773976,630000,Cobertura,Guarapari,Praia do Morro,235,3,4,0,1,False,True,False,False,True,True,True,False,True,Guarapari
+2843482231,1290000,Apartamento,Guarapari,Praia do Morro,102,3,1,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2856845183,1230000,Apartamento,Guarapari,Praia do Morro,106,3,2,0,2,True,False,False,True,False,True,False,False,False,Guarapari
+2874673781,850000,Apartamento,Guarapari,Muquiçaba,68,2,2,0,0,True,True,False,False,False,True,False,False,True,Guarapari
+2889565411,450000,Apartamento,Guarapari,Centro,60,1,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2825718453,420000,Apartamento,Guarapari,Centro,68,1,1,0,0,False,False,False,False,False,False,False,False,False,Guarapari
+2847479245,1500000,Apartamento,Guarapari,Centro,110,3,3,0,1,False,False,False,False,False,True,False,False,False,Guarapari
+2881282299,400000,Apartamento,Guarapari,Praia do Morro,80,2,2,0,1,False,False,False,False,False,False,False,False,False,Guarapari
+2867327554,580000,Apartamento,Guarapari,Centro,100,3,3,0,1,False,True,False,False,False,True,False,False,True,Guarapari

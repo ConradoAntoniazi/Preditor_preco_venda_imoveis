@@ -1,0 +1,1460 @@
+﻿id_anuncio,preco_venda,tipo_imovel,cidade,bairro,area_m2,quartos,banheiros,vagas,tem_suite,tem_piscina,tem_varanda,tem_gourmet,tem_lazer,tem_mobiliado,tem_elevador,tem_cobertura,tem_garden,tem_frente_mar,cidade_busca
+2896589777,275000.0,Apartamento,Serra,Porto Canoa,52,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2877613479,,Apartamento,Serra,de Fátima,59,2,2,1,1,True,False,True,True,False,False,False,False,False,Serra
+2896579376,330000.0,Apartamento,Serra,Colina de Laranjeiras,51,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896490501,350000.0,Sobrado,Serra,Residencial Centro da Serra,172,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2896796195,230000.0,Casa,Serra,Vista da Serra II,94,2,2,1,2,False,False,False,False,False,False,False,False,False,Serra
+2893690541,690000.0,Sobrado,Serra,Planície da Serra,160,3,3,2,1,False,False,False,False,False,False,False,False,False,Serra
+2895027188,460000.0,Apartamento,Serra,Valparaíso,54,2,1,0,1,True,False,False,True,False,True,False,True,False,Serra
+2886480482,380000.0,Casa,Serra,Jardim Atlântico,80,2,1,2,2,False,False,False,False,False,False,False,False,False,Serra
+2887668882,837200.0,Apartamento,Serra,Jardim Tropical,62,2,3,2,0,True,False,False,True,False,False,False,False,False,Serra
+2809736486,490000.0,Apartamento,Serra,Morada de Laranjeiras,70,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896803475,335000.0,Casa,Serra,São Francisco,100,2,2,1,2,False,False,False,False,False,False,False,False,False,Serra
+2890826677,260000.0,Apartamento,Serra,Praia da Baleia,45,2,1,1,0,True,False,True,True,False,False,False,False,False,Serra
+2896801475,330000.0,Casa,Serra,Residencial Centro da Serra,120,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896042815,235000.0,Apartamento,Serra,Estância Monazítica,47,2,2,1,1,False,False,False,True,True,False,False,False,False,Serra
+2896527633,299900.0,Apartamento,Serra,Bicanga,49,2,2,1,1,True,False,False,True,False,True,False,False,False,Serra
+2877652591,,Apartamento,Serra,Bicanga,44,2,1,1,1,True,False,True,True,False,False,False,False,False,Serra
+2873573115,485000.0,Apartamento,Serra,Colina de Laranjeiras,62,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2896548903,370000.0,Apartamento,Serra,Jardim Limoeiro,61,3,2,1,1,True,False,False,True,False,True,False,False,False,Serra
+2812044723,479900.0,Apartamento,Serra,Morada de Laranjeiras,57,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2895891609,349000.0,Casa,Serra,São Francisco,150,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896541922,560000.0,Casa,Serra,Cidade Continental,270,4,3,3,1,False,False,False,False,False,False,False,False,False,Serra
+2866961579,319900.0,Apartamento,Serra,Parque Residencial Tubarão,70,2,2,0,0,False,True,True,False,True,False,False,False,False,Serra
+2889371404,1115000.0,Apartamento,Serra,Parque Residencial Laranjeiras,128,3,3,0,2,True,True,True,True,False,True,False,True,False,Serra
+2896468585,320000.0,Apartamento,Serra,Planalto de Carapina,46,2,1,0,0,True,False,True,True,False,True,False,False,False,Serra
+2869250731,360000.0,Casa,Serra,Praia de Capuba,75,2,2,0,1,False,False,True,False,False,False,False,False,False,Serra
+2896578530,292000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2870980126,537000.0,Apartamento,Serra,Parque Residencial Laranjeiras,62,2,1,1,1,True,True,True,True,False,True,False,True,False,Serra
+2896582075,280000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2876848792,450000.0,Apartamento,Serra,Jardim Limoeiro,52,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896125408,320000.0,Casa,Serra,Boa Vista I,180,3,1,2,0,False,False,False,False,False,False,False,False,False,Serra
+2889793694,279000.0,Apartamento,Serra,São Diogo II,52,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896579602,339999.0,Casa,Serra,Residencial Jacaraípe,93,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2886152368,220000000.0,Apartamento,Serra,São Patrício,46,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2886155946,300000.0,Apartamento,Serra,Colina de Laranjeiras,55,2,2,1,1,True,False,False,True,False,False,False,True,False,Serra
+2893534022,299000.0,Apartamento,Serra,Valparaíso,59,2,1,2,0,False,False,False,False,False,False,False,False,False,Serra
+2896229312,205000.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,1,0,False,False,False,False,True,False,False,False,False,Serra
+2893846002,280000.0,Apartamento,Serra,Colina de Laranjeiras,51,2,1,1,0,False,True,False,True,False,False,False,False,False,Serra
+2896539026,350000.0,Casa,Serra,Campinho da Serra I,69,3,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2894234599,230000.0,Apartamento,Serra,Conjunto Jacaraípe,53,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896572531,599000.0,Casa,Serra,Parque Jacaraípe,300,3,2,3,1,False,False,False,False,False,False,False,False,False,Serra
+2885283592,407000.0,Apartamento,Serra,Morada de Laranjeiras,56,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2892661852,260000.0,Apartamento,Serra,Ourimar,47,2,1,1,0,False,False,False,False,False,False,False,False,True,Serra
+2896749278,290000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2896482197,490000.0,Casa,Serra,Parque Jacaraípe,107,2,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2880972200,450000.0,Apartamento,Serra,Planalto de Carapina,52,2,2,1,1,True,False,True,True,False,True,False,False,False,Serra
+2895047383,290000.0,Casa,Serra,São Francisco,65,2,2,1,1,False,True,False,False,False,False,False,False,False,Serra
+2895520581,169000.0,Apartamento,Serra,São Judas Tadeu,48,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2889000273,355000.0,Apartamento,Serra,Valparaíso,52,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895374634,285000.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896443579,350008.0,Casa,Serra,das Laranjeiras,119,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896582877,240000.0,Apartamento,Serra,Estância Monazítica,49,2,2,0,2,False,False,False,False,False,False,False,False,False,Serra
+2895519397,330000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,0,0,False,False,False,True,False,True,False,False,False,Serra
+2889828778,285000.0,Apartamento,Serra,Valparaíso,55,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896459486,299000.0,Apartamento,Serra,Valparaíso,56,2,1,0,0,False,False,False,True,False,False,False,True,False,Serra
+2883084703,295000.0,Apartamento,Serra,Jardim Limoeiro,50,3,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2895886605,250000.0,Casa,Serra,Divinópolis,130,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893535258,497000.0,Apartamento,Serra,Valparaíso,67,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2894075806,319900.0,Apartamento,Serra,Colina de Laranjeiras,52,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2891749674,545000.0,Apartamento,Serra,Colina de Laranjeiras,71,2,2,2,1,True,True,True,True,False,True,False,True,False,Serra
+2896246275,240000.0,Apartamento,Serra,São Patrício,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2831708926,560000.0,Apartamento,Serra,Colina de Laranjeiras,65,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2895514792,310000.0,Apartamento,Serra,Praia da Baleia,60,2,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2884010277,440000.0,Apartamento,Serra,Colina de Laranjeiras,64,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896802674,330000.0,Casa,Serra,São Domingos,121,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2813150435,580000.0,Apartamento,Serra,Colina de Laranjeiras,65,2,1,1,1,True,True,False,False,False,True,False,False,False,Serra
+2872487321,280000.0,Apartamento,Serra,São Diogo II,55,2,2,1,1,True,False,True,True,False,False,False,True,False,Serra
+2895991888,330000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,True,False,True,True,True,True,False,True,False,Serra
+2894438395,598000.0,Apartamento,Serra,São Francisco,75,2,3,2,2,False,False,False,False,False,False,False,False,False,Serra
+2892007182,395000.0,Apartamento,Serra,Serra Centro,150,2,2,15,0,False,False,False,False,False,False,False,False,False,Serra
+2894894075,530000.0,Apartamento,Serra,Valparaíso,62,2,1,1,1,True,False,False,True,False,True,False,True,False,Serra
+2894900831,289000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2886152473,210000000.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2882639801,420000.0,Apartamento,Serra,Colina de Laranjeiras,55,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2840791094,320000.0,Casa,Serra,Parque das Gaivotas,300,2,2,5,1,False,True,True,False,False,False,False,False,False,Serra
+2858012056,475900.0,Apartamento,Serra,Parque Residencial Laranjeiras,64,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2878598612,349000.0,Casa,Serra,Continental,69,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2895611675,329992.0,Casa,Serra,Praia de Capuba,60,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2875709073,300000.0,Apartamento,Serra,Jardim Limoeiro,49,2,1,0,0,True,False,False,True,False,False,False,False,False,Serra
+2896612273,240000.0,Casa de condomínio,Serra,Vista da Serra I,56,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2879932975,599000.0,Apartamento,Serra,Colina de Laranjeiras,67,2,2,0,1,True,True,True,True,False,True,False,True,False,Serra
+2896068894,315000.0,Apartamento,Serra,São Diogo II,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896242626,290000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2894191776,299007.0,Casa,Serra,Enseada de Jacaraípe,75,2,2,0,0,False,False,False,False,False,False,False,False,False,Serra
+2895396276,400000.0,Casa,Serra,Parque Jacaraípe,116,2,2,3,0,False,True,False,False,False,False,False,False,False,Serra
+2895886621,360000.0,Casa,Serra,São Francisco,120,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895885866,265000.0,Casa,Serra,Alterosas,70,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2886895493,310000.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,1,0,True,False,False,True,False,True,False,True,False,Serra
+2894509999,279900.0,Apartamento,Serra,Colina de Laranjeiras,45,2,2,1,0,True,False,True,True,False,False,False,False,False,Serra
+2895373807,420000.0,Apartamento,Serra,Morada de Laranjeiras,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2828647321,350000.0,Casa,Serra,Feu Rosa,110,3,2,4,0,False,False,False,False,False,False,False,False,False,Serra
+2894649909,280000.0,Apartamento,Serra,São Diogo II,48,2,2,2,1,True,False,True,True,False,False,False,True,False,Serra
+2888125180,385000.0,Apartamento,Serra,Planalto de Carapina,52,2,2,1,1,True,True,False,True,False,False,False,False,False,Serra
+2876509192,350000.0,Apartamento,Serra,das Laranjeiras,119,2,3,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896238519,299000.0,Apartamento,Serra,Vista da Serra II,56,2,1,2,0,False,False,False,False,False,False,False,False,False,Serra
+2888984791,290000.0,Apartamento,Serra,Jardim Limoeiro,52,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2891516099,529900.0,Apartamento,Serra,Parque Residencial Laranjeiras,76,3,2,2,1,True,False,True,True,False,True,False,True,False,Serra
+2877166306,380000.0,Apartamento,Serra,Morada de Laranjeiras,52,3,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2896705183,290000.0,Apartamento,Serra,Jardim Limoeiro,54,2,2,1,1,True,False,False,True,False,False,False,False,False,Serra
+2895368872,669000.0,Apartamento,Serra,Morada de Laranjeiras,70,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2893025974,490000.0,Apartamento,Serra,Parque Residencial Laranjeiras,51,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2854356205,310000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,1,0,True,True,False,True,False,True,False,False,False,Serra
+2896073775,330000.0,Casa,Serra,Praia de Capuba,60,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2891810395,285000.0,Apartamento,Serra,Praia da Baleia,43,2,1,1,0,False,False,True,True,False,True,False,True,False,Serra
+2892036398,299000.0,Casa,Serra,Parque Jacaraípe,75,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2880974806,270000.0,Apartamento,Serra,São Patrício,52,2,1,0,0,False,True,True,False,True,False,False,False,False,Serra
+2894511827,215000.0,Apartamento,Serra,Taquara II,46,2,1,0,0,True,False,True,True,False,False,False,False,False,Serra
+2896115170,720000.0,Apartamento,Serra,Colina de Laranjeiras,85,3,2,0,1,False,True,True,True,False,True,False,False,False,Serra
+2891808875,220000.0,Apartamento,Serra,São Patrício,45,2,1,0,0,True,False,False,True,False,False,False,False,True,Serra
+2842727819,349000.0,Casa,Serra,Campinho da Serra I,69,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2622115434,450000.0,Casa,Serra,Serra Dourada III,300,4,2,0,2,False,False,False,False,False,False,False,False,False,Serra
+2888412390,330000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2873446388,485000.0,Apartamento,Serra,Colina de Laranjeiras,62,2,2,1,1,True,True,False,True,False,True,False,False,False,Serra
+2888430332,590000.0,Apartamento,Serra,Jardim Limoeiro,67,3,1,2,1,True,True,False,True,False,False,False,False,False,Serra
+2891819770,210000.0,Casa,Serra,Vila Nova de Colares,130,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2895660484,320000.0,Apartamento,Serra,Morada de Laranjeiras,46,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896525702,360000.0,Apartamento,Serra,Colina de Laranjeiras,52,2,1,1,0,False,True,True,False,False,False,False,False,False,Serra
+2883540596,295000.0,Apartamento,Serra,Valparaíso,67,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2886849697,299000.0,Casa,Serra,Enseada de Jacaraípe,75,2,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2894875073,590000.0,Apartamento,Serra,Morada de Laranjeiras,70,3,1,1,1,True,False,True,True,False,True,False,True,False,Serra
+2886513787,284900.0,Apartamento,Serra,Colina de Laranjeiras,51,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2859389361,439000.0,Apartamento,Serra,Jardim Limoeiro,58,2,1,1,1,True,True,True,True,False,True,False,True,False,Serra
+2867410302,680000.0,Apartamento,Serra,Santa Luzia,83,3,3,1,1,True,False,True,True,True,True,False,True,False,Serra
+2857953789,239000.0,Apartamento,Serra,Guaraciaba,45,2,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2893301381,560000.0,Apartamento,Serra,Colina de Laranjeiras,68,2,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2868557041,475000.0,Apartamento,Serra,Valparaíso,64,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2875606989,350000.0,Apartamento,Serra,Colina de Laranjeiras,46,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2883460446,299000.0,Apartamento,Serra,Castelândia,52,2,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2886612723,285000.0,Apartamento,Serra,Jardim Limoeiro,55,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2894212778,298000.0,Apartamento,Serra,Camará,45,2,1,1,0,False,False,False,False,False,True,False,False,False,Serra
+2896035988,290000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2894463785,290000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2888863881,300000.0,Casa,Serra,Enseada de Jacaraípe,75,2,2,0,1,False,True,True,False,False,False,False,True,False,Serra
+2895083201,315000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2890118579,279000.0,Apartamento,Serra,São Diogo II,46,2,2,0,1,True,False,True,True,False,False,False,True,False,Serra
+2896228194,370000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,0,0,True,False,True,True,False,True,False,True,False,Serra
+2890375601,314999.0,Apartamento,Serra,Praia da Baleia,45,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2893706688,537900.0,Apartamento,Serra,Colina de Laranjeiras,67,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893455301,598000.0,Apartamento,Serra,São Francisco,80,2,3,1,2,False,False,False,False,False,False,False,False,False,Serra
+2870296709,429000.0,Apartamento,Serra,Jardim Limoeiro,60,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896272097,280000.0,Casa,Serra,Residencial Centro da Serra,170,3,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2894965574,300000.0,Apartamento,Serra,Colina de Laranjeiras,54,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2886476988,435000.0,Casa,Serra,das Laranjeiras,80,2,1,2,2,False,True,True,False,False,False,False,False,False,Serra
+2892990847,420000.0,Apartamento,Serra,Colina de Laranjeiras,60,2,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2896217583,290000.0,Apartamento,Serra,Jardim Limoeiro,54,2,2,1,1,True,False,False,True,False,False,False,False,False,Serra
+2895180992,380000.0,Casa,Serra,Parque Residencial Mestre Álvaro,67,3,3,2,1,False,False,True,False,False,False,False,False,False,Serra
+2584913135,380000.0,Casa,Serra,São Lourenço,120,3,1,3,1,False,False,False,False,False,False,False,False,False,Serra
+2889190889,298000.0,Casa,Serra,São Francisco,75,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2872497628,250000.0,Apartamento,Serra,Jardim Atlântico,42,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2891492284,260000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2891500490,225000.0,Apartamento,Serra,Jardim Limoeiro,45,2,2,45,0,False,False,False,True,False,False,False,False,False,Serra
+2849092477,285000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,1,0,True,False,False,False,False,True,False,False,False,Serra
+2887843974,980000.0,Apartamento,Serra,Santa Luzia,132,4,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2883201386,575000.0,Apartamento,Serra,Colina de Laranjeiras,67,2,2,1,1,True,False,False,True,True,True,False,False,False,Serra
+2887639315,530000.0,Apartamento,Serra,Parque Residencial Laranjeiras,75,3,2,2,1,True,True,False,True,False,False,False,False,False,Serra
+2883805703,220000.0,Apartamento,Serra,Valparaíso,48,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2837566743,450000.0,Casa,Serra,Residencial Centro da Serra,197,3,4,3,1,False,False,False,False,False,False,False,False,False,Serra
+2831252916,520000.0,Casa,Serra,Reis Magos,300,4,4,5,1,False,False,False,False,False,False,False,False,False,Serra
+2579261645,387000.0,Apartamento,Serra,Jardim Limoeiro,50,2,2,1,1,True,False,False,True,False,True,False,False,False,Serra
+2889206317,599900.0,Apartamento,Serra,Valparaíso,65,3,2,0,1,True,False,True,True,False,True,False,True,False,Serra
+2895892531,350000.0,Casa,Serra,São Domingos,175,2,2,1,2,False,False,False,False,False,False,False,False,False,Serra
+2892458789,560000.0,Apartamento,Serra,Colina de Laranjeiras,65,2,2,0,1,True,True,True,True,False,True,False,True,False,Serra
+2869148211,290000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2871129990,500000.0,Apartamento,Serra,Parque Residencial Laranjeiras,66,2,2,0,1,True,True,True,True,False,True,False,True,False,Serra
+2893033782,450000.0,Apartamento,Serra,Jardim Limoeiro,55,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2853910537,530000.0,Apartamento,Serra,Valparaíso,65,3,2,1,1,False,False,True,True,False,True,False,False,False,Serra
+2890617318,530007.0,Apartamento,Serra,Valparaíso,65,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2890358390,385000.0,Apartamento,Serra,Parque Residencial Laranjeiras,55,2,1,1,1,True,False,True,True,False,True,False,False,False,Serra
+2814877529,480000.0,Apartamento,Serra,Morada de Laranjeiras,54,2,2,1,1,True,True,True,True,False,False,False,False,False,Serra
+2889137203,260000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,0,True,False,False,True,False,False,False,True,False,Serra
+2892022271,350000.0,Apartamento,Serra,Colina de Laranjeiras,52,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2893236977,530000.0,Apartamento,Serra,Jardim Limoeiro,70,3,2,2,1,True,False,True,True,False,True,False,True,False,Serra
+2893678020,330000.0,Casa,Serra,São Francisco,70,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2895365178,450000.0,Apartamento,Serra,Jardim Limoeiro,55,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2882392885,380000.0,Apartamento,Serra,Maringá,72,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2894472078,537900.0,Apartamento,Serra,Colina de Laranjeiras,65,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2896124277,349999.0,Apartamento,Serra,Conjunto Jacaraípe,52,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896068302,450000.0,Apartamento,Serra,Jardim Limoeiro,65,2,2,1,1,False,False,True,True,True,True,False,False,False,Serra
+2892659873,610000.0,Apartamento,Serra,Valparaíso,73,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2893544959,299009.0,Casa,Serra,Enseada de Jacaraípe,75,2,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2896133520,255000.0,Casa,Serra,Colina da Serra,46,2,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2895503929,399900.0,Apartamento,Serra,Morada de Laranjeiras,51,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896508234,988998.0,Casa,Serra,Morada de Laranjeiras,133,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2889321479,422000.0,Apartamento,Serra,Maringá,68,2,1,1,1,True,False,False,True,False,True,False,False,False,Serra
+2896744515,290000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2871234778,375000.0,Apartamento,Serra,Maringá,48,2,2,1,1,True,False,False,True,False,False,False,False,False,Serra
+2892665228,280000.0,Apartamento,Serra,Jardim Limoeiro,55,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2896531232,299000.0,Apartamento,Serra,Valparaíso,56,2,1,0,0,False,False,False,True,False,False,False,False,False,Serra
+2893765936,890000.0,Casa,Serra,Enseada de Jacaraípe,259,3,4,0,3,True,False,False,False,False,False,False,False,False,Serra
+2886886587,250000.0,Apartamento,Serra,Estância Monazítica,45,2,1,1,0,False,False,False,True,False,False,False,True,False,Serra
+2892998093,650000.0,Casa,Serra,Colina de Laranjeiras,100,3,2,0,2,False,False,False,False,False,False,False,False,False,Serra
+2886426989,400000.0,Apartamento,Serra,Planalto de Carapina,51,2,2,0,1,True,True,False,False,False,True,False,False,False,Serra
+2894893283,890000.0,Casa,Serra,Enseada de Jacaraípe,259,3,4,4,3,False,False,False,False,False,False,False,False,True,Serra
+2877455891,789000.0,Térrea,Serra,Planície da Serra,110,3,2,2,1,False,True,True,False,False,False,False,False,False,Serra
+2896458404,245000.0,Apartamento,Serra,Conjunto Jacaraípe,80,3,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2894438187,315000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2857655164,430000.0,Apartamento,Serra,Colina de Laranjeiras,66,3,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2823560973,250000.0,Apartamento,Serra,Ourimar,59,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2890644387,669997.0,Casa,Serra,Jardim Atlântico,114,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2894634205,310000.0,Apartamento,Serra,Jardim Limoeiro,52,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2857655364,289000.0,Apartamento,Serra,Ourimar,46,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2872527203,599000.0,Apartamento,Serra,Colina de Laranjeiras,72,2,1,1,1,True,True,False,False,False,False,False,False,False,Serra
+2894429791,340000.0,Apartamento,Serra,Valparaíso,65,3,1,1,0,False,False,True,True,False,False,False,False,False,Serra
+2881217137,590000.0,Apartamento,Serra,Morada de Laranjeiras,69,3,1,1,1,True,True,False,False,False,True,False,False,False,Serra
+2811625054,450000.0,Apartamento,Serra,Jardim Limoeiro,55,2,2,1,1,True,True,False,True,True,True,False,False,False,Serra
+2894637681,295000.0,Apartamento,Serra,Valparaíso,59,2,1,2,0,False,False,False,True,False,False,False,False,False,Serra
+2892241540,319991.0,Casa,Serra,Praia da Baleia,46,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2877705147,336000.0,Apartamento,Serra,Colina de Laranjeiras,42,2,1,1,0,False,False,True,True,False,False,False,True,False,Serra
+2894415677,340000.0,Apartamento,Serra,Colina de Laranjeiras,49,2,1,1,0,True,False,True,True,False,True,False,False,False,Serra
+2888238798,380000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2883991245,690000.0,Casa,Serra,Planície da Serra,145,3,2,2,1,False,True,True,False,False,False,False,False,False,Serra
+2891544776,470000.0,Apartamento,Serra,Jardim Limoeiro,50,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2896252386,1980007.0,Casa,Serra,Manguinhos,172,3,4,2,1,False,False,False,False,False,False,False,False,False,Serra
+2861510679,393400.0,Apartamento,Serra,Planalto de Carapina,46,2,1,1,1,True,False,False,False,False,True,False,True,False,Serra
+2886384476,259900.0,Apartamento,Serra,Colina de Laranjeiras,46,2,1,0,0,False,False,True,True,False,False,False,True,False,Serra
+2888036881,400000.0,Apartamento,Serra,Praia da Baleia,66,2,2,0,1,True,True,True,True,False,True,False,True,False,Serra
+2895675312,329997.0,Casa,Serra,Praia de Capuba,60,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2893033882,420000.0,Apartamento,Serra,Colina de Laranjeiras,51,3,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2852338103,300000.0,Apartamento,Serra,Praia da Baleia,55,2,1,0,0,True,False,False,True,True,True,False,False,False,Serra
+2865518357,600000.0,Apartamento,Serra,Colina de Laranjeiras,70,2,2,1,1,True,False,False,True,False,False,False,False,False,Serra
+2893027732,336000.0,Apartamento,Serra,Colina de Laranjeiras,44,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2892217505,299000.0,Apartamento,Serra,Conjunto Jacaraípe,48,2,1,1,0,True,False,False,True,False,True,False,True,False,Serra
+2874538501,380000.0,Apartamento,Serra,Planalto de Carapina,46,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896718776,260000.0,Apartamento,Serra,Castelândia,69,3,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2883917979,831589.0,Casa,Serra,Lagoa de Carapebus,219,3,3,3,1,True,False,False,True,True,False,False,False,False,Serra
+2886238183,680000.0,Casa,Serra,Planície da Serra,123,3,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2888755891,490000.0,Casa,Serra,Parque Jacaraípe,107,2,3,2,1,False,False,False,False,False,False,False,False,False,Serra
+2895296989,315000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2894470075,370000.0,Apartamento,Serra,Jardim Tropical,49,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2888987085,420000.0,Apartamento,Serra,Jardim Limoeiro,54,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2895100877,598000.0,Apartamento,Serra,São Francisco,75,2,3,1,2,False,False,False,False,False,False,False,False,False,Serra
+2835917128,515000.0,Apartamento,Serra,Valparaíso,62,2,2,1,1,True,True,False,True,False,False,False,False,False,Serra
+2888814174,295000.0,Apartamento,Serra,Residencial Vista do Mestre,50,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2884434678,295000.0,Apartamento,Serra,Jardim Limoeiro,50,3,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2889243713,407000.0,Apartamento,Serra,Morada de Laranjeiras,56,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896372474,359000.0,Casa,Serra,Jardim Carapina,120,4,2,3,0,False,False,False,False,False,False,False,False,False,Serra
+2895240523,285000.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,1,0,True,False,True,True,False,False,False,False,False,Serra
+2896233275,299000.0,Apartamento,Serra,Valparaíso,58,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893259914,360000.0,Apartamento,Serra,Colina de Laranjeiras,55,2,2,1,1,True,True,True,True,False,False,False,False,False,Serra
+2895322382,298000.0,Casa,Serra,São Francisco,75,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2892298476,349000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2888997973,335000.0,Casa,Serra,São Francisco,70,2,1,0,2,False,False,False,False,False,False,False,False,False,Serra
+2882637537,480000.0,Apartamento,Serra,Morada de Laranjeiras,67,3,2,0,0,True,True,True,True,False,True,False,True,False,Serra
+2893707477,599000.0,Apartamento,Serra,Colina de Laranjeiras,67,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2896243605,540000.0,Casa,Serra,Portal de Jacaraípe,110,3,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2832727214,500000.0,Casa,Serra,Residencial Centro da Serra,95,3,2,0,1,False,True,True,False,False,False,False,True,False,Serra
+2896261683,285000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2889143177,465000.0,Apartamento,Serra,Morada de Laranjeiras,57,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2676206575,200000.0,Apartamento,Serra,Jardim Atlântico,42,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895896073,330000.0,Casa,Serra,São Francisco,68,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2847755283,235000.0,Apartamento,Serra,Jardim Limoeiro,64,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2886707932,450000.0,Apartamento,Serra,Parque Residencial Laranjeiras,53,2,2,1,1,True,False,True,True,False,True,False,False,False,Serra
+2888421583,370000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2866803163,770000.0,Casa,Serra,Portal de Jacaraípe,200,3,3,3,1,False,True,False,False,False,False,False,False,True,Serra
+2896270003,329900.0,Apartamento,Serra,Jardim Limoeiro,51,2,2,1,1,True,False,True,True,False,True,False,False,False,Serra
+2892431879,334992.0,Casa,Serra,Residencial Centro da Serra,80,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2804511240,935000.0,Casa de condomínio,Serra,Morada de Laranjeiras,115,3,3,2,3,False,False,False,False,False,False,False,False,False,Serra
+2894672787,270000.0,Apartamento,Serra,Morada de Laranjeiras,45,2,1,1,0,True,False,False,True,False,False,False,True,False,Serra
+2829962659,420000.0,Apartamento,Serra,Morada de Laranjeiras,60,2,2,1,1,True,False,True,True,False,False,False,True,False,Serra
+2895298780,240000.0,Apartamento,Serra,São Patrício,55,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2892442537,395000.0,Casa,Serra,Serra Centro,68,2,2,6,0,False,False,False,False,False,False,False,False,False,Serra
+2892285223,205000.0,Apartamento,Serra,Taquara I,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2887186473,315000.0,Apartamento,Serra,São Diogo II,45,2,1,1,0,True,False,True,True,False,True,False,False,False,Serra
+2878084592,245000.0,Apartamento,Serra,Jardim Limoeiro,45,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2887849774,285000.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896192047,334995.0,Casa,Serra,São Francisco,73,2,3,2,2,False,False,False,False,False,False,False,False,False,Serra
+2724804741,300000.0,Apartamento,Serra,Conjunto Jacaraípe,47,2,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2896192697,330003.0,Casa,Serra,Praia de Capuba,60,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2849852621,290000.0,Apartamento,Serra,Colina de Laranjeiras,44,2,1,0,0,True,False,False,True,False,False,False,False,False,Serra
+2893212281,430000.0,Apartamento,Serra,Praia da Baleia,78,2,1,1,1,True,False,False,True,False,False,False,True,False,Serra
+2880969518,450000.0,Apartamento,Serra,Planalto de Carapina,52,2,2,0,1,True,False,True,True,False,True,False,True,False,Serra
+2896244589,840000.0,Casa,Serra,Planície da Serra,133,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893752591,385000.0,Apartamento,Serra,Parque Residencial Laranjeiras,58,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2894883791,290000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895373075,299000.0,Casa,Serra,Planalto Serrano,57,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2857658154,333000.0,Apartamento,Serra,São Diogo II,53,3,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2896227073,295000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,1,0,True,True,True,True,False,True,False,True,False,Serra
+2896255301,799000.0,Casa,Serra,Planície da Serra,120,3,2,3,1,False,False,False,False,False,False,False,False,False,Serra
+2818498317,450000.0,Apartamento,Serra,Morada de Laranjeiras,52,2,2,1,0,True,False,False,True,True,True,False,False,False,Serra
+2892444066,299000.0,Apartamento,Serra,Enseada de Jacaraípe,75,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2887845873,230000.0,Apartamento,Serra,Jardim Limoeiro,50,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2895486174,399000.0,Apartamento,Serra,Parque Residencial Laranjeiras,52,2,1,1,0,True,True,False,True,False,True,False,False,False,Serra
+2658411165,450000.0,Casa,Serra,Portal de Jacaraípe,120,4,3,2,2,False,False,False,False,False,False,False,False,False,Serra
+2896752801,319996.0,Apartamento,Serra,das Laranjeiras,67,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2892176454,275000.0,Apartamento,Serra,Praia da Baleia,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896233013,280000.0,Apartamento,Serra,Colina de Laranjeiras,42,2,1,1,0,True,False,True,True,False,False,False,False,False,Serra
+2856768662,299000.0,Apartamento,Serra,Praia da Baleia,44,2,1,1,0,False,True,False,False,False,False,False,False,False,Serra
+2894693197,340000.0,Casa,Serra,Residencial Jacaraípe,97,3,2,2,3,False,False,False,False,False,False,False,False,False,Serra
+2886889358,299000.0,Apartamento,Serra,Praia da Baleia,48,2,1,1,0,True,False,False,True,False,False,False,True,False,Serra
+2892005390,400000.0,Apartamento,Serra,Morada de Laranjeiras,60,3,1,6,0,True,False,True,True,False,False,False,False,False,Serra
+2887653279,259900.0,Apartamento,Serra,Manguinhos,45,2,1,1,0,True,False,False,True,False,True,False,True,False,Serra
+2885471394,450000.0,Apartamento,Serra,Colina de Laranjeiras,74,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2883760480,395000.0,Apartamento,Serra,Parque Residencial Laranjeiras,55,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2894863938,419997.0,Casa,Serra,São Francisco,83,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2881388489,380000.0,Apartamento,Serra,Enseada de Jacaraípe,72,2,3,0,2,False,True,True,False,False,False,False,False,False,Serra
+2884659381,190000.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,0,0,False,False,False,True,False,False,False,False,False,Serra
+2881578780,380000.0,Apartamento,Serra,Jardim Limoeiro,65,3,2,0,1,True,True,True,True,True,True,False,True,False,Serra
+2895893111,390000.0,Casa,Serra,Residencial Jacaraípe,96,2,2,1,2,False,False,False,False,False,False,False,False,False,Serra
+2882298743,399000.0,Apartamento,Serra,Morada de Laranjeiras,57,2,2,0,1,False,True,True,True,False,True,False,False,False,Serra
+2891752379,274900.0,Apartamento,Serra,São Diogo II,48,2,1,0,0,False,False,False,False,False,True,False,False,False,Serra
+2867756956,520000.0,Apartamento,Serra,Valparaíso,70,3,2,1,1,True,False,True,True,True,True,False,True,False,Serra
+2838563423,550000.0,Casa,Serra,Reis Magos,244,4,4,4,1,False,True,False,False,True,False,False,False,False,Serra
+2894375890,460000.0,Apartamento,Serra,Colina de Laranjeiras,100,2,2,10,1,False,False,False,False,False,False,False,False,False,Serra
+2889819377,439000.0,Apartamento,Serra,Jardim Limoeiro,55,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2886428397,265000.0,Apartamento,Serra,Colina de Laranjeiras,55,2,1,1,0,False,False,False,True,False,False,False,True,False,Serra
+2873188680,500000.0,Apartamento,Serra,Parque Residencial Laranjeiras,66,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2894633829,260000.0,Apartamento,Serra,Castelândia,69,3,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2894456376,280000.0,Apartamento,Serra,São Diogo II,48,2,1,2,1,True,False,True,True,False,False,False,True,False,Serra
+2878127400,290000.0,Apartamento,Serra,Colina de Laranjeiras,46,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2883914693,315000.0,Apartamento,Serra,Ourimar,60,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2877167981,349000.0,Apartamento,Serra,Colina de Laranjeiras,42,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2868905094,300000.0,Apartamento,Serra,Conjunto Jacaraípe,50,2,1,1,0,False,False,False,False,False,False,False,False,True,Serra
+2893457884,320000.0,Apartamento,Serra,Morada de Laranjeiras,49,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893254698,439000.0,Apartamento,Serra,Jardim Limoeiro,55,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2888326578,370000.0,Casa,Serra,Enseada de Jacaraípe,71,2,3,2,2,False,False,False,False,False,False,False,False,False,Serra
+2896098190,275000.0,Apartamento,Serra,Colina de Laranjeiras,46,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2892243039,435001.0,Casa,Serra,das Laranjeiras,75,2,2,2,2,False,False,False,False,False,False,False,False,False,Serra
+2883102876,450000.0,Casa,Serra,Feu Rosa,170,4,2,2,1,False,True,False,False,False,False,False,False,False,Serra
+2889825995,235000.0,Apartamento,Serra,Estância Monazítica,47,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2881393076,670000.0,Casa,Serra,São Francisco,105,3,2,10,1,False,False,False,False,False,False,False,False,True,Serra
+2892284794,220000.0,Apartamento,Serra,São Patrício,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2889187674,255000.0,Apartamento,Serra,Colina da Serra,61,2,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2890457799,285008.0,Apartamento,Serra,Praia da Baleia,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2883762479,545000.0,Casa,Serra,São Francisco,75,3,3,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893682297,537900.0,Apartamento,Serra,Colina de Laranjeiras,67,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2895315998,489900.0,Casa,Serra,São Francisco,75,2,2,2,1,False,True,True,False,False,False,False,False,False,Serra
+2896702980,720000.0,Apartamento,Serra,Valparaíso,76,3,2,0,1,True,False,True,True,False,False,False,False,False,Serra
+2886514175,369900.0,Apartamento,Serra,Colina de Laranjeiras,48,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2895544775,329998.0,Casa,Serra,Praia de Capuba,60,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896464999,279900.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2894595288,730000.0,Apartamento,Serra,Morada de Laranjeiras,103,3,2,1,1,True,True,False,True,False,True,False,False,False,Serra
+2879358181,400000.0,Apartamento,Serra,Morada de Laranjeiras,54,2,2,1,1,True,False,False,True,False,True,False,False,False,Serra
+2893686076,395000.0,Apartamento,Serra,Serra Centro,68,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2885665481,395000.0,Casa,Serra,Costa Dourada,80,2,1,2,2,False,False,False,False,False,False,False,False,False,Serra
+2894870576,300001.0,Apartamento,Serra,Valparaíso,59,2,1,2,0,False,False,False,False,False,False,False,False,False,Serra
+2884808984,265000.0,Apartamento,Serra,Jardim Atlântico,52,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2870988824,699000.0,Casa,Serra,Jardim Atlântico,106,3,3,3,1,False,True,False,False,False,False,False,False,False,Serra
+2896485707,285000.0,Apartamento,Serra,Valparaíso,56,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893692518,287500.0,Casa,Serra,Colina da Serra,125,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2848764529,520000.0,Casa,Serra,Residencial Centro da Serra,95,3,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2873667390,450000.0,Apartamento,Serra,Colina de Laranjeiras,74,2,1,1,0,True,True,True,True,False,True,False,False,False,Serra
+2896522332,670008.0,Casa,Serra,Jardim Atlântico,114,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2874989450,550000.0,Casa,Serra,das Laranjeiras,97,3,1,2,0,False,False,False,False,False,False,False,False,False,Serra
+2885972621,299000000.0,Apartamento,Serra,Valparaíso,60,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2894639074,840000.0,Casa,Serra,Planície da Serra,133,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2850523614,385000.0,Apartamento,Serra,Colina de Laranjeiras,54,2,2,1,1,False,True,True,True,False,True,False,False,False,Serra
+2876221378,660000.0,Casa,Serra,Estância Monazítica,114,2,1,1,2,False,False,False,False,False,False,False,False,False,Serra
+2890006880,435001.0,Casa,Serra,das Laranjeiras,75,2,2,2,2,False,False,False,False,False,False,False,False,False,Serra
+2896952879,510000.0,Apartamento,Serra,Parque Residencial Laranjeiras,67,2,1,1,1,True,True,True,True,False,True,False,False,False,Serra
+2888770112,260000.0,Casa,Serra,Cidade Pomar,130,2,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893004498,235000.0,Apartamento,Serra,Estância Monazítica,48,2,1,0,1,False,False,False,True,True,False,False,False,False,Serra
+2893536558,450000.0,Apartamento,Serra,Colina de Laranjeiras,65,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2863531457,800000.0,Casa,Serra,São Diogo II,150,3,3,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893677633,350000.0,Casa,Serra,Residencial Centro da Serra,67,2,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2800342850,538500.0,Apartamento,Serra,Colina de Laranjeiras,65,2,2,2,1,True,True,True,True,False,True,False,True,False,Serra
+2890829375,299000.0,Casa,Serra,Enseada de Jacaraípe,75,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2888419673,269000.0,Apartamento,Serra,Guaraciaba,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2886510599,299000.0,Casa,Serra,Enseada de Jacaraípe,73,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2892670078,570000.0,Casa,Serra,Jardim Guanabara,95,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2875825574,299900.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2884724036,435000.0,Casa,Serra,das Laranjeiras,80,2,2,2,2,False,False,False,False,False,False,False,False,False,Serra
+2848303213,530000.0,Apartamento,Serra,Valparaíso,65,2,2,1,1,True,True,True,True,False,False,False,True,False,Serra
+2884961194,305000.0,Apartamento,Serra,Residencial Vista do Mestre,48,2,1,1,1,True,False,True,True,False,False,False,False,False,Serra
+2887474110,250000.0,Apartamento,Serra,Jardim Atlântico,42,2,1,1,0,True,True,False,True,False,True,False,False,False,Serra
+2887439653,385000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,0,0,True,False,True,True,False,True,False,False,False,Serra
+2884975399,290000.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,1,0,True,False,True,True,False,True,False,False,False,Serra
+2892021589,600000.0,Casa,Serra,Colina de Laranjeiras,100,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2864677885,260000.0,Apartamento,Serra,Camará,48,2,1,1,0,True,False,True,True,False,False,False,False,False,Serra
+2893668796,235000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2893024407,220000.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2847475362,599000.0,Apartamento,Serra,Valparaíso,73,3,3,1,1,True,False,False,True,False,True,False,False,False,Serra
+2885161893,570000.0,Apartamento,Serra,Valparaíso,65,2,1,1,1,True,True,True,True,False,True,False,True,False,Serra
+2891844882,330000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2888000669,390000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2893680017,265000.0,Casa,Serra,Alterosas,70,2,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2893238679,545000.0,Casa,Serra,São Francisco,180,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2888953881,600000.0,Apartamento,Serra,Parque Jacaraípe,254,5,3,0,0,False,True,True,False,False,False,False,False,False,Serra
+2890807984,255000.0,Apartamento,Serra,São Patrício,48,2,1,1,0,True,False,False,False,False,False,False,False,False,Serra
+2890869617,265000.0,Apartamento,Serra,Residencial Vista do Mestre,45,2,1,0,0,True,False,True,True,False,True,False,True,False,Serra
+2860004681,320000.0,Apartamento,Serra,Colina de Laranjeiras,46,2,1,0,0,True,False,False,True,False,False,False,False,False,Serra
+2891801781,315000.0,Apartamento,Serra,Morada de Laranjeiras,45,2,1,0,0,True,False,True,True,False,True,False,True,False,Serra
+2895595496,259008.0,Casa,Serra,Residencial Centro da Serra,60,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2896674679,690002.0,Casa,Serra,Planície da Serra,145,3,3,2,1,False,False,False,False,False,False,False,False,False,Serra
+2886842911,245000.0,Apartamento,Serra,Castelândia,60,3,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2848303213,530000.0,Apartamento,Serra,Valparaíso,65,2,2,1,1,True,True,True,True,False,False,False,True,False,Serra
+2867538753,368000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2892401393,290000.0,Apartamento,Serra,Praia da Baleia,44,2,1,1,0,True,False,True,True,False,True,False,False,False,Serra
+2881138604,598000.0,Casa,Serra,Serra Centro,120,3,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2886842805,200000.0,Apartamento,Serra,Castelândia,45,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2896268390,550000.0,Apartamento,Serra,Morada de Laranjeiras,70,3,2,1,3,True,False,False,True,False,True,False,False,False,Serra
+2896443579,350008.0,Casa,Serra,das Laranjeiras,119,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896115170,720000.0,Apartamento,Serra,Colina de Laranjeiras,85,3,2,2,1,False,True,True,True,False,True,False,False,False,Serra
+2823560973,250000.0,Apartamento,Serra,Ourimar,59,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2891492284,260000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2889206317,599900.0,Apartamento,Serra,Valparaíso,65,3,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2896004811,299900.0,Apartamento,Serra,Morada de Laranjeiras,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2881043090,230000.0,Apartamento,Serra,São Patrício,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2855552044,310000.0,Casa,Serra,Manguinhos,330,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2894463785,290000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2895313491,298000.0,Casa,Serra,São Francisco,75,1,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2895956178,330009.0,Casa,Serra,Praia de Capuba,60,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2886403338,415000.0,Casa,Serra,São Francisco,180,3,2,3,1,False,False,False,False,False,False,False,False,False,Serra
+2896205886,218999.0,Apartamento,Serra,Taquara I,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2890097416,299000.0,Casa,Serra,Enseada de Jacaraípe,75,2,2,0,0,False,False,False,False,False,False,False,False,False,Serra
+2893168941,220000.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2891470899,580000.0,Apartamento,Serra,Valparaíso,67,3,2,0,1,False,True,False,True,False,True,False,False,False,Serra
+2883905475,550000.0,Casa,Serra,Residencial Jacaraípe,127,2,2,0,0,False,False,False,False,False,False,False,False,False,Serra
+2893236977,530000.0,Apartamento,Serra,Jardim Limoeiro,70,3,2,0,1,True,False,True,True,False,True,False,True,False,Serra
+2892431879,334992.0,Casa,Serra,Residencial Centro da Serra,80,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2888814174,295000.0,Apartamento,Serra,Residencial Vista do Mestre,50,2,2,0,1,True,False,True,True,False,True,False,True,False,Serra
+2894472078,537900.0,Apartamento,Serra,Colina de Laranjeiras,65,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2874403792,595000.0,Apartamento,Serra,Valparaíso,62,2,2,0,1,True,True,True,True,True,True,False,True,False,Serra
+2871129990,500000.0,Apartamento,Serra,Parque Residencial Laranjeiras,66,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2795776529,310000.0,Apartamento,Serra,Enseada de Jacaraípe,70,2,2,1,1,False,False,False,False,False,False,False,False,True,Serra
+2893238574,340000.0,Apartamento,Serra,Porto Canoa,55,3,1,1,0,True,False,False,True,False,True,False,True,False,Serra
+2839392662,450000.0,Casa,Serra,São Francisco,300,2,2,4,1,False,False,False,False,False,False,False,False,False,Serra
+2890896479,669991.0,Casa,Serra,Jardim Atlântico,114,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2885211175,240000.0,Apartamento,Serra,Jardim Atlântico,46,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2893025974,490000.0,Apartamento,Serra,Parque Residencial Laranjeiras,51,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2895520280,259004.0,Casa,Serra,Residencial Centro da Serra,60,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2875825574,299900.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2837198527,950000.0,Casa,Serra,Parque Residencial Laranjeiras,200,3,2,3,1,False,False,False,False,False,False,False,False,False,Serra
+2891838585,399900.0,Apartamento,Serra,Valparaíso,52,2,2,1,1,True,False,True,True,False,False,False,True,False,Serra
+2884444871,320000.0,Apartamento,Serra,Ourimar,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2881471598,925000.0,Apartamento,Serra,Parque Residencial Laranjeiras,109,4,2,2,1,False,True,True,True,False,True,False,False,False,Serra
+2881402923,490000.0,Casa,Serra,São Francisco,75,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2893558887,900000.0,Casa,Serra,Colina de Laranjeiras,118,3,3,2,1,False,True,False,False,False,False,False,False,False,Serra
+2896134744,760000.0,Casa,Serra,Planície da Serra,110,3,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2881103194,580000.0,Casa,Serra,Planície da Serra,89,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2894191776,299007.0,Casa,Serra,Enseada de Jacaraípe,75,2,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2895675312,329997.0,Casa,Serra,Praia de Capuba,60,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2890347639,434999.0,Casa,Serra,das Laranjeiras,75,2,2,2,2,False,False,False,False,False,False,False,False,False,Serra
+2892629675,920000.0,Casa,Serra,Colina de Laranjeiras,100,3,3,2,1,False,False,False,False,False,False,False,False,False,Serra
+2867756956,520000.0,Apartamento,Serra,Valparaíso,70,3,2,0,1,True,False,True,True,True,True,False,True,False,Serra
+2893758782,305000.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2894529188,278500.0,Apartamento,Serra,Colina de Laranjeiras,51,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2888125180,385000.0,Apartamento,Serra,Planalto de Carapina,52,2,2,0,1,True,True,False,True,False,False,False,False,False,Serra
+2836603118,359960.0,Casa,Serra,Costa Dourada,72,2,1,0,0,False,True,True,False,False,False,False,False,False,Serra
+2868728976,630000.0,Apartamento,Serra,Parque Residencial Laranjeiras,72,3,2,0,1,True,False,False,True,False,False,False,False,False,Serra
+2883201386,575000.0,Apartamento,Serra,Colina de Laranjeiras,67,2,2,0,1,True,False,False,True,True,True,False,False,False,Serra
+2860534570,320000.0,Apartamento,Serra,Conjunto Jacaraípe,54,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2893004498,235000.0,Apartamento,Serra,Estância Monazítica,48,2,1,0,1,False,False,False,True,True,False,False,False,False,Serra
+2886751891,605000.0,Apartamento,Serra,Parque Residencial Laranjeiras,69,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2893239169,230000.0,Apartamento,Serra,Conjunto Jacaraípe,53,2,1,1,0,False,False,True,True,False,False,False,False,False,Serra
+2895315998,489900.0,Casa,Serra,São Francisco,75,2,2,2,1,False,True,True,False,False,False,False,False,False,Serra
+2874846039,975000.0,Apartamento,Serra,Parque Residencial Laranjeiras,145,3,5,2,3,True,True,True,True,False,True,False,False,False,Serra
+2889825995,235000.0,Apartamento,Serra,Estância Monazítica,47,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2833396565,500000.0,Apartamento,Serra,Colina de Laranjeiras,68,2,2,1,1,True,True,True,True,False,False,False,False,False,Serra
+2893747105,330000.0,Casa,Serra,Enseada de Jacaraípe,50,2,1,3,0,False,False,False,False,False,False,False,False,False,Serra
+2811769840,560000.0,Apartamento,Serra,Colina de Laranjeiras,63,2,2,2,1,True,False,True,True,False,True,False,False,False,Serra
+2894412276,450000.0,Apartamento,Serra,Maringá,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2890057888,265000.0,Apartamento,Serra,Camará,48,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2874704280,215000.0,Apartamento,Serra,Estância Monazítica,47,2,1,1,0,False,False,True,True,True,False,False,False,False,Serra
+2895562179,290000.0,Apartamento,Serra,Jardim Limoeiro,54,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2890623015,270000.0,Apartamento,Serra,São Diogo II,52,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2872658222,450000.0,Apartamento,Serra,Praia da Baleia,66,3,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2873424586,450000.0,Apartamento,Serra,das Laranjeiras,65,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2858046416,390000.0,Casa,Serra,Costa Dourada,72,2,1,2,0,False,True,True,False,False,False,False,False,False,Serra
+2877400089,360000.0,Apartamento,Serra,Colina de Laranjeiras,49,2,1,1,0,True,True,True,True,False,True,False,True,False,Serra
+2896273688,329900.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895291394,289990.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2892659378,760000.0,Casa,Serra,Planície da Serra,110,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2896250780,330000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2854356205,310000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,0,0,True,True,False,True,False,True,False,False,False,Serra
+2896159089,289991.0,Apartamento,Serra,Praia da Baleia,63,3,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893402085,269000.0,Apartamento,Serra,Guaraciaba,48,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2883082213,230000.0,Apartamento,Serra,Residencial Centro da Serra,50,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2851819857,650000.0,Apartamento,Serra,Valparaíso,65,2,2,0,0,False,True,True,True,False,True,False,False,False,Serra
+2894654695,290000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2889121375,255000.0,Apartamento,Serra,Guaraciaba,45,2,1,0,0,True,False,True,True,False,False,False,True,False,Serra
+2887617720,370000.0,Apartamento,Serra,Colina de Laranjeiras,52,2,1,0,0,True,False,False,True,False,True,False,True,False,Serra
+2881053691,360000.0,Casa,Serra,Residencial Jacaraípe,100,3,2,0,0,False,False,False,False,False,False,False,False,False,Serra
+2887639315,530000.0,Apartamento,Serra,Parque Residencial Laranjeiras,75,3,2,2,1,True,True,False,True,False,False,False,False,False,Serra
+2883504029,330000.0,Apartamento,Serra,Colina de Laranjeiras,52,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2744446007,295000.0,Apartamento,Serra,Praia da Baleia,50,2,1,1,0,True,True,True,True,True,False,False,True,False,Serra
+2894668828,598000.0,Casa,Serra,São Francisco,75,2,3,2,2,False,False,False,False,False,False,False,False,False,Serra
+2886882609,260000.0,Apartamento,Serra,Manguinhos,45,2,1,1,0,True,False,False,True,False,True,False,True,False,Serra
+2676209819,500000.0,Casa,Serra,São Patrício,195,3,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2878107684,499000.0,Apartamento,Serra,Valparaíso,62,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2889143177,465000.0,Apartamento,Serra,Morada de Laranjeiras,57,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2894695005,240000.0,Apartamento,Serra,São Patrício,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2874097692,389300.0,Apartamento,Serra,Planalto de Carapina,50,2,2,1,0,True,False,False,True,False,True,False,False,False,Serra
+2813153717,790000.0,Casa,Serra,das Laranjeiras,220,4,1,5,0,False,True,False,False,False,False,False,False,False,Serra
+2894440099,475000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895299286,330000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2858997310,520000.0,Apartamento,Serra,Parque Residencial Laranjeiras,72,3,2,2,1,True,True,True,True,True,True,False,True,False,Serra
+2894714392,310000.0,Apartamento,Serra,Chácara Parreiral,50,2,1,1,0,True,True,True,True,False,True,False,True,False,Serra
+2894438395,598000.0,Apartamento,Serra,São Francisco,75,2,3,2,2,False,False,False,False,False,False,False,False,False,Serra
+2874894476,457990.0,Apartamento,Serra,Castelândia,70,3,2,1,1,False,False,False,False,False,False,False,False,True,Serra
+2890589434,298000.0,Casa,Serra,São Francisco,75,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2878129498,420000.0,Apartamento,Serra,Estância Monazítica,78,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2881418397,450000.0,Casa,Serra,Costa Bela,80,3,2,2,1,False,True,True,False,False,False,False,False,False,Serra
+2892228993,979990.0,Casa,Serra,Planície da Serra,151,3,3,3,1,False,True,True,False,False,False,False,False,False,Serra
+2890106979,265000.0,Apartamento,Serra,Camará,45,2,1,1,0,True,False,True,True,False,True,False,False,False,Serra
+2894290679,370000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2869844492,290000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,0,0,True,True,False,True,False,True,False,False,False,Serra
+2896491678,230000.0,Apartamento,Serra,Morada de Laranjeiras,48,2,1,0,0,False,False,True,True,True,False,False,True,False,Serra
+2887849774,285000.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2888046685,420000.0,Casa,Serra,São Francisco,100,2,1,11,0,False,False,False,False,False,False,False,False,True,Serra
+2890813880,330000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2857920235,320000.0,Casa,Serra,Residencial Jacaraípe,60,2,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2890623020,669993.0,Casa,Serra,Jardim Atlântico,114,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2895313480,287500.0,Casa,Serra,Colina da Serra,50,2,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2889393121,310000.0,Apartamento,Serra,Praia da Baleia,45,2,1,1,0,True,False,False,True,False,True,False,True,False,Serra
+2893238679,545000.0,Casa,Serra,São Francisco,180,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2886562200,438990.0,Apartamento,Serra,Planalto de Carapina,47,2,1,1,1,True,False,False,True,False,True,False,False,False,Serra
+2891765099,280000.0,Apartamento,Serra,Jardim Atlântico,56,2,1,1,1,True,False,False,True,False,True,False,True,False,Serra
+2893676078,859900.0,Casa de condomínio,Serra,Morada de Laranjeiras,110,3,3,2,1,True,False,True,True,False,False,False,True,False,Serra
+2878717898,599000.0,Apartamento,Serra,Colina de Laranjeiras,67,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2892225601,265000.0,Apartamento,Serra,Jardim Limoeiro,49,2,2,1,1,False,False,True,True,False,False,False,True,False,Serra
+2892659891,650000.0,Apartamento,Serra,Valparaíso,73,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2893438292,299004.0,Casa,Serra,Enseada de Jacaraípe,75,2,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2811510470,379000.0,Apartamento,Serra,Maringá,95,2,1,1,0,True,True,True,True,False,False,False,True,False,Serra
+2892974478,290000.0,Apartamento,Serra,São Francisco,75,2,1,1,1,False,True,False,False,False,False,False,False,False,Serra
+2896031185,329999.0,Apartamento,Serra,Colina de Laranjeiras,46,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896039720,230000.0,Apartamento,Serra,Jardim Atlântico,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2822977322,550000.0,Apartamento,Serra,Morada de Laranjeiras,55,3,2,2,1,True,False,True,True,False,False,False,False,False,Serra
+2831708926,560000.0,Apartamento,Serra,Colina de Laranjeiras,65,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2890375358,410000.0,Apartamento,Serra,Praia da Baleia,80,3,1,1,1,True,False,True,True,False,True,False,True,False,Serra
+2859315702,320000.0,Apartamento,Serra,Castelândia,52,2,1,1,0,True,True,True,True,False,True,False,True,False,Serra
+2894883184,290000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2892990847,420000.0,Apartamento,Serra,Colina de Laranjeiras,60,2,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2877705147,336000.0,Apartamento,Serra,Colina de Laranjeiras,42,2,1,1,0,False,False,True,True,False,False,False,True,False,Serra
+2866312286,589000.0,Apartamento,Serra,Valparaíso,73,3,2,0,1,True,False,False,True,False,True,False,False,False,Serra
+2895360633,590000.0,Apartamento,Serra,Morada de Laranjeiras,70,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2895180992,380000.0,Casa,Serra,Parque Residencial Mestre Álvaro,67,3,3,0,1,False,False,True,False,False,False,False,False,False,Serra
+2881382891,290000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2827943228,880000.0,Casa de condomínio,Serra,Praia da Baleia,120,3,3,0,1,True,False,True,True,False,False,False,True,False,Serra
+2888215189,279000.0,Apartamento,Serra,Praia da Baleia,56,2,1,0,0,True,False,True,True,False,True,False,True,False,Serra
+2867765556,499000.0,Apartamento,Serra,Colina de Laranjeiras,62,2,2,0,1,True,True,True,True,True,True,False,True,False,Serra
+2891842527,370000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895663574,315000.0,Apartamento,Serra,São Diogo II,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2894375890,460000.0,Apartamento,Serra,Colina de Laranjeiras,100,2,2,10,1,False,False,False,False,False,False,False,False,False,Serra
+2892461875,240000.0,Apartamento,Serra,Residencial Centro da Serra,45,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2890577408,315000.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,0,0,True,False,True,True,False,True,False,True,False,Serra
+2867409559,549000.0,Apartamento,Serra,Parque Residencial Laranjeiras,75,3,2,2,1,True,False,True,True,False,True,False,True,False,Serra
+2884457032,600000.0,Apartamento,Serra,Colina de Laranjeiras,68,2,2,0,1,False,True,True,True,False,True,False,False,False,Serra
+2892037008,537900.0,Apartamento,Serra,Parque Residencial Laranjeiras,65,2,2,2,1,True,True,True,True,False,True,False,True,False,Serra
+2894068980,537900.0,Apartamento,Serra,Colina de Laranjeiras,65,2,2,2,1,True,False,False,True,False,True,False,False,False,Serra
+2893404975,249999.0,Apartamento,Serra,Jardim Atlântico,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2855464048,440000.0,Apartamento,Serra,Jardim Limoeiro,60,2,2,1,1,True,False,False,True,False,True,False,True,False,Serra
+2883102876,450000.0,Casa,Serra,Feu Rosa,170,4,2,2,1,False,True,False,False,False,False,False,False,False,Serra
+2828767031,550000.0,Casa,Serra,Lagoa de Jacaraípe,160,2,4,4,1,False,False,False,False,False,False,False,False,False,Serra
+2892211684,300000.0,Apartamento,Serra,Colina de Laranjeiras,46,2,1,1,0,True,False,True,True,False,True,False,False,False,Serra
+2891511480,394999.0,Casa,Serra,Residencial Centro da Serra,68,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2871234873,280000.0,Apartamento,Serra,Ourimar,48,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2886882595,499000.0,Apartamento,Serra,Praia da Baleia,78,3,1,2,1,True,False,False,True,False,True,False,True,False,Serra
+2868960227,450000.0,Casa,Serra,Costa Bela,70,3,1,2,2,False,False,False,False,False,False,False,False,False,Serra
+2896227073,295000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,1,0,True,True,True,True,False,True,False,True,False,Serra
+2896744515,290000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2892297387,550000.0,Apartamento,Serra,Parque Residencial Laranjeiras,75,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2891519337,260000.0,Apartamento,Serra,Ourimar,45,2,1,1,0,False,False,False,False,False,False,False,False,True,Serra
+2866561092,1800000.0,Cobertura,Serra,Parque Residencial Laranjeiras,238,4,5,0,3,True,True,True,True,True,True,True,False,False,Serra
+2895268851,750000.0,Casa,Serra,Morada de Laranjeiras,145,3,3,2,1,True,False,True,True,False,False,False,False,False,Serra
+2872338854,625000.0,Sobrado,Serra,Parque Jacaraípe,100,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2872351276,730000.0,Apartamento,Serra,Morada de Laranjeiras,105,3,2,0,1,True,True,True,True,True,True,False,True,False,Serra
+2845969514,580000.0,Apartamento,Serra,Valparaíso,67,2,2,0,1,False,True,True,False,False,False,False,False,False,Serra
+2885186991,450000.0,Apartamento,Serra,Jardim Limoeiro,55,2,1,1,1,True,False,True,True,False,True,False,True,False,Serra
+2880974806,270000.0,Apartamento,Serra,São Patrício,52,2,1,0,0,False,True,True,False,True,False,False,False,False,Serra
+2891806737,260000.0,Apartamento,Serra,Castelândia,69,3,2,0,0,False,False,False,False,False,False,False,False,False,Serra
+2896006878,290000.0,Apartamento,Serra,Jardim Limoeiro,54,2,2,0,1,True,False,True,True,False,False,False,False,False,Serra
+2886888480,245000.0,Apartamento,Serra,Manguinhos,45,2,1,0,0,True,False,False,True,False,True,False,True,False,Serra
+2890620781,748998.0,Casa,Serra,Jardim Atlântico,180,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2791991921,880000.0,Casa,Serra,Parque Jacaraípe,420,2,4,6,1,False,False,False,False,False,False,False,False,True,Serra
+2893483928,280000.0,Apartamento,Serra,São Patrício,55,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2885776791,595000.0,Apartamento,Serra,Valparaíso,62,2,2,1,1,True,False,False,True,False,True,False,False,False,Serra
+2885018712,239000.0,Apartamento,Serra,Estância Monazítica,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2884176198,340000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2881384207,670000.0,Casa,Serra,São Francisco,126,3,4,4,1,False,False,False,False,False,False,False,False,True,Serra
+2895319020,220000.0,Apartamento,Serra,Castelândia,49,2,1,2,0,False,False,False,False,False,False,False,False,False,Serra
+2884178486,220000.0,Apartamento,Serra,Jardim Atlântico,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896582387,460000.0,Apartamento,Serra,Valparaíso,55,2,2,1,2,False,False,False,False,False,False,False,False,False,Serra
+2893449886,439000.0,Apartamento,Serra,Jardim Limoeiro,65,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2890595287,255000.0,Apartamento,Serra,São Patrício,48,2,1,1,0,True,False,False,False,False,False,False,False,False,Serra
+2891752379,274900.0,Apartamento,Serra,São Diogo II,48,2,1,1,0,False,False,False,False,False,True,False,False,False,Serra
+2877508074,420000.0,Apartamento,Serra,Estância Monazítica,78,2,2,1,1,False,False,False,False,False,False,False,False,True,Serra
+2874418411,320000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,1,0,True,True,False,False,False,True,False,False,False,Serra
+2895849574,420000.0,Casa,Serra,São Francisco,65,2,1,1,2,False,False,False,False,False,False,False,False,False,Serra
+2890358390,385000.0,Apartamento,Serra,Parque Residencial Laranjeiras,55,2,1,1,1,True,False,True,True,False,True,False,False,False,Serra
+2894884398,220000.0,Apartamento,Serra,Castelândia,49,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896256815,170000.0,Apartamento,Serra,São Judas Tadeu,43,2,1,1,0,False,False,True,False,False,False,False,True,False,Serra
+2893693090,840000.0,Sobrado,Serra,Planície da Serra,133,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2889999007,285003.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2873667390,450000.0,Apartamento,Serra,Colina de Laranjeiras,74,2,1,0,0,True,True,True,True,False,True,False,False,False,Serra
+2893244882,598000.0,Casa,Serra,São Francisco,75,2,3,0,0,False,False,False,False,False,False,False,False,False,Serra
+2896254682,380000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,0,True,False,True,True,False,True,False,False,False,Serra
+2892006502,449900.0,Apartamento,Serra,Morada de Laranjeiras,58,2,1,0,0,True,False,True,True,False,False,False,False,False,Serra
+2882639686,450000.0,Apartamento,Serra,Morada de Laranjeiras,52,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2890619078,435005.0,Casa,Serra,das Laranjeiras,75,2,2,0,2,False,False,False,False,False,False,False,False,False,Serra
+2896049681,240000.0,Casa de condomínio,Serra,Vista da Serra I,56,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2890201286,284992.0,Apartamento,Serra,Praia da Baleia,45,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2876457183,300000.0,Apartamento,Serra,Castelândia,52,2,1,0,0,True,True,True,False,False,True,False,False,False,Serra
+2893869477,220000.0,Apartamento,Serra,São Patrício,40,2,1,1,1,True,True,True,True,False,True,False,True,False,Serra
+2894378189,420000.0,Apartamento,Serra,Colina de Laranjeiras,80,2,2,1,1,True,True,True,True,False,True,False,False,False,Serra
+2888999474,355000.0,Apartamento,Serra,Valparaíso,50,2,1,1,0,True,False,True,True,False,True,False,False,False,Serra
+2882446396,320000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,1,True,True,False,False,False,True,False,False,False,Serra
+2828647321,350000.0,Casa,Serra,Feu Rosa,110,3,2,4,0,False,False,False,False,False,False,False,False,False,Serra
+2893421402,430000.0,Apartamento,Serra,Praia da Baleia,68,2,1,1,1,True,False,True,True,False,False,False,False,False,Serra
+2878892337,230000.0,Apartamento,Serra,Jardim Atlântico,43,2,1,1,0,True,False,True,True,True,True,False,True,False,Serra
+2863531457,800000.0,Casa,Serra,São Diogo II,150,3,3,2,1,False,False,False,False,False,False,False,False,False,Serra
+2887402774,295000.0,Apartamento,Serra,Valparaíso,67,2,1,1,0,False,False,True,True,False,False,False,True,False,Serra
+2894693197,340000.0,Casa,Serra,Residencial Jacaraípe,97,3,2,2,3,False,False,False,False,False,False,False,False,False,Serra
+2891155190,490000.0,Casa,Serra,Parque Jacaraípe,107,2,1,1,1,True,False,True,False,False,False,False,False,False,Serra
+2889190277,300000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2894436382,300000.0,Apartamento,Serra,Enseada de Jacaraípe,49,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2888990277,570000.0,Apartamento,Serra,Jardim Limoeiro,67,3,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2884177975,420000.0,Apartamento,Serra,Jardim Limoeiro,60,3,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2891816274,590000.0,Apartamento,Serra,Valparaíso,62,2,1,1,1,True,False,True,True,False,True,False,True,False,Serra
+2858176757,599000.0,Apartamento,Serra,Valparaíso,73,3,2,1,1,True,True,True,True,False,False,False,False,False,Serra
+2891900696,899000.0,Casa,Serra,Colina de Laranjeiras,140,3,4,2,1,False,False,False,False,False,False,False,False,False,Serra
+2890895192,650001.0,Apartamento,Serra,Valparaíso,77,3,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2892998997,279000.0,Apartamento,Serra,São Diogo II,50,2,1,1,1,False,False,False,True,True,False,False,False,False,Serra
+2886409390,269000.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,1,0,True,False,True,True,False,False,False,False,False,Serra
+2893230614,420000.0,Apartamento,Serra,Colina de Laranjeiras,51,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2886397282,240000.0,Apartamento,Serra,Residencial Centro da Serra,45,2,1,1,0,True,False,True,True,True,True,False,True,False,Serra
+2857974235,650000.0,Apartamento,Serra,Valparaíso,62,2,2,0,1,True,True,False,True,True,True,False,False,False,Serra
+2880989988,710000.0,Apartamento,Serra,Parque Residencial Laranjeiras,65,2,2,0,1,True,True,True,True,True,True,False,True,False,Serra
+2895386573,494900.0,Casa,Serra,Alterosas,120,2,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2859638027,450000.0,Apartamento,Serra,Jardim Limoeiro,60,2,2,0,1,True,False,True,True,False,True,False,True,False,Serra
+2894063999,600000.0,Casa,Serra,Colina de Laranjeiras,100,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2892555287,299000.0,Apartamento,Serra,Praia da Baleia,45,2,1,0,0,True,True,True,False,False,False,False,False,False,Serra
+2889167376,279900.0,Apartamento,Serra,Colina de Laranjeiras,46,2,2,0,1,True,False,False,True,False,False,False,True,False,Serra
+2843623123,230000.0,Apartamento,Serra,das Laranjeiras,59,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2884808985,550000.0,Casa,Serra,São Francisco,75,2,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2889817901,450000.0,Apartamento,Serra,Jardim Limoeiro,55,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2890828982,1380000.0,Casa,Serra,Morada de Laranjeiras,105,30,2,3,1,False,False,False,False,False,False,False,False,False,Serra
+2896232382,234999.0,Apartamento,Serra,Planície da Serra,44,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2893755782,670000.0,Casa,Serra,São Francisco,105,3,2,2,1,False,False,False,False,False,False,False,False,True,Serra
+2893686076,395000.0,Apartamento,Serra,Serra Centro,68,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895083402,290000.0,Apartamento,Serra,Praia da Baleia,44,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2889243713,407000.0,Apartamento,Serra,Morada de Laranjeiras,56,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896326803,260000.0,Casa,Serra,Parque das Gaivotas,290,2,1,1,0,False,True,False,False,False,False,False,False,False,Serra
+2866123769,699000.0,Apartamento,Serra,Parque Residencial Laranjeiras,80,3,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2893016576,299000.0,Casa,Serra,Praia de Capuba,75,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2890606618,600000.0,Apartamento,Serra,Colina de Laranjeiras,93,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2892243039,435001.0,Casa,Serra,das Laranjeiras,75,2,2,2,2,False,False,False,False,False,False,False,False,False,Serra
+2889202178,349000.0,Casa,Serra,Enseada de Jacaraípe,58,2,1,3,0,False,False,False,False,False,False,False,False,False,Serra
+2896517017,220000.0,Apartamento,Serra,Conjunto Jacaraípe,49,2,1,1,0,False,False,True,True,False,False,False,False,False,Serra
+2878598612,349000.0,Casa,Serra,Continental,69,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2672452106,2750000.0,Casa de condomínio,Serra,Manguinhos,276,4,4,7,4,True,True,False,True,False,False,False,False,False,Serra
+2893442200,260000.0,Apartamento,Serra,Jardim Atlântico,49,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2884724036,435000.0,Casa,Serra,das Laranjeiras,80,2,2,2,2,False,False,False,False,False,False,False,False,False,Serra
+2896233275,299000.0,Apartamento,Serra,Valparaíso,58,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2892869583,315000.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2896717309,320000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,1,0,False,False,False,False,False,False,False,False,True,Serra
+2893689275,599000.0,Apartamento,Serra,Colina de Laranjeiras,67,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2894727191,470000.0,Apartamento,Serra,Morada de Laranjeiras,56,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2895098376,279900.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2869553180,285000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,0,0,True,False,True,True,False,False,False,True,False,Serra
+2895058238,420003.0,Casa,Serra,São Francisco,83,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893448337,330000.0,Apartamento,Serra,Colina de Laranjeiras,55,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2889208182,350000.0,Apartamento,Serra,das Laranjeiras,119,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2887027377,345000.0,Apartamento,Serra,Chácara Parreiral,52,2,1,1,0,True,True,True,True,False,True,False,True,False,Serra
+2893680017,265000.0,Casa,Serra,Alterosas,70,2,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2866803163,770000.0,Casa,Serra,Portal de Jacaraípe,200,3,3,3,1,False,True,False,False,False,False,False,False,True,Serra
+2896790907,880008.0,Casa,Serra,Planície da Serra,136,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2885472685,445000.0,Apartamento,Serra,Parque Residencial Laranjeiras,60,2,2,1,1,True,False,True,True,False,True,False,False,False,Serra
+2886842974,259000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2886510486,339000.0,Apartamento,Serra,São Diogo II,60,3,1,1,0,False,False,False,False,True,False,False,False,False,Serra
+2883807673,250000.0,Casa,Serra,Novo Horizonte,125,2,1,4,0,False,False,False,False,False,False,False,False,False,Serra
+2891794246,265000.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2874627936,750000.0,Casa,Serra,das Laranjeiras,250,4,5,2,1,True,True,True,False,False,False,False,True,False,Serra
+2887439653,385000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,0,0,True,False,True,True,False,True,False,False,False,Serra
+2896674774,280983.0,Apartamento,Serra,Porto Canoa,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2884151100,499999.0,Casa,Serra,Residencial Centro da Serra,200,3,2,3,1,False,False,False,False,False,False,False,False,False,Serra
+2896718776,260000.0,Apartamento,Serra,Castelândia,69,3,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893663078,239000.0,Apartamento,Serra,Estância Monazítica,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2872098403,290000.0,Apartamento,Serra,Residencial Vista do Mestre,49,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2866891321,400000.0,Apartamento,Serra,Santa Luzia,64,3,2,1,1,True,False,False,True,False,True,False,False,False,Serra
+2881568106,670000.0,Casa,Serra,São Francisco,105,3,2,1,1,False,True,False,False,False,False,False,False,False,Serra
+2866311689,480000.0,Apartamento,Serra,Morada de Laranjeiras,62,2,2,1,1,True,True,True,True,True,True,False,True,False,Serra
+2874944206,550000.0,Apartamento,Serra,Morada de Laranjeiras,70,3,1,1,0,True,True,True,True,False,True,False,True,False,Serra
+2889377992,290000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,0,True,True,True,True,False,False,False,False,False,Serra
+2849852621,290000.0,Apartamento,Serra,Colina de Laranjeiras,44,2,1,0,0,True,False,False,True,False,False,False,False,False,Serra
+2893876779,570000.0,Apartamento,Serra,Valparaíso,60,2,1,1,1,True,False,True,True,False,True,False,True,False,Serra
+2894411292,780000.0,Casa,Serra,Planície da Serra,138,3,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2676214106,550000.0,Casa,Serra,Costa Bela,225,3,3,0,1,False,False,False,False,False,False,False,False,False,Serra
+2820456217,540000.0,Apartamento,Serra,Colina de Laranjeiras,65,2,2,0,1,True,True,True,True,True,True,False,True,False,Serra
+2894766580,299900.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,0,0,True,False,True,True,False,False,False,False,False,Serra
+2883378426,680000.0,Casa,Serra,Jardim Atlântico,140,3,2,0,1,True,False,False,False,False,False,False,False,False,Serra
+2896801386,330000.0,Casa,Serra,São Francisco,68,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2836929389,670000.0,Casa,Serra,Serramar,300,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2864892967,640000.0,Apartamento,Serra,Colina de Laranjeiras,86,2,2,2,1,True,True,True,True,True,True,False,True,False,Serra
+2895452142,349002.0,Casa,Serra,Campinho da Serra I,70,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2881042573,680000.0,Apartamento,Serra,Santa Luzia,83,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2886426989,400000.0,Apartamento,Serra,Planalto de Carapina,51,2,2,1,1,True,True,False,False,False,True,False,False,False,Serra
+2869969516,529900.0,Apartamento,Serra,Parque Residencial Laranjeiras,62,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2894845480,290000.0,Apartamento,Serra,Jardim Limoeiro,47,2,2,1,1,True,False,True,True,False,False,False,False,False,Serra
+2893405793,260000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,True,Serra
+2890641028,650009.0,Apartamento,Serra,Valparaíso,77,3,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2893878078,399900.0,Casa de condomínio,Serra,Praia da Baleia,70,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2886828189,335000.0,Casa,Serra,São Francisco,70,2,1,1,2,False,False,False,False,False,False,False,False,False,Serra
+2890634703,749003.0,Casa,Serra,Jardim Atlântico,180,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2889354996,399000.0,Apartamento,Serra,Praia da Baleia,64,2,1,1,0,True,True,True,True,False,True,False,True,False,Serra
+2867177905,407000.0,Apartamento,Serra,Morada de Laranjeiras,56,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2892176454,275000.0,Apartamento,Serra,Praia da Baleia,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2889187674,255000.0,Apartamento,Serra,Colina da Serra,61,2,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2874484096,510000.0,Apartamento,Serra,Planalto de Carapina,54,2,2,1,1,True,False,False,False,False,True,False,False,False,Serra
+2885464881,659990.0,Casa,Serra,Planície da Serra,105,3,2,2,1,False,True,True,False,False,False,False,False,False,Serra
+2896221991,285000.0,Apartamento,Serra,Valparaíso,56,2,1,1,0,False,False,True,True,False,False,False,False,False,Serra
+2893301381,560000.0,Apartamento,Serra,Colina de Laranjeiras,68,2,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2890643287,335003.0,Casa,Serra,Residencial Centro da Serra,80,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2894429791,340000.0,Apartamento,Serra,Valparaíso,65,3,1,1,0,False,False,True,True,False,False,False,False,False,Serra
+2860215276,650000.0,Casa,Serra,Reis Magos,320,4,4,0,2,False,False,False,False,False,False,False,False,False,Serra
+2891764827,319900.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,0,0,True,False,False,True,False,True,False,True,False,Serra
+2893645696,310000.0,Apartamento,Serra,Jardim Limoeiro,52,2,1,0,0,True,False,True,True,False,False,False,False,False,Serra
+2804511240,935000.0,Casa de condomínio,Serra,Morada de Laranjeiras,115,3,3,2,3,False,False,False,False,False,False,False,False,False,Serra
+2896030331,275000.0,Apartamento,Serra,Colina de Laranjeiras,46,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2880644421,545000.0,Apartamento,Serra,Colina de Laranjeiras,60,2,2,0,1,True,True,True,True,False,True,False,False,False,Serra
+2876261075,299000.0,Apartamento,Serra,Colina de Laranjeiras,42,2,1,0,1,False,False,True,True,False,False,False,True,False,Serra
+2875177110,575000.0,Apartamento,Serra,Colina de Laranjeiras,68,2,2,0,1,False,True,True,True,False,True,False,True,False,Serra
+2896232198,235000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2875981391,440000.0,Apartamento,Serra,Valparaíso,56,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2894850103,280000.0,Apartamento,Serra,Jardim Limoeiro,50,2,2,1,1,True,False,False,False,False,True,False,False,False,Serra
+2861510679,393400.0,Apartamento,Serra,Planalto de Carapina,46,2,1,1,1,True,False,False,False,False,True,False,True,False,Serra
+2884743005,699000.0,Apartamento,Serra,Valparaíso,77,3,2,2,1,True,True,True,True,True,True,False,True,False,Serra
+2884786218,350000.0,Apartamento,Serra,Ourimar,53,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2894661688,210000.0,Apartamento,Serra,Taquara II,45,2,2,1,0,False,False,False,True,False,False,False,False,False,Serra
+2891504984,230000.0,Casa,Serra,Residencial Centro da Serra,60,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2809991382,350000.0,Casa,Serra,Feu Rosa,180,4,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2891977073,249999.0,Apartamento,Serra,Parque Jacaraípe,48,2,2,1,1,False,False,False,True,False,False,False,False,False,Serra
+2883540596,295000.0,Apartamento,Serra,Valparaíso,67,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2874098286,364400.0,Apartamento,Serra,Planalto de Carapina,45,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2886188282,749000.0,Casa de condomínio,Serra,Praia da Baleia,140,3,3,2,1,False,True,True,True,False,False,False,True,False,Serra
+2676206576,400000.0,Casa,Serra,São Patrício,250,3,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2893421450,640000.0,Apartamento,Serra,Valparaíso,65,2,1,1,1,True,True,True,True,False,True,False,True,False,Serra
+2891796990,569900.0,Apartamento,Serra,Valparaíso,62,2,2,1,1,True,False,True,True,False,True,False,False,False,Serra
+2896531232,299000.0,Apartamento,Serra,Valparaíso,56,2,1,2,0,False,False,False,True,False,False,False,False,False,Serra
+2886488843,295000.0,Apartamento,Serra,Nova Zelândia,43,2,1,1,0,True,True,True,False,True,True,False,False,False,Serra
+2894063685,890000.0,Casa,Serra,Colina de Laranjeiras,110,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896244589,840000.0,Casa,Serra,Planície da Serra,133,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2878599588,363000.0,Apartamento,Serra,Jardim Limoeiro,57,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2894511827,215000.0,Apartamento,Serra,Taquara II,46,2,1,1,0,True,False,True,True,False,False,False,False,False,Serra
+2893888674,450000.0,Apartamento,Serra,Costa Bela,80,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2852248631,435000.0,Apartamento,Serra,Praia da Baleia,68,3,2,0,1,True,True,False,True,False,False,False,False,False,Serra
+2893226183,419999.0,Casa,Serra,São Francisco,70,2,2,0,0,False,False,False,False,False,False,False,False,False,Serra
+2875607297,480000.0,Apartamento,Serra,Parque Residencial Laranjeiras,58,2,2,0,1,True,False,False,True,False,False,False,False,False,Serra
+2890567890,314999.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2896124277,349999.0,Apartamento,Serra,Conjunto Jacaraípe,52,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2875517774,410000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,0,1,True,False,True,True,False,True,False,True,False,Serra
+2895598980,349009.0,Casa,Serra,Campinho da Serra I,70,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2838564416,490000.0,Apartamento,Serra,Colina de Laranjeiras,60,2,2,1,1,True,True,False,True,False,True,False,False,False,Serra
+2838564416,490000.0,Apartamento,Serra,Colina de Laranjeiras,60,2,2,1,1,True,True,False,True,False,True,False,False,False,Serra
+2882067282,425000.0,Apartamento,Serra,Colina de Laranjeiras,78,2,1,1,1,True,False,False,True,False,False,False,False,False,Serra
+2893259798,240000.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2892312695,660000.0,Casa,Serra,Planície da Serra,105,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2893379478,240000.0,Apartamento,Serra,Jardim Atlântico,41,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893650048,290000.0,Apartamento,Serra,Praia da Baleia,44,2,1,1,0,True,False,True,True,False,False,False,False,False,Serra
+2894658276,349000.0,Apartamento,Serra,Valparaíso,53,3,2,1,3,True,False,False,True,False,False,False,True,False,Serra
+2893452102,220000.0,Apartamento,Serra,Jardim Limoeiro,51,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2884949382,290000.0,Apartamento,Serra,Enseada de Jacaraípe,50,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2833690534,680000.0,Casa,Serra,Portal de Jacaraípe,120,3,2,2,1,False,True,False,False,False,False,False,False,False,Serra
+2893668796,235000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2893241776,550000.0,Apartamento,Serra,Morada de Laranjeiras,70,3,1,1,0,True,False,True,True,True,True,False,True,False,Serra
+2865289293,520000.0,Apartamento,Serra,Valparaíso,65,2,2,1,1,True,True,False,True,False,True,False,True,False,Serra
+2893259517,330000.0,Apartamento,Serra,Colina de Laranjeiras,51,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2892225244,420000.0,Apartamento,Serra,Colina de Laranjeiras,80,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2876955697,369000.0,Apartamento,Serra,Conjunto Jacaraípe,52,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2842340973,390000.0,Casa,Serra,Nova Carapina I,170,5,2,3,1,False,False,False,False,False,False,False,False,False,Serra
+2895611675,329992.0,Casa,Serra,Praia de Capuba,60,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2811204663,600000.0,Casa,Serra,Alterosas,105,3,3,4,1,False,True,False,False,False,False,False,False,False,Serra
+2869943505,550000.0,Apartamento,Serra,Parque Residencial Laranjeiras,60,2,2,1,1,True,False,False,True,False,True,False,False,False,Serra
+2896746280,300000.0,Apartamento,Serra,Morada de Laranjeiras,52,2,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2892146076,245000.0,Apartamento,Serra,Jardim Limoeiro,51,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2896243605,540000.0,Casa,Serra,Portal de Jacaraípe,110,3,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2886397828,620000.0,Apartamento,Serra,Morada de Laranjeiras,83,2,2,0,1,True,True,True,True,False,True,False,False,False,Serra
+2892282796,530000.0,Apartamento,Serra,Colina de Laranjeiras,54,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2896443282,819996.0,Casa,Serra,São Francisco,223,4,3,0,2,False,False,False,False,False,False,False,False,False,Serra
+2895896560,340000.0,Casa,Serra,Residencial Jacaraípe,100,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2551563896,400000.0,Casa,Serra,Valparaíso,100,2,2,0,1,False,True,False,False,False,False,False,False,False,Serra
+2894077512,739000.0,Térrea,Serra,Parque Residencial Mestre Álvaro,230,3,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2891504393,230000.0,Apartamento,Serra,Chácara Parreiral,49,2,1,0,0,False,False,False,True,False,False,False,True,False,Serra
+2895455185,250000.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2890640551,269993.0,Apartamento,Serra,São Diogo II,52,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893685177,670000.0,Casa,Serra,Parque Residencial Laranjeiras,105,3,2,1,1,False,False,False,False,False,False,False,False,True,Serra
+2880015897,600000.0,Apartamento,Serra,São Diogo II,148,2,1,0,1,True,True,True,True,False,False,False,False,False,Serra
+2886412998,870000.0,Casa,Serra,São Diogo I,100,4,3,3,2,False,False,False,False,False,False,False,False,False,Serra
+2878738879,550000.0,Casa,Serra,Nova Carapina I,60,2,1,2,0,False,True,False,False,False,False,False,False,False,Serra
+2895595496,259008.0,Casa,Serra,Residencial Centro da Serra,60,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2884659382,720000.0,Casa,Serra,Jardim Atlântico,182,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2658411165,450000.0,Casa,Serra,Portal de Jacaraípe,120,4,3,2,2,False,False,False,False,False,False,False,False,False,Serra
+2886411280,230000.0,Apartamento,Serra,Jardim Atlântico,45,2,1,1,0,False,True,False,True,False,True,False,False,False,Serra
+2894453681,210000.0,Apartamento,Serra,Taquara II,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2892487792,287500.0,Casa,Serra,Colina da Serra,50,2,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2892005390,400000.0,Apartamento,Serra,Morada de Laranjeiras,60,3,1,6,0,True,False,True,True,False,False,False,False,False,Serra
+2875110649,480000.0,Casa,Serra,Serramar,150,3,3,0,2,False,False,False,False,False,False,False,False,False,Serra
+2892217505,299000.0,Apartamento,Serra,Conjunto Jacaraípe,48,2,1,1,0,True,False,False,True,False,True,False,True,False,Serra
+2842340972,1100000.0,Casa,Serra,Parque Jacaraípe,133,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2853910537,530000.0,Apartamento,Serra,Valparaíso,65,3,2,1,1,False,False,True,True,False,True,False,False,False,Serra
+2892236268,925000.0,Apartamento,Serra,Santa Luzia,109,4,3,2,1,True,True,True,True,False,True,False,True,False,Serra
+2893661101,349000.0,Casa,Serra,Campinho da Serra I,69,3,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2876340373,460000.0,Apartamento,Serra,Morada de Laranjeiras,56,2,1,1,1,True,True,False,False,False,True,False,False,False,Serra
+2888226500,420000.0,Apartamento,Serra,Colina de Laranjeiras,53,2,1,0,0,False,True,True,True,False,False,False,False,False,Serra
+2892867097,340000.0,Casa,Serra,São Francisco,90,2,3,0,2,False,False,False,False,False,False,False,False,True,Serra
+2882298743,399000.0,Apartamento,Serra,Morada de Laranjeiras,57,2,2,0,1,False,True,True,True,False,True,False,False,False,Serra
+2867519755,497956.0,Apartamento,Serra,Parque Residencial Laranjeiras,58,2,2,0,0,True,True,True,True,False,True,False,False,False,Serra
+2874096888,399990.0,Apartamento,Serra,Valparaíso,48,2,2,0,0,True,False,False,True,False,True,False,False,False,Serra
+2880778896,560000.0,Casa,Serra,Morada de Laranjeiras,75,2,3,0,2,False,False,True,False,False,False,False,False,False,Serra
+2896277780,599999.0,Apartamento,Serra,Parque Residencial Laranjeiras,65,2,1,1,1,False,False,True,True,False,True,False,True,False,Serra
+2893445495,396000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2647160464,220000.0,Casa,Serra,Praiamar,180,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2892244292,299000.0,Apartamento,Serra,Conjunto Jacaraípe,55,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2893688487,537900.0,Casa,Serra,Colina de Laranjeiras,67,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2896126067,285000.0,Apartamento,Serra,Residencial Vista do Mestre,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2894395041,385000.0,Apartamento,Serra,Parque Residencial Laranjeiras,53,2,2,1,1,True,True,False,False,False,True,False,False,False,Serra
+2795085521,990000.0,Casa de condomínio,Serra,Morada de Laranjeiras,185,3,4,2,3,False,True,True,False,False,False,False,True,False,Serra
+2893264490,497000.0,Apartamento,Serra,Valparaíso,67,3,2,1,1,True,False,True,True,False,False,False,True,False,Serra
+2890992190,720000.0,Apartamento,Serra,Colina de Laranjeiras,90,3,2,2,1,True,True,True,True,False,True,False,True,False,Serra
+2885195103,450000.0,Apartamento,Serra,Jardim Limoeiro,55,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2895083201,315000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895164815,840000.0,Casa,Serra,Planície da Serra,130,4,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2809525145,376000.0,Casa,Serra,Residencial Jacaraípe,75,2,1,1,2,False,True,False,False,False,False,False,False,False,Serra
+2894282473,419008.0,Apartamento,Serra,Jardim Limoeiro,51,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2883996677,380000.0,Casa,Serra,Planície da Serra,53,2,1,2,0,False,True,True,False,False,False,False,False,False,Serra
+2847400021,550000.0,Apartamento,Serra,Valparaíso,65,2,1,1,1,True,False,True,True,False,True,False,True,False,Serra
+2871703676,279900.0,Apartamento,Serra,Colina de Laranjeiras,44,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2830401532,339999.0,Apartamento,Serra,Conjunto Jacaraípe,45,2,1,1,0,True,False,True,True,False,True,False,True,True,Serra
+2896033900,290000.0,Apartamento,Serra,Jardim Limoeiro,54,2,1,1,1,True,False,True,True,False,False,False,False,False,Serra
+2895135479,349009.0,Casa,Serra,Enseada de Jacaraípe,58,2,1,2,0,False,False,False,False,False,False,False,False,False,Serra
+2888424982,650000.0,Casa,Serra,Planície da Serra,303,4,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2886777196,550000.0,Casa,Serra,Costa Bela,281,3,4,5,2,False,True,False,False,False,False,False,True,False,Serra
+2888420877,265000.0,Apartamento,Serra,Guaraciaba,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893607747,310000.0,Apartamento,Serra,São Diogo II,46,2,2,1,1,False,False,False,True,False,False,False,False,False,Serra
+2872330767,760000.0,Casa,Serra,Planície da Serra,110,3,2,0,1,False,True,True,False,False,False,False,False,False,Serra
+2891749002,890000.0,Apartamento,Serra,Colina de Laranjeiras,110,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2878598231,705000.0,Apartamento,Serra,Parque Residencial Laranjeiras,83,3,2,1,0,True,False,False,True,False,True,False,False,False,Serra
+2714810503,430000.0,Casa,Serra,Costa Bela,125,2,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2896233013,280000.0,Apartamento,Serra,Colina de Laranjeiras,42,2,1,0,0,True,False,True,True,False,False,False,False,False,Serra
+2866281857,240000.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,0,0,False,False,True,True,False,False,False,True,False,Serra
+2890071534,380000.0,Apartamento,Serra,Praia da Baleia,69,2,2,0,1,True,False,False,True,False,False,False,False,False,Serra
+2891535300,530000.0,Apartamento,Serra,Parque Residencial Laranjeiras,75,3,2,0,1,False,False,True,True,False,True,False,False,False,Serra
+2833749100,395000.0,Sobrado,Serra,São Francisco,66,2,1,0,2,False,False,False,False,False,False,False,False,False,Serra
+2889708702,450000.0,Casa,Serra,São Francisco,210,2,2,4,1,False,False,False,False,False,False,False,False,False,Serra
+2893544380,420000.0,Apartamento,Serra,Morada de Laranjeiras,64,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2890057678,245000.0,Apartamento,Serra,Ourimar,44,2,1,1,0,True,False,False,True,False,True,False,True,True,Serra
+2888770112,260000.0,Casa,Serra,Cidade Pomar,130,2,1,3,1,False,False,False,False,False,False,False,False,False,Serra
+2896048181,295000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2843979415,615000.0,Casa,Serra,Residencial Centro da Serra,98,3,2,1,1,False,True,True,False,False,False,False,False,False,Serra
+2888421583,370000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893853892,550000.0,Casa,Serra,das Laranjeiras,120,3,3,1,1,True,False,True,False,False,False,False,False,False,Serra
+2893457884,320000.0,Apartamento,Serra,Morada de Laranjeiras,49,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2559737168,350000.0,Casa,Serra,Nova Almeida Centro,300,4,2,5,1,False,False,False,False,False,False,False,False,False,Serra
+2892655315,490000.0,Apartamento,Serra,Parque Jacaraípe,107,2,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2888540181,1100000.0,Casa,Serra,Portal de Jacaraípe,243,4,4,3,1,True,False,False,False,False,False,False,False,False,Serra
+2893448840,490000.0,Apartamento,Serra,Parque Residencial Laranjeiras,51,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2894070028,500000.0,Apartamento,Serra,Colina de Laranjeiras,57,2,1,1,1,True,False,False,True,False,False,False,False,False,Serra
+2896489098,600000.0,Sobrado,Serra,Colina de Laranjeiras,120,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2895100897,287500.0,Casa,Serra,Colina da Serra,50,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2894906843,850000.0,Casa,Serra,Portal de Jacaraípe,74,3,2,3,1,False,True,True,False,False,False,False,False,False,Serra
+2895993885,749000.0,Casa,Serra,Planície da Serra,200,4,3,3,4,False,False,False,False,False,False,False,False,False,Serra
+2896274777,220000.0,Apartamento,Serra,Castelândia,49,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893755291,689000.0,Casa,Serra,Planície da Serra,128,3,2,2,3,False,False,False,False,False,False,False,False,False,Serra
+2896219278,275000.0,Apartamento,Serra,Colina de Laranjeiras,46,2,1,1,0,True,False,False,True,False,False,False,True,False,Serra
+2894634205,310000.0,Apartamento,Serra,Jardim Limoeiro,52,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2896583581,280000.0,Apartamento,Serra,Jardim Atlântico,49,2,2,0,2,False,False,False,False,False,False,False,False,True,Serra
+2895287579,499000.0,Casa de condomínio,Serra,Planície da Serra,90,2,1,0,0,False,True,False,False,False,False,False,False,False,Serra
+2887906885,695000.0,Casa,Serra,Praia da Baleia,110,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893936674,365000.0,Apartamento,Serra,Morada de Laranjeiras,68,3,1,0,1,False,True,True,True,False,False,False,False,False,Serra
+2893765936,890000.0,Casa,Serra,Enseada de Jacaraípe,259,3,4,0,3,True,False,False,False,False,False,False,False,False,Serra
+2893000794,265000.0,Apartamento,Serra,Jardim Limoeiro,65,2,1,0,1,False,False,False,True,True,False,False,False,False,Serra
+2890895087,429999.0,Apartamento,Serra,Jardim Limoeiro,55,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2890372388,399000.0,Apartamento,Serra,Maringá,48,2,2,0,1,True,False,False,True,False,True,False,False,False,Serra
+2873903652,240000.0,Apartamento,Serra,Guaraciaba,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2845832620,620000.0,Apartamento,Serra,Valparaíso,65,3,2,1,1,True,False,False,True,False,False,False,False,False,Serra
+2890617318,530007.0,Apartamento,Serra,Valparaíso,65,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2845723853,360000.0,Apartamento,Serra,Morada de Laranjeiras,46,2,1,1,0,True,True,True,True,False,True,False,True,False,Serra
+2892999781,430000.0,Apartamento,Serra,Praia da Baleia,78,2,1,1,1,True,False,True,True,False,True,False,False,False,Serra
+2894390477,320000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2890075382,285004.0,Apartamento,Serra,Praia da Baleia,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893870478,830000.0,Casa,Serra,Planície da Serra,120,3,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2893865930,79000.0,Apartamento,Serra,São Patrício,46,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2882069121,620000.0,Apartamento,Serra,Planalto de Carapina,73,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2878146373,300000.0,Apartamento,Serra,Guaraciaba,48,2,1,1,0,True,True,False,True,False,True,False,False,False,Serra
+2896000129,275000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2872020476,750000.0,Apartamento,Serra,Parque Residencial Laranjeiras,65,2,2,2,1,True,True,False,True,True,True,False,True,False,Serra
+2832068231,530000.0,Casa,Serra,Reis Magos,300,3,3,6,1,False,False,False,False,False,False,False,False,False,Serra
+2893718230,315000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2833805015,560000.0,Casa,Serra,Jardim Atlântico,130,3,2,3,1,False,False,False,False,False,False,False,False,False,Serra
+2892242598,220000.0,Apartamento,Serra,São Patrício,45,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2890105389,250000.0,Apartamento,Serra,Jardim Atlântico,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896243317,260000.0,Apartamento,Serra,Jardim Limoeiro,70,3,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2865077881,260000.0,Casa,Serra,Feu Rosa,200,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2880419889,450000.0,Apartamento,Serra,Valparaíso,54,2,2,1,1,True,True,True,True,True,True,False,True,False,Serra
+2893707678,570000.0,Apartamento,Serra,Morada de Laranjeiras,75,3,2,0,1,True,False,True,True,False,True,False,True,False,Serra
+2891497782,275000.0,Apartamento,Serra,São Diogo I,48,2,1,0,0,False,False,False,False,False,True,False,False,False,Serra
+2856768662,299000.0,Apartamento,Serra,Praia da Baleia,44,2,1,0,0,False,True,False,False,False,False,False,False,False,Serra
+2661288553,1550000.0,Casa,Serra,Santa Luzia,230,4,4,0,0,True,True,True,True,True,False,False,True,False,Serra
+2895298780,240000.0,Apartamento,Serra,São Patrício,55,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2893455283,300000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2893907107,830000.0,Apartamento,Serra,Planície da Serra,120,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2893886492,590000.0,Apartamento,Serra,Jardim Limoeiro,67,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2894683913,399000.0,Apartamento,Serra,Morada de Laranjeiras,57,2,1,0,1,True,True,False,True,False,True,False,True,False,Serra
+2890608902,260000.0,Apartamento,Serra,Castelândia,69,2,2,1,0,False,False,False,True,False,False,False,False,False,Serra
+2841586706,760000.0,Sobrado,Serra,Planície da Serra,127,3,3,2,1,False,False,False,False,False,False,False,False,False,Serra
+2713248900,400000.0,Casa,Serra,Parque das Gaivotas,600,2,2,10,1,False,False,False,False,False,False,False,False,False,Serra
+2892218990,310000.0,Apartamento,Serra,Jardim Limoeiro,52,2,1,1,0,False,False,True,True,False,False,False,False,False,Serra
+2886849697,299000.0,Casa,Serra,Enseada de Jacaraípe,75,2,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2843432721,690000.0,Sobrado,Serra,Planície da Serra,150,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2697076079,279000.0,Apartamento,Serra,Vila Nova de Colares,360,3,2,5,1,False,False,False,False,False,False,False,False,False,Serra
+2896458404,245000.0,Apartamento,Serra,Conjunto Jacaraípe,80,3,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2857653975,700000.0,Casa,Serra,São Lourenço,240,3,2,4,1,False,False,False,False,False,False,False,False,False,Serra
+2882638733,530000.0,Apartamento,Serra,Parque Residencial Laranjeiras,75,3,2,2,1,True,True,True,True,True,True,False,True,False,Serra
+2892272208,315003.0,Apartamento,Serra,Jardim Limoeiro,52,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2882367875,450000.0,Apartamento,Serra,Jardim Limoeiro,54,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2889148982,355000.0,Apartamento,Serra,Valparaíso,48,2,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2895903188,500000.0,Casa,Serra,Enseada de Jacaraípe,150,3,2,1,3,False,False,False,False,False,False,False,False,False,Serra
+2892022271,350000.0,Apartamento,Serra,Colina de Laranjeiras,52,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2823563330,195000.0,Apartamento,Serra,Cidade Continental,44,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2891465818,315000.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2890621396,347900.0,Apartamento,Serra,Morada de Laranjeiras,42,2,1,1,0,True,False,False,True,True,True,False,False,False,Serra
+2890977475,310000.0,Apartamento,Serra,Jardim Limoeiro,52,2,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2893446873,450000.0,Casa,Serra,Costa Bela,80,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896762197,649994.0,Casa,Serra,São Francisco,105,3,3,2,1,False,False,False,False,False,False,False,False,True,Serra
+2886619844,210000.0,Apartamento,Serra,Residencial Centro da Serra,46,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2883857490,299000.0,Apartamento,Serra,Castelândia,62,2,1,0,0,True,True,True,False,False,False,False,False,False,Serra
+2872469195,344900.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893252012,720000.0,Apartamento,Serra,Colina de Laranjeiras,85,3,2,0,1,True,True,True,True,False,True,False,True,False,Serra
+2862799554,699000.0,Casa,Serra,Jardim Atlântico,250,3,2,0,0,False,False,False,False,False,False,False,False,False,Serra
+2887599134,245000.0,Apartamento,Serra,Conjunto Jacaraípe,58,3,1,0,0,False,False,False,True,False,False,False,False,False,Serra
+2895309313,340000.0,Casa,Serra,Residencial Jacaraípe,47,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2892304774,689000.0,Casa,Serra,Planície da Serra,128,3,2,0,3,False,False,False,False,False,False,False,False,False,Serra
+2894840960,289000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,0,0,True,False,False,True,False,True,False,False,False,Serra
+2879259231,299000.0,Apartamento,Serra,Castelândia,48,2,1,1,0,True,True,False,True,False,True,False,False,False,Serra
+2818498317,450000.0,Apartamento,Serra,Morada de Laranjeiras,52,2,2,1,0,True,False,False,True,True,True,False,False,False,Serra
+2784935030,427900.0,Apartamento,Serra,Valparaíso,54,2,2,0,1,False,True,True,True,False,True,False,False,False,Serra
+2879056784,499000.0,Apartamento,Serra,Valparaíso,67,3,2,1,1,False,True,False,True,False,True,False,False,False,Serra
+2893214676,650000.0,Apartamento,Serra,Parque Jacaraípe,100,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2892380903,265000.0,Apartamento,Serra,Castelândia,70,3,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893679732,787000.0,Casa,Serra,Manguinhos,138,3,2,13,0,False,False,False,False,False,False,False,False,False,Serra
+2820485618,580000.0,Apartamento,Serra,Valparaíso,65,2,1,1,1,True,False,True,True,False,True,False,True,False,Serra
+2894469380,320000.0,Apartamento,Serra,Morada de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2885188929,336000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2889817190,598000.0,Casa,Serra,São Francisco,90,2,3,2,2,False,True,True,False,False,False,False,False,False,Serra
+2890598765,420000.0,Apartamento,Serra,Colina de Laranjeiras,65,3,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2895059007,290000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2896125793,560000.0,Casa,Serra,Morada de Laranjeiras,80,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2884951535,215000.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,1,0,True,False,True,True,False,False,False,False,False,Serra
+2896044476,490000.0,Apartamento,Serra,São Francisco,75,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2892207984,800000.0,Casa,Serra,Feu Rosa,200,6,4,3,0,False,False,False,False,False,False,False,False,False,Serra
+2890119090,260000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2868738592,549900.0,Apartamento,Serra,Morada de Laranjeiras,69,3,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2882207912,460000.0,Apartamento,Serra,Jardim Limoeiro,56,2,2,1,1,True,False,False,True,False,True,False,False,False,Serra
+2881419391,420000.0,Apartamento,Serra,Valparaíso,50,2,2,1,1,True,False,True,True,False,True,False,False,False,Serra
+2894757073,349001.0,Casa,Serra,Enseada de Jacaraípe,58,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2676215094,2200000.0,Casa,Serra,Boulevard Lagoa,365,5,5,0,1,False,False,False,False,False,False,False,False,False,Serra
+2876356700,400000.0,Apartamento,Serra,Santa Luzia,53,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2800342850,538500.0,Apartamento,Serra,Colina de Laranjeiras,65,2,2,2,1,True,True,True,True,False,True,False,True,False,Serra
+2876221378,660000.0,Casa,Serra,Estância Monazítica,114,2,1,0,2,False,False,False,False,False,False,False,False,False,Serra
+2873663615,275000.0,Apartamento,Serra,Praia da Baleia,45,2,1,0,0,True,True,False,True,False,True,False,False,False,Serra
+2874905218,287919.0,Apartamento,Serra,Cidade Continental,44,2,1,0,0,True,False,True,True,False,True,False,True,False,Serra
+2892022879,279900.0,Apartamento,Serra,Balneário de Carapebus,75,2,1,0,0,True,True,True,True,False,False,False,False,False,Serra
+2887398787,599000.0,Casa,Serra,Parque Residencial Laranjeiras,190,4,3,0,2,False,False,False,False,False,False,False,False,False,Serra
+2892658981,695000.0,Casa,Serra,Planície da Serra,135,3,2,2,3,False,False,False,False,False,False,False,False,False,Serra
+2893299278,439000.0,Apartamento,Serra,Jardim Limoeiro,58,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2895107096,270000.0,Apartamento,Serra,São Diogo II,48,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2874029230,680000.0,Casa,Serra,Planície da Serra,110,3,1,2,1,False,True,True,True,False,False,False,False,False,Serra
+2895555174,299900.0,Apartamento,Serra,São Diogo II,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893882477,1380000.0,Casa,Serra,Morada de Laranjeiras,105,3,3,3,1,False,False,False,False,False,False,False,False,False,Serra
+2892018578,650000.0,Casa,Serra,Jardim Atlântico,100,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896647980,650000.0,Casa,Serra,Jardim Atlântico,100,3,3,2,1,False,False,False,False,False,False,False,False,False,Serra
+2870985558,420000.0,Apartamento,Serra,Parque Residencial Laranjeiras,60,2,2,1,1,True,False,True,True,False,True,False,False,False,Serra
+2890457799,285008.0,Apartamento,Serra,Praia da Baleia,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2888990998,440000.0,Apartamento,Serra,Morada de Laranjeiras,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2881393076,670000.0,Casa,Serra,São Francisco,105,3,2,10,1,False,False,False,False,False,False,False,False,True,Serra
+2882640681,299900.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,1,0,True,True,True,True,True,True,False,True,False,Serra
+2893456893,385000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2823563732,230000.0,Apartamento,Serra,Cidade Continental,65,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2872255232,250000.0,Apartamento,Serra,Jardim Atlântico,42,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2858761462,990000.0,Casa de condomínio,Serra,Morada de Laranjeiras,110,3,3,2,1,True,False,True,True,True,False,False,True,False,Serra
+2893700707,600000.0,Sobrado,Serra,Colina de Laranjeiras,120,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2886810279,328320.0,Apartamento,Serra,Jardim Limoeiro,42,2,1,0,0,True,False,False,True,False,True,False,False,False,Serra
+2892660176,850000.0,Casa,Serra,São Diogo I,240,4,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2891168176,599000.0,Apartamento,Serra,Planalto Serrano,101,3,2,2,2,False,False,False,False,False,False,False,False,False,Serra
+2895923376,290000.0,Apartamento,Serra,Praia da Baleia,63,3,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2896485707,285000.0,Apartamento,Serra,Valparaíso,56,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2896802608,349996.0,Casa,Serra,Praia da Baleia,70,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2896462773,245000.0,Apartamento,Serra,Balneário de Carapebus,45,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2891511086,260000.0,Apartamento,Serra,Castelândia,69,3,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2888877779,265000.0,Apartamento,Serra,Costa Dourada,49,2,2,0,1,True,False,False,True,False,False,False,False,False,Serra
+2881008668,270000.0,Apartamento,Serra,São Patrício,45,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2895104988,336000.0,Apartamento,Serra,Colina de Laranjeiras,52,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2873849604,680000.0,Casa,Serra,Mata da Serra,350,4,2,0,1,False,False,True,False,False,False,False,False,False,Serra
+2875109498,280000.0,Apartamento,Serra,Jardim Limoeiro,44,2,1,1,0,False,True,False,True,False,False,False,False,False,Serra
+2895288981,275000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2893682297,537900.0,Apartamento,Serra,Colina de Laranjeiras,67,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2894451477,989000.0,Casa,Serra,Morada de Laranjeiras,130,3,1,2,1,False,False,False,False,False,False,False,True,False,Serra
+2871391982,450000.0,Térrea,Serra,Cidade Continental,240,3,2,4,1,False,True,True,False,False,False,False,False,False,Serra
+2559735901,300000.0,Casa,Serra,Novo Porto Canoa,300,3,2,3,0,False,False,False,False,False,False,False,False,False,Serra
+2883504906,290000.0,Apartamento,Serra,Enseada de Jacaraípe,48,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2894662923,290000.0,Apartamento,Serra,Jardim Limoeiro,47,2,2,1,2,False,False,False,False,False,False,False,False,False,Serra
+2867494125,810000.0,Casa,Serra,Planície da Serra,127,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2887846892,380000.0,Apartamento,Serra,Parque Residencial Laranjeiras,64,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2885665481,395000.0,Casa,Serra,Costa Dourada,80,2,1,2,2,False,False,False,False,False,False,False,False,False,Serra
+2896757488,330000.0,Casa,Serra,Praia da Baleia,98,3,3,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893020808,749001.0,Casa,Serra,Jardim Atlântico,180,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2887361804,280000.0,Apartamento,Serra,Praia da Baleia,60,3,1,1,1,False,False,True,True,False,False,False,True,False,Serra
+2895525200,349005.0,Casa,Serra,Campinho da Serra I,70,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2888767692,330000.0,Casa,Serra,Enseada de Jacaraípe,50,2,1,2,0,False,False,False,False,False,False,False,False,False,Serra
+2853794319,460000.0,Casa,Serra,Serra Dourada I,90,3,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2894639992,490000.0,Casa,Serra,Parque Jacaraípe,107,2,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2890263756,394992.0,Casa,Serra,Costa Dourada,80,2,2,2,2,False,False,False,False,False,False,False,False,False,Serra
+2890498546,670001.0,Casa,Serra,Jardim Atlântico,114,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2879788310,625000.0,Casa,Serra,Castelândia,100,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2891504785,230000.0,Apartamento,Serra,Chácara Parreiral,49,2,1,0,0,False,False,False,True,False,False,False,False,False,Serra
+2884952389,220000.0,Apartamento,Serra,São Patrício,45,2,1,0,0,True,False,True,True,False,False,False,False,False,Serra
+2880823098,370000.0,Apartamento,Serra,Maringá,55,2,1,0,0,True,True,True,True,False,True,False,True,False,Serra
+2814498915,480000.0,Apartamento,Serra,Praia da Baleia,63,3,1,0,1,True,False,True,True,False,True,False,True,False,Serra
+2892249708,560000.0,Apartamento,Serra,Colina de Laranjeiras,68,3,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2886674687,370000.0,Apartamento,Serra,Colina de Laranjeiras,55,2,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2896267822,250000.0,Apartamento,Serra,Manguinhos,45,2,1,0,0,True,False,False,True,False,True,False,True,False,Serra
+2888326578,370000.0,Casa,Serra,Enseada de Jacaraípe,71,2,3,0,2,False,False,False,False,False,False,False,False,False,Serra
+2895078998,275000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2857658154,333000.0,Apartamento,Serra,São Diogo II,53,3,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2866311153,450000.0,Casa,Serra,das Laranjeiras,80,2,1,2,2,False,False,False,False,False,False,False,False,False,Serra
+2881231381,225000.0,Apartamento,Serra,Ourimar,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895290224,289900.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2865961258,450000.0,Apartamento,Serra,Valparaíso,54,2,2,1,1,True,False,False,True,False,True,False,False,False,Serra
+2893016582,600000.0,Apartamento,Serra,Colina de Laranjeiras,93,2,2,1,1,True,True,True,True,True,True,False,True,False,Serra
+2891500708,230000.0,Apartamento,Serra,Chácara Parreiral,49,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2894443729,315000.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893455083,505000.0,Apartamento,Serra,Valparaíso,69,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2893028264,300000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2878509881,430000.0,Apartamento,Serra,Parque Residencial Laranjeiras,58,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2890058576,284992.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2890642532,449895.0,Apartamento,Serra,Morada de Laranjeiras,55,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2880546279,650000.0,Térrea,Serra,Mata da Serra,180,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2884264810,360000.0,Apartamento,Serra,Jardim Limoeiro,60,3,2,1,1,True,True,False,True,False,False,False,False,False,Serra
+2893469676,420000.0,Apartamento,Serra,Vila Nova de Colares,73,2,1,1,1,False,False,False,False,False,False,False,False,True,Serra
+2786138913,330000.0,Apartamento,Serra,Praia da Baleia,65,2,2,1,1,True,False,False,True,False,False,False,False,False,Serra
+2893455774,420000.0,Apartamento,Serra,Colina de Laranjeiras,52,3,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2890421583,559999.0,Apartamento,Serra,Parque Residencial Laranjeiras,74,3,2,1,0,True,False,False,True,False,True,False,True,False,Serra
+2881619676,268000.0,Apartamento,Serra,Colina de Laranjeiras,44,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2883760480,395000.0,Apartamento,Serra,Parque Residencial Laranjeiras,55,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2890634191,670001.0,Casa,Serra,Jardim Atlântico,114,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893888688,370000.0,Apartamento,Serra,Jardim Tropical,49,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896258921,1750000.0,Casa de condomínio,Serra,Colina de Laranjeiras,204,4,3,0,4,False,False,False,False,False,False,False,False,False,Serra
+2893887996,370000.0,Apartamento,Serra,Colina de Laranjeiras,44,2,1,1,0,True,False,False,True,False,False,False,True,False,Serra
+2896192697,330003.0,Casa,Serra,Praia de Capuba,60,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2765842020,530000.0,Apartamento,Serra,Valparaíso,67,2,1,1,1,False,True,True,False,True,False,False,False,False,Serra
+2890643987,799992.0,Casa,Serra,Morada de Laranjeiras,111,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2887186473,315000.0,Apartamento,Serra,São Diogo II,45,2,1,0,0,True,False,True,True,False,True,False,False,False,Serra
+2887474110,250000.0,Apartamento,Serra,Jardim Atlântico,42,2,1,1,0,True,True,False,True,False,True,False,False,False,Serra
+2893707477,599000.0,Apartamento,Serra,Colina de Laranjeiras,67,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2891584297,250000.0,Apartamento,Serra,Jardim Atlântico,47,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2893663284,650000.0,Casa,Serra,Colina de Laranjeiras,120,3,3,3,2,False,False,False,False,False,False,False,False,False,Serra
+2892175831,315006.0,Apartamento,Serra,Jardim Limoeiro,52,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2804501218,595000.0,Apartamento,Serra,Valparaíso,73,3,1,1,1,True,False,True,True,False,True,False,True,False,Serra
+2892446423,600000.0,Casa,Serra,Parque Jacaraípe,254,5,3,5,0,False,False,False,False,False,False,False,False,False,Serra
+2890988333,330000.0,Apartamento,Serra,Jardim Limoeiro,50,2,1,1,0,True,True,False,True,False,True,False,False,False,Serra
+2894039776,470000.0,Apartamento,Serra,Morada de Laranjeiras,55,2,2,1,1,True,True,False,True,False,False,False,False,False,Serra
+2892246886,695000.0,Casa,Serra,Planície da Serra,135,3,1,2,3,False,False,False,False,False,False,False,False,False,Serra
+2885669673,560000.0,Apartamento,Serra,Colina de Laranjeiras,68,2,2,2,1,True,True,True,True,False,True,False,True,False,Serra
+2886885104,900000.0,Casa,Serra,Colina de Laranjeiras,130,3,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2893679309,670000.0,Casa,Serra,Parque Residencial Laranjeiras,105,3,2,1,1,False,False,False,False,False,False,False,False,True,Serra
+2895982596,250000.0,Apartamento,Serra,Morada de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2851086719,329000.0,Apartamento,Serra,Colina de Laranjeiras,56,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2890375601,314999.0,Apartamento,Serra,Praia da Baleia,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2884903586,500000.0,Apartamento,Serra,Jardim Atlântico,120,3,2,2,1,False,False,False,False,True,False,False,False,False,Serra
+2887906392,490000.0,Apartamento,Serra,Praia da Baleia,78,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2883303009,499000.0,Apartamento,Serra,Valparaíso,65,3,2,0,1,True,False,True,True,False,True,False,False,False,Serra
+2880085850,430000.0,Apartamento,Serra,Ourimar,67,3,2,1,1,True,False,False,True,True,True,False,False,True,Serra
+2894595288,730000.0,Apartamento,Serra,Morada de Laranjeiras,103,3,2,1,1,True,True,False,True,False,True,False,False,False,Serra
+2893752591,385000.0,Apartamento,Serra,Parque Residencial Laranjeiras,58,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2878644694,380000.0,Casa,Serra,Enseada de Jacaraípe,71,2,3,0,2,False,False,False,False,False,False,False,False,False,Serra
+2893544959,299009.0,Casa,Serra,Enseada de Jacaraípe,75,2,2,0,0,False,False,False,False,False,False,False,False,False,Serra
+2871687040,799000.0,Apartamento,Serra,Valparaíso,100,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893245578,680000.0,Apartamento,Serra,Valparaíso,76,3,1,2,1,True,False,True,True,False,True,False,True,False,Serra
+2896133855,240000.0,Apartamento,Serra,Balneário de Carapebus,45,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2888330996,450000.0,Apartamento,Serra,Colina de Laranjeiras,89,2,2,0,1,True,False,False,True,False,False,False,False,False,Serra
+2893930480,420000.0,Apartamento,Serra,Morada de Laranjeiras,50,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2895323786,260000.0,Apartamento,Serra,Castelândia,69,3,2,0,0,False,False,False,True,False,False,False,False,False,Serra
+2893021091,598000.0,Casa,Serra,Residencial Centro da Serra,120,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2886190480,410000.0,Apartamento,Serra,Parque Residencial Laranjeiras,55,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2809152723,900000.0,Casa,Serra,Morada de Laranjeiras,240,3,1,4,1,False,False,False,False,False,False,False,False,False,Serra
+2896272735,350000.0,Apartamento,Serra,Valparaíso,52,3,1,1,1,False,True,False,False,False,False,False,False,False,Serra
+2884448741,350000.0,Casa,Serra,Praiamar,130,3,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2895070091,599999.0,Apartamento,Serra,Colina de Laranjeiras,65,2,1,1,1,True,False,True,True,False,True,False,False,False,Serra
+2890625287,335002.0,Casa,Serra,Residencial Centro da Serra,80,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2890954185,290000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,0,True,False,False,True,False,False,False,True,False,Serra
+2890630580,1190000.0,Casa,Serra,Colina de Laranjeiras,170,4,2,4,1,False,False,False,False,False,False,False,False,False,Serra
+2893677633,350000.0,Casa,Serra,Residencial Centro da Serra,67,2,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2893453382,336000.0,Apartamento,Serra,Colina de Laranjeiras,55,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2883645287,410000.0,Apartamento,Serra,Colina de Laranjeiras,70,2,1,1,1,True,False,False,True,False,True,False,False,False,Serra
+2896463491,739000.0,Casa,Serra,Parque Residencial Mestre Álvaro,230,3,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2895090510,299999.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893015500,340000.0,Apartamento,Serra,Valparaíso,65,3,1,1,0,False,False,False,False,False,False,False,True,False,Serra
+2890628791,1449995.0,Casa,Serra,Morada de Laranjeiras,170,4,3,4,1,False,False,False,False,False,False,False,False,False,Serra
+2871141825,670000.0,Apartamento,Serra,Valparaíso,73,3,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2888988174,610000.0,Apartamento,Serra,Valparaíso,62,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2878498141,287000.0,Apartamento,Serra,Balneário de Carapebus,55,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2885167573,450000.0,Apartamento,Serra,Praia da Baleia,59,3,1,2,1,True,False,True,True,False,True,False,False,False,Serra
+2806185218,899000.0,Casa,Serra,Parque Residencial Laranjeiras,270,3,3,3,0,True,True,False,False,False,False,False,False,False,Serra
+2896533953,198000.0,Apartamento,Serra,São Patrício,45,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2894066479,370000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893238747,365000.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2892294918,399900.0,Apartamento,Serra,Praia da Baleia,70,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2896516711,240000.0,Apartamento,Serra,Estância Monazítica,49,2,1,1,1,False,False,False,True,False,False,False,False,False,Serra
+2880849083,570000.0,Apartamento,Serra,Jardim Limoeiro,69,3,2,0,1,True,True,True,True,False,True,False,True,False,Serra
+2896499116,780000.0,Casa,Serra,Planície da Serra,138,3,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2896249275,285000.0,Apartamento,Serra,Vista da Serra II,56,2,1,0,0,False,False,False,True,False,False,False,False,False,Serra
+2869068031,720000.0,Apartamento,Serra,Colina de Laranjeiras,82,3,2,0,1,True,True,False,False,False,True,False,False,False,Serra
+2883013790,620000.0,Apartamento,Serra,Morada de Laranjeiras,83,2,2,1,1,True,True,True,True,True,True,False,True,False,Serra
+2896582412,310000.0,Apartamento,Serra,Praia da Baleia,50,2,1,1,0,True,True,True,True,False,True,False,True,False,Serra
+2840783266,315000.0,Apartamento,Serra,Ourimar,49,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2874554390,560000.0,Apartamento,Serra,Valparaíso,65,3,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2894444291,1100000.0,Casa,Serra,Morada de Laranjeiras,140,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2881421449,550000.0,Casa,Serra,São Francisco,105,3,3,2,1,False,True,True,False,False,False,False,False,False,Serra
+2893204081,749000.0,Casa,Serra,Vista da Serra I,200,4,2,3,1,False,False,False,False,False,False,False,False,False,Serra
+2889190790,349000.0,Casa,Serra,Enseada de Jacaraípe,66,2,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2891667192,270000.0,Apartamento,Serra,Colina de Laranjeiras,49,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2885585688,480000.0,Apartamento,Serra,Morada de Laranjeiras,55,2,2,1,1,True,False,False,True,True,True,False,False,False,Serra
+2894683483,340000.0,Apartamento,Serra,Valparaíso,65,3,1,1,0,False,False,False,True,False,False,False,True,False,Serra
+2857975859,417990.0,Apartamento,Serra,Santa Luzia,50,2,2,1,1,True,True,False,True,False,False,False,False,False,Serra
+2892110192,550000.0,Apartamento,Serra,Parque Residencial Laranjeiras,75,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896746079,300000.0,Apartamento,Serra,Morada de Laranjeiras,52,2,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2892970182,279000.0,Apartamento,Serra,Jardim Atlântico,49,2,2,1,1,True,False,False,True,False,True,False,False,False,Serra
+2865578654,360000.0,Térrea,Serra,Jardim Bela Vista,75,3,2,1,1,False,False,False,False,False,False,False,True,False,Serra
+2893875076,349000.0,Casa,Serra,Campinho da Serra I,69,3,2,6,0,False,False,False,False,False,False,False,False,False,Serra
+2883565196,480000.0,Apartamento,Serra,Morada de Laranjeiras,54,2,2,1,1,True,True,True,True,True,True,False,True,False,Serra
+2891209776,260000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,True,False,False,True,False,False,False,True,False,Serra
+2892670078,570000.0,Casa,Serra,Jardim Guanabara,95,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2869137127,195000.0,Apartamento,Serra,Residencial Centro da Serra,45,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2824671391,362039.0,Apartamento,Serra,Jardim Limoeiro,50,2,2,0,1,True,False,True,True,False,True,False,False,False,Serra
+2893686192,599000.0,Apartamento,Serra,Colina de Laranjeiras,67,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2896048277,289900.0,Apartamento,Serra,Valparaíso,56,2,1,0,0,False,False,False,True,False,False,False,False,False,Serra
+2880648387,290000.0,Casa,Serra,Serramar,150,2,3,0,1,False,False,False,False,False,False,False,False,False,Serra
+2892611175,589998.0,Apartamento,Serra,Parque Residencial Laranjeiras,65,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893235691,490000.0,Casa,Serra,Parque Jacaraípe,107,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2896715076,475000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2869148211,290000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2895103081,590000.0,Apartamento,Serra,Jardim Limoeiro,67,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2879636263,748000.0,Casa,Serra,Planície da Serra,127,3,3,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896762074,580000.0,Casa,Serra,São Francisco,104,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2893827086,400000.0,Apartamento,Serra,Colina de Laranjeiras,42,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2892302714,598000.0,Casa,Serra,São Francisco,75,2,1,1,2,False,False,False,False,False,False,False,False,False,Serra
+2840603214,475000.0,Apartamento,Serra,Valparaíso,56,2,1,1,1,True,False,True,True,False,True,False,True,False,Serra
+2872017694,997000.0,Casa,Serra,Colina de Laranjeiras,137,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2893031219,420000.0,Apartamento,Serra,Morada de Laranjeiras,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895903983,830000.0,Casa,Serra,Planície da Serra,120,3,2,1,3,False,False,False,False,False,False,False,False,False,Serra
+2828204871,560000.0,Apartamento,Serra,Colina de Laranjeiras,64,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2860215267,698000.0,Casa,Serra,Nova Almeida Centro,120,5,3,3,0,False,False,False,False,False,False,False,False,False,Serra
+2878892233,800000.0,Casa,Serra,Jardim Atlântico,180,5,3,3,1,False,True,True,False,False,False,False,True,True,Serra
+2892445506,600000.0,Casa,Serra,Colina de Laranjeiras,100,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2622115434,450000.0,Casa,Serra,Serra Dourada III,300,4,2,2,2,False,False,False,False,False,False,False,False,False,Serra
+2889794787,360000.0,Apartamento,Serra,Jardim Limoeiro,55,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2890103810,290000.0,Apartamento,Serra,São Diogo I,100,2,1,1,0,False,False,False,False,False,True,False,False,False,Serra
+2868338598,430000.0,Apartamento,Serra,Valparaíso,54,2,2,1,1,True,False,True,True,True,True,False,True,False,Serra
+2892225681,265000.0,Apartamento,Serra,Castelândia,80,3,2,1,0,False,False,True,True,False,False,False,False,False,Serra
+2869971285,450000.0,Casa de condomínio,Serra,Colina de Laranjeiras,80,2,2,2,1,True,False,False,True,False,False,False,True,False,Serra
+2893692810,265000.0,Apartamento,Serra,Camará,48,2,1,1,0,True,False,True,True,False,True,False,False,False,Serra
+2888421280,450000.0,Casa de condomínio,Serra,Porto Canoa,94,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2880839590,285000.0,Apartamento,Serra,Castelândia,65,3,1,1,0,False,False,True,True,False,False,False,True,False,Serra
+2676214020,750000.0,Apartamento,Serra,Colina de Laranjeiras,79,3,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2894899676,275000000.0,Apartamento,Serra,Colina de Laranjeiras,46,2,1,0,0,True,False,True,True,False,False,False,True,False,Serra
+2853849015,485321.0,Apartamento,Serra,Parque Residencial Laranjeiras,55,2,1,1,1,True,True,False,True,False,True,False,False,False,Serra
+2848764529,520000.0,Casa,Serra,Residencial Centro da Serra,95,3,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893668810,300000.0,Apartamento,Serra,Ourimar,60,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2892255682,650000.0,Casa,Serra,Jardim Atlântico,100,3,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2890969046,290000.0,Apartamento,Serra,Colina de Laranjeiras,49,2,1,0,0,True,False,False,True,False,False,False,True,False,Serra
+2893693821,265000.0,Apartamento,Serra,Camará,48,2,1,0,0,True,False,True,True,False,True,False,False,False,Serra
+2867730139,480000.0,Apartamento,Serra,Morada de Laranjeiras,71,3,2,0,1,True,True,False,True,False,True,False,False,False,Serra
+2893010177,600000.0,Casa,Serra,Parque Jacaraípe,254,5,3,5,0,False,False,False,False,False,False,False,False,False,Serra
+2774593330,950000.0,Casa,Serra,Parque Residencial Laranjeiras,300,5,4,4,2,False,False,False,False,False,False,False,False,False,Serra
+2869309480,680000.0,Apartamento,Serra,Santa Luzia,86,3,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2895240523,285000.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,1,0,True,False,True,True,False,False,False,False,False,Serra
+2879978573,475000.0,Apartamento,Serra,Valparaíso,60,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2891153778,310000.0,Apartamento,Serra,Chácara Parreiral,48,2,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2896252386,1980007.0,Casa,Serra,Manguinhos,172,3,4,2,1,False,False,False,False,False,False,False,False,False,Serra
+2891810813,390000.0,Apartamento,Serra,Colina de Laranjeiras,55,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2894631719,599999.0,Apartamento,Serra,Colina de Laranjeiras,65,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2876146509,499900.0,Apartamento,Serra,Valparaíso,62,2,2,1,1,True,False,False,False,False,False,False,False,False,Serra
+2892432495,265000.0,Apartamento,Serra,Conjunto Jacaraípe,70,3,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2890119144,370000.0,Apartamento,Serra,Jardim Limoeiro,61,3,2,1,1,True,True,True,False,False,True,False,False,False,Serra
+2896369841,540000.0,Apartamento,Serra,Morada de Laranjeiras,70,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896554630,199992.0,Studio,Serra,Mata da Serra,42,1,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2892627730,369000.0,Apartamento,Serra,Residencial Vista do Mestre,43,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2889337985,610000.0,Apartamento,Serra,Valparaíso,62,2,2,1,1,True,False,True,True,False,True,False,False,False,Serra
+2890240864,669994.0,Casa,Serra,Jardim Atlântico,114,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2894459191,480000.0,Casa,Serra,Estância Monazítica,80,2,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2892667889,390000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,2,0,False,False,False,False,False,False,False,False,False,Serra
+2885169481,240000.0,Apartamento,Serra,Jardim Limoeiro,43,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2895075894,279990.0,Apartamento,Serra,Praia da Baleia,45,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2880791798,580000.0,Térrea,Serra,São Francisco,100,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2889204141,365000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,0,0,True,False,True,True,True,True,False,True,False,Serra
+2887391474,349000.0,Casa,Serra,Campinho da Serra I,100,3,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2892458789,560000.0,Apartamento,Serra,Colina de Laranjeiras,65,2,2,0,1,True,True,True,True,False,True,False,True,False,Serra
+2895070882,260000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,0,0,True,False,False,True,False,False,False,True,False,Serra
+2858001159,479000.0,Sobrado,Serra,Costa Dourada,90,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2889795177,299000.0,Apartamento,Serra,Praia da Baleia,48,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2891478476,420000.0,Apartamento,Serra,Colina de Laranjeiras,80,2,1,0,1,True,False,False,True,False,True,False,True,False,Serra
+2896579813,349000.0,Apartamento,Serra,Conjunto Jacaraípe,52,2,2,0,2,False,False,False,False,False,False,False,False,False,Serra
+2890971483,290000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,0,True,False,True,True,False,False,False,True,False,Serra
+2888735974,230000.0,Apartamento,Serra,Castelândia,53,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2807137915,330000.0,Apartamento,Serra,Colina de Laranjeiras,55,2,2,1,1,True,True,False,True,False,True,False,False,False,Serra
+2839496722,360000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,1,0,True,True,True,False,False,True,False,False,False,Serra
+2893853573,580000.0,Apartamento,Serra,Colina de Laranjeiras,65,2,1,1,1,True,False,True,True,False,True,False,True,False,Serra
+2884152681,399000.0,Apartamento,Serra,Maringá,75,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2893015474,589000.0,Apartamento,Serra,Valparaíso,73,3,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2848117715,210000.0,Apartamento,Serra,Nova Zelândia,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893948442,350000.0,Apartamento,Serra,Valparaíso,60,3,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2882432076,279000.0,Apartamento,Serra,São Diogo II,47,2,2,2,1,True,False,True,True,True,False,False,True,False,Serra
+2892240968,298000.0,Casa,Serra,São Francisco,140,2,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2893254698,439000.0,Apartamento,Serra,Jardim Limoeiro,55,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2893893775,395000.0,Casa,Serra,Serra Centro,68,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896520112,225000.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2891375879,499000.0,Apartamento,Serra,Morada de Laranjeiras,45,2,1,1,0,True,False,False,True,False,True,False,True,False,Serra
+2895903592,890000.0,Casa,Serra,Parque Residencial Laranjeiras,200,3,2,1,3,False,False,False,False,False,False,False,False,False,Serra
+2884952180,275000.0,Apartamento,Serra,Jardim Limoeiro,75,2,1,1,0,False,True,True,True,False,False,False,True,False,Serra
+2866290000,300000.0,Apartamento,Serra,Castelândia,50,2,1,1,0,True,True,True,True,False,True,False,True,True,Serra
+2880093688,280000.0,Apartamento,Serra,Jardim Limoeiro,42,2,1,1,0,True,False,False,True,True,True,False,False,False,Serra
+2676209821,400000.0,Casa,Serra,das Laranjeiras,88,3,1,2,0,False,False,False,False,False,False,False,True,False,Serra
+2893470177,320000.0,Apartamento,Serra,Morada de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2892297979,780000.0,Casa de condomínio,Serra,Morada de Laranjeiras,107,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2890106981,269997.0,Apartamento,Serra,São Diogo II,52,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2879263179,847000.0,Apartamento,Serra,Jardim Tropical,240,3,2,0,1,False,True,False,False,False,False,False,False,False,Serra
+2889992486,395006.0,Casa,Serra,Costa Dourada,72,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2892453396,840000.0,Casa,Serra,Planície da Serra,132,4,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2895266999,340000.0,Apartamento,Serra,Valparaíso,65,3,1,0,0,False,False,True,True,False,False,False,False,False,Serra
+2894885280,290000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,0,0,True,False,True,True,False,False,False,True,False,Serra
+2874868441,500000.0,Apartamento,Serra,Praia da Baleia,70,3,2,0,1,True,True,True,True,False,True,False,False,False,Serra
+2894881899,590000.0,Apartamento,Serra,Jardim Limoeiro,67,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2875822683,635000.0,Apartamento,Serra,Planalto de Carapina,73,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2820462616,589900.0,Apartamento,Serra,Valparaíso,73,3,2,1,1,True,True,True,True,True,True,False,True,False,Serra
+2881224594,670000.0,Casa,Serra,São Francisco,120,3,1,1,1,False,True,True,False,False,False,False,False,False,Serra
+2895073687,279999.0,Apartamento,Serra,Jardim Limoeiro,48,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2890903286,600000.0,Apartamento,Serra,Parque Residencial Laranjeiras,72,2,2,1,1,True,True,False,True,False,False,False,False,False,Serra
+2867519655,742409.0,Apartamento,Serra,Parque Residencial Laranjeiras,79,3,2,2,0,True,True,True,True,False,True,False,False,False,Serra
+2890576991,269000.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,1,0,True,False,True,True,False,False,False,False,False,Serra
+2888000669,390000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2895080310,570000.0,Apartamento,Serra,Valparaíso,62,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896033185,290000.0,Apartamento,Serra,Jardim Limoeiro,54,2,1,1,1,True,False,True,True,False,False,False,False,False,Serra
+2884449037,220000.0,Apartamento,Serra,das Laranjeiras,55,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896752801,319996.0,Apartamento,Serra,das Laranjeiras,67,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2893691014,400000.0,Apartamento,Serra,Morada de Laranjeiras,57,2,1,1,1,True,False,True,True,False,False,False,False,False,Serra
+2893227777,700000.0,Apartamento,Serra,Parque Residencial Laranjeiras,129,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2872017785,480000.0,Apartamento,Serra,Praia da Baleia,68,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2857655372,1160000.0,Casa,Serra,Colina de Laranjeiras,135,3,3,2,1,False,False,False,False,False,False,False,False,False,Serra
+2893889280,260000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,0,True,False,True,True,False,False,False,False,False,Serra
+2896211049,200000.0,Apartamento,Serra,Taquara I,50,2,1,1,0,False,False,False,True,True,False,False,False,False,Serra
+2890644387,669997.0,Casa,Serra,Jardim Atlântico,114,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2886393186,255000.0,Casa,Serra,Colina da Serra,46,2,2,1,1,False,False,True,False,False,False,False,False,False,Serra
+2890376512,899000.0,Casa,Serra,São Patrício,233,4,4,4,2,True,True,True,False,False,False,False,False,False,Serra
+2895097174,300000.0,Apartamento,Serra,São Diogo II,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2888994031,420000.0,Casa,Serra,São Francisco,68,2,2,0,0,False,False,False,False,False,False,False,False,False,Serra
+2895295017,1100000.0,Casa,Serra,Morada de Laranjeiras,140,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2896235185,289900.0,Apartamento,Serra,Valparaíso,56,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895329036,260000.0,Apartamento,Serra,São Diogo I,62,2,1,0,0,False,False,False,True,False,True,False,False,False,Serra
+2893261398,220000.0,Apartamento,Serra,Jardim Limoeiro,48,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2890038299,394994.0,Casa,Serra,Costa Dourada,80,2,2,0,2,False,False,False,False,False,False,False,False,False,Serra
+2891507382,350000.0,Casa,Serra,Residencial Centro da Serra,70,2,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2863776055,620000.0,Apartamento,Serra,Valparaíso,69,2,2,0,1,True,False,False,True,False,False,False,False,False,Serra
+2892190075,220000.0,Apartamento,Serra,São Patrício,40,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2894831774,540000.0,Casa,Serra,Praia de Capuba,110,3,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2895054643,695000.0,Sobrado,Serra,Planície da Serra,135,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2869115373,580000.0,Apartamento,Serra,Valparaíso,62,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2895273621,175000.0,Apartamento,Serra,Residencial Centro da Serra,42,1,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893027274,290000.0,Apartamento,Serra,Praia da Baleia,44,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2893449721,430000.0,Apartamento,Serra,Praia da Baleia,78,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2868972414,430000.0,Apartamento,Serra,Parque Residencial Laranjeiras,56,2,2,1,1,True,False,True,True,True,True,False,False,False,Serra
+2892219261,550000.0,Apartamento,Serra,Parque Residencial Laranjeiras,75,3,2,2,1,True,True,True,True,False,True,False,True,False,Serra
+2893697017,350000.0,Sobrado,Serra,Residencial Centro da Serra,172,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2611042570,159900.0,Casa,Serra,Residencial Centro da Serra,64,2,1,2,0,False,False,False,False,False,False,False,False,False,Serra
+2892381183,259999.0,Apartamento,Serra,Manguinhos,45,2,1,1,0,False,False,False,False,False,False,False,False,True,Serra
+2895056477,480000.0,Casa,Serra,Residencial Jacaraípe,80,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2874551374,300000.0,Apartamento,Serra,Planalto de Carapina,47,2,1,1,0,False,True,False,True,False,True,False,False,False,Serra
+2882471397,450000.0,Apartamento,Serra,Jardim Limoeiro,60,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2889158130,265000.0,Apartamento,Serra,Colina de Laranjeiras,45,1,1,1,1,True,False,False,True,False,True,False,True,False,Serra
+2840808361,449000.0,Casa,Serra,Enseada de Jacaraípe,110,2,2,2,1,False,True,True,False,False,False,False,False,True,Serra
+2891803387,739000.0,Casa,Serra,Parque Residencial Mestre Álvaro,230,3,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2811168324,238000.0,Casa,Serra,Barro Branco,420,3,1,3,0,False,False,False,False,False,False,False,False,False,Serra
+2891493688,265000.0,Apartamento,Serra,Camará,48,2,1,1,0,True,False,True,True,False,True,False,False,False,Serra
+2894430382,210000.0,Apartamento,Serra,Taquara II,45,2,1,1,0,True,False,True,True,False,False,False,False,False,Serra
+2780390258,367151.0,Apartamento,Serra,Camará,50,2,2,0,1,False,True,True,True,False,True,False,False,False,Serra
+2893666377,298000.0,Casa,Serra,São Francisco,75,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2894672481,420000.0,Apartamento,Serra,Colina de Laranjeiras,52,2,2,0,0,False,False,False,False,False,False,False,False,False,Serra
+2881044577,480000.0,Apartamento,Serra,Morada de Laranjeiras,67,3,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2871132934,530000.0,Apartamento,Serra,Valparaíso,62,2,2,0,1,True,False,True,True,False,True,False,True,False,Serra
+2892003691,430000.0,Apartamento,Serra,Praia da Baleia,78,2,1,1,1,True,False,True,True,False,True,False,False,False,Serra
+2878639941,420000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,2,0,1,True,False,False,True,False,True,False,False,False,Serra
+2894451881,480000.0,Casa,Serra,Estância Monazítica,80,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2892194902,490000.0,Casa,Serra,Parque Jacaraípe,170,2,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2870398773,318000.0,Apartamento,Serra,Cidade Continental,48,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2825299698,850000.0,Apartamento,Serra,Santa Luzia,96,2,2,2,1,False,True,True,True,False,False,False,False,False,Serra
+2893536558,450000.0,Apartamento,Serra,Colina de Laranjeiras,65,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2882736577,285000.0,Apartamento,Serra,Balneário de Carapebus,40,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896241910,695000.0,Casa,Serra,Planície da Serra,135,3,2,2,3,False,False,False,False,False,False,False,False,False,Serra
+2870106054,430000.0,Apartamento,Serra,Colina de Laranjeiras,55,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2863552155,280000.0,Apartamento,Serra,Maringá,44,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893877876,749000.0,Casa,Serra,Vista da Serra II,200,4,2,3,1,False,False,False,False,False,False,False,False,False,Serra
+2840540325,579000.0,Apartamento,Serra,Colina de Laranjeiras,65,2,2,1,1,True,True,True,True,False,True,False,False,False,Serra
+2893474657,315000.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895896374,255000.0,Casa,Serra,Colina da Serra,61,2,2,1,2,False,False,False,False,False,False,False,False,False,Serra
+2896275899,340000.0,Casa,Serra,Residencial Jacaraípe,46,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2891984697,369900.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,1,0,True,True,False,True,False,True,False,True,False,Serra
+2875912530,499000.0,Apartamento,Serra,Parque Residencial Laranjeiras,69,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2895098701,320000.0,Apartamento,Serra,Castelândia,48,2,1,1,0,False,False,False,False,False,False,False,False,True,Serra
+2892282061,300000.0,Apartamento,Serra,Valparaíso,70,3,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2889070596,379000.0,Apartamento,Serra,Morada de Laranjeiras,51,2,1,2,0,True,True,False,True,False,False,False,False,False,Serra
+2896494485,560000.0,Sobrado,Serra,Morada de Laranjeiras,80,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2896251182,315000.0,Apartamento,Serra,Colina de Laranjeiras,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2888079486,300000.0,Apartamento,Serra,Enseada de Jacaraípe,49,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2894652494,380000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,0,True,False,False,True,False,False,False,True,False,Serra
+2827493930,370000.0,Casa,Serra,Praia de Capuba,72,2,1,0,2,False,False,False,False,False,False,False,False,False,Serra
+2893708191,330000.0,Casa,Serra,São Francisco,70,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2880199837,1499999.0,Casa,Serra,Manguinhos,420,3,2,2,1,True,False,False,False,True,False,False,False,False,Serra
+2894651711,315000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,0,0,False,False,True,True,False,False,False,True,False,Serra
+2889172452,285000.0,Apartamento,Serra,Valparaíso,56,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2888380927,290000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,0,0,True,False,True,True,False,False,False,False,False,Serra
+2841795951,480000.0,Apartamento,Serra,Praia da Baleia,63,3,1,0,1,True,False,True,True,False,True,False,True,False,Serra
+2891758975,287500.0,Casa,Serra,Colina da Serra,50,2,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2890087817,250000.0,Apartamento,Serra,Divinópolis,130,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2896719481,395000.0,Apartamento,Serra,Serra Centro,68,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896003486,275000.0,Apartamento,Serra,Colina de Laranjeiras,46,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2881937175,480000.0,Apartamento,Serra,Colina de Laranjeiras,77,2,1,1,0,True,True,True,True,False,True,False,True,False,Serra
+2879754880,249000.0,Apartamento,Serra,Balneário de Carapebus,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895895697,290008.0,Apartamento,Serra,Conjunto Jacaraípe,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893033782,450000.0,Apartamento,Serra,Jardim Limoeiro,55,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2893000081,589996.0,Apartamento,Serra,Parque Residencial Laranjeiras,65,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896272792,220000.0,Apartamento,Serra,Castelândia,49,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896540486,289900.0,Apartamento,Serra,Valparaíso,56,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2889819377,439000.0,Apartamento,Serra,Jardim Limoeiro,55,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2894288483,890000.0,Apartamento,Serra,Santa Luzia,85,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2893667293,230000.0,Apartamento,Serra,Chácara Parreiral,48,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2886705990,950000.0,Casa,Serra,Planície da Serra,151,3,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2798598847,301000.0,Apartamento,Serra,Planalto de Carapina,45,2,1,1,0,True,False,True,True,False,False,False,False,False,Serra
+2895055388,989000.0,Sobrado,Serra,Morada de Laranjeiras,133,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2867192793,820000.0,Casa,Serra,Planície da Serra,200,3,2,2,1,False,True,True,False,False,False,False,False,False,Serra
+2892032800,260000.0,Apartamento,Serra,Castelândia,69,3,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2880969518,450000.0,Apartamento,Serra,Planalto de Carapina,52,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2893441202,450000.0,Apartamento,Serra,Colina de Laranjeiras,70,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2862338255,220000.0,Apartamento,Serra,Estância Monazítica,50,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2865960762,460000.0,Apartamento,Serra,Valparaíso,54,2,2,1,1,True,True,False,True,False,True,False,False,False,Serra
+2894565310,420003.0,Casa,Serra,São Francisco,83,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2836922532,900000.0,Casa,Serra,Parque Residencial Laranjeiras,280,7,4,0,1,False,True,False,False,False,False,False,False,False,Serra
+2896234476,285000.0,Apartamento,Serra,Parque Residencial Laranjeiras,56,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2894695373,285000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,0,0,True,False,False,True,False,False,False,True,False,Serra
+2839389674,450000.0,Apartamento,Serra,Praia da Baleia,70,3,2,0,1,True,False,False,True,False,False,False,False,False,Serra
+2817602014,325000.0,Apartamento,Serra,Conjunto Jacaraípe,50,2,2,0,1,False,False,False,False,True,False,False,False,False,Serra
+2876028376,560000.0,Casa de condomínio,Serra,Morada de Laranjeiras,75,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2887993812,280000.0,Apartamento,Serra,Jardim Atlântico,49,2,2,0,1,True,False,False,True,False,True,False,False,True,Serra
+2891078387,410000.0,Apartamento,Serra,Parque Residencial Laranjeiras,55,2,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2896131640,235000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893888382,450000.0,Casa,Serra,Costa Bela,80,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896124776,320000.0,Apartamento,Serra,Morada de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2859872259,320000.0,Apartamento,Serra,Castelândia,52,2,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2895311322,299900.0,Apartamento,Serra,Jardim Limoeiro,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2875819735,837000.0,Cobertura,Serra,Jardim Tropical,240,3,2,1,1,False,False,False,False,False,False,True,False,False,Serra
+2849001222,350000.0,Casa,Serra,Enseada de Jacaraípe,72,2,3,1,2,False,True,False,False,False,False,False,False,False,Serra
+2893689464,599000.0,Sobrado,Serra,Residencial Centro da Serra,101,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2646668779,240000.0,Apartamento,Serra,Ourimar,49,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2889179485,310000.0,Apartamento,Serra,Morada de Laranjeiras,50,2,1,1,0,True,False,False,True,False,True,False,False,False,Serra
+2896549998,596484.0,Casa,Serra,Cidade Continental,85,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2892411837,1750000.0,Casa de condomínio,Serra,Colina de Laranjeiras,200,3,3,3,1,True,True,True,True,False,False,False,True,False,Serra
+2892375474,220000.0,Apartamento,Serra,Castelândia,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2895074377,280000.0,Apartamento,Serra,Jardim Limoeiro,48,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2878831022,450000.0,Apartamento,Serra,Morada de Laranjeiras,52,2,1,1,0,False,False,False,True,False,True,False,False,False,Serra
+2892248977,230000.0,Apartamento,Serra,Castelândia,53,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893065675,890000.0,Apartamento,Serra,Colina de Laranjeiras,110,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2890649082,1189994.0,Casa,Serra,Colina de Laranjeiras,170,4,2,4,1,False,False,False,False,False,False,False,False,False,Serra
+2891986604,787000.0,Casa,Serra,Manguinhos,138,3,2,2,0,False,False,False,False,False,False,False,False,False,Serra
+2892029993,420000.0,Apartamento,Serra,Colina de Laranjeiras,80,2,2,1,1,True,False,True,True,False,True,False,True,False,Serra
+2893659297,925000.0,Apartamento,Serra,Santa Luzia,109,4,3,2,1,False,False,False,False,False,False,False,False,False,Serra
+2894032803,380000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2893254867,298000.0,Térrea,Serra,São Francisco,75,2,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2870609090,380000.0,Apartamento,Serra,Balneário de Carapebus,70,2,1,0,0,True,False,False,True,False,False,False,False,False,Serra
+2887792783,285000.0,Apartamento,Serra,Chácara Parreiral,49,2,1,0,0,True,True,False,True,False,True,False,False,False,Serra
+2893693096,670000.0,Sobrado,Serra,São Francisco,121,3,1,0,1,False,False,False,False,False,False,False,False,False,Serra
+2846168724,550000.0,Apartamento,Serra,Morada de Laranjeiras,60,2,1,0,1,False,False,True,True,False,True,False,False,False,Serra
+2893244139,220000.0,Apartamento,Serra,Conjunto Jacaraípe,49,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2893457179,299000.0,Apartamento,Serra,Conjunto Jacaraípe,55,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2893024097,419999.0,Apartamento,Serra,Colina de Laranjeiras,95,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2868334153,310000.0,Apartamento,Serra,Residencial Vista do Mestre,56,3,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2857653982,239000.0,Apartamento,Serra,Feu Rosa,44,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896035689,299000.0,Apartamento,Serra,Valparaíso,56,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2892302734,297999.0,Térrea,Serra,São Francisco,75,2,1,2,1,False,False,False,False,False,False,False,False,False,Serra
+2874030502,350000.0,Casa,Serra,Novo Porto Canoa,130,2,1,3,1,False,False,False,True,False,False,False,False,False,Serra
+2890961533,260000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2889262589,320000.0,Apartamento,Serra,Morada de Laranjeiras,45,2,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2887523275,1100000.0,Casa,Serra,Morada de Laranjeiras,152,3,1,2,0,False,True,True,False,False,False,False,False,False,Serra
+2887843974,980000.0,Apartamento,Serra,Santa Luzia,132,4,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2842728114,395000.0,Casa,Serra,São Francisco,66,2,3,1,2,False,False,False,False,False,False,False,False,False,Serra
+2871234382,550000.0,Apartamento,Serra,Valparaíso,69,3,2,1,1,True,True,True,True,False,False,False,False,False,Serra
+2846851820,760000.0,Casa,Serra,Castelândia,180,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2890825807,320000.0,Apartamento,Serra,Planalto de Carapina,46,2,1,1,0,True,False,False,True,False,False,False,False,False,Serra
+2891759808,680000.0,Apartamento,Serra,Santa Luzia,83,3,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2849225247,185000.0,Apartamento,Serra,São Patrício,45,2,1,1,0,False,False,False,False,False,True,False,False,False,Serra
+2890631279,590008.0,Casa,Serra,São Francisco,60,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2891826994,499900.0,Apartamento,Serra,Colina de Laranjeiras,52,2,1,0,1,False,True,False,False,False,True,False,False,False,Serra
+2894469676,330000.0,Apartamento,Serra,Chácara Parreiral,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2890274478,335001.0,Casa,Serra,Residencial Centro da Serra,80,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893926312,370000.0,Apartamento,Serra,Colina de Laranjeiras,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2891911124,949000.0,Casa,Serra,Colina de Laranjeiras,148,3,3,0,1,False,True,True,False,False,False,False,False,False,Serra
+2894637390,300000.0,Apartamento,Serra,Morada de Laranjeiras,52,2,1,0,0,True,False,True,True,False,True,False,True,False,Serra
+2806196865,1300000.0,Apartamento,Serra,Parque Residencial Laranjeiras,142,3,4,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893692812,418999.0,Apartamento,Serra,Jardim Limoeiro,51,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2893690515,650000.0,Sobrado,Serra,Jardim Atlântico,100,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2892442537,395000.0,Casa,Serra,Serra Centro,68,2,2,6,0,False,False,False,False,False,False,False,False,False,Serra
+2893865934,215000.0,Apartamento,Serra,Taquara II,50,2,1,0,0,False,False,False,True,True,False,False,False,False,Serra
+2874355585,330000.0,Apartamento,Serra,Colina de Laranjeiras,52,2,1,0,0,True,False,True,True,False,True,False,True,False,Serra
+2892209379,279999.0,Apartamento,Serra,Jardim Atlântico,49,2,1,1,1,False,False,False,False,False,False,False,False,True,Serra
+2893859450,315000.0,Apartamento,Serra,Chácara Parreiral,48,2,1,0,0,True,False,True,True,False,True,False,True,False,Serra
+2896234197,320000.0,Apartamento,Serra,Morada de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2891508998,310000.0,Apartamento,Serra,Jardim Limoeiro,52,2,1,1,0,True,False,True,True,False,True,False,False,False,Serra
+2896670578,470006.0,Apartamento,Serra,de Fátima,67,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2883005841,265000.0,Apartamento,Serra,Ourimar,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2893708878,670000.0,Casa,Serra,São Francisco,105,3,2,1,1,False,False,False,False,False,False,False,False,True,Serra
+2893902932,349000.0,Casa,Serra,Campinho da Serra I,69,3,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2890052683,394991.0,Casa,Serra,Costa Dourada,72,2,1,2,0,False,False,False,False,False,False,False,False,False,Serra
+2879581506,410000.0,Casa,Serra,Jardim Atlântico,87,2,1,2,0,False,True,True,False,False,False,False,False,False,Serra
+2842096642,370000.0,Apartamento,Serra,Morada de Laranjeiras,47,2,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2873755989,370000.0,Apartamento,Serra,Morada de Laranjeiras,60,2,1,1,1,True,True,True,True,False,True,False,True,False,Serra
+2895392797,599000.0,Apartamento,Serra,Colina de Laranjeiras,60,2,1,1,0,True,True,False,False,False,False,False,False,False,Serra
+2896038073,1100000.0,Casa,Serra,Morada de Laranjeiras,140,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2891811324,275000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,True,False,True,True,True,False,False,False,False,Serra
+2889383988,265000.0,Apartamento,Serra,Conjunto Jacaraípe,70,3,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2811701445,350000.0,Apartamento,Serra,Morada de Laranjeiras,47,2,2,3,1,True,False,False,True,False,False,False,False,False,Serra
+2887618319,670000.0,Apartamento,Serra,das Laranjeiras,115,3,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2874439980,330000.0,Apartamento,Serra,Colina de Laranjeiras,52,2,1,1,0,False,True,True,True,False,False,False,True,False,Serra
+2864009626,320000.0,Apartamento,Serra,Conjunto Jacaraípe,52,2,1,1,0,True,True,False,True,False,True,False,False,True,Serra
+2873934373,570000.0,Apartamento,Serra,Valparaíso,68,3,2,1,1,True,True,True,True,True,True,False,True,False,Serra
+2867452858,599000.0,Apartamento,Serra,Parque Residencial Laranjeiras,70,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
+2886840184,369000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,1,0,True,False,False,True,False,True,False,True,False,Serra
+2882281540,270000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,0,0,True,False,False,True,False,False,False,False,False,Serra
+2611778486,650000.0,Sobrado,Serra,Serramar,600,4,4,0,3,False,False,False,False,True,False,False,False,False,Serra
+2882106474,910000.0,Apartamento,Serra,Santa Luzia,109,4,2,0,1,True,False,True,True,False,True,False,True,False,Serra
+2869412040,340000.0,Apartamento,Serra,Planalto de Carapina,55,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2890418084,420000.0,Apartamento,Serra,Colina de Laranjeiras,66,3,1,0,0,True,False,True,True,False,True,False,True,False,Serra
+2896215995,400000.0,Apartamento,Serra,Morada de Laranjeiras,57,2,1,0,1,True,False,True,True,False,False,False,False,False,Serra
+2891490323,245000.0,Apartamento,Serra,Manguinhos,44,2,1,1,0,True,False,True,True,False,True,False,False,True,Serra
+2772959366,850000.0,Casa de condomínio,Serra,Parque Residencial Laranjeiras,140,3,3,0,1,True,False,True,True,True,False,False,False,False,Serra
+2895171775,335000.0,Apartamento,Serra,Residencial Vista do Mestre,52,3,1,0,0,True,True,False,True,False,True,False,True,False,Serra
+2838562076,450000.0,Casa,Serra,Lagoa de Carapebus,156,2,2,4,0,True,True,False,False,False,False,False,False,False,Serra
+2643485658,140000.0,Apartamento,Serra,Ourimar,48,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2879794674,279000.0,Apartamento,Serra,São Diogo II,48,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2896481888,287500.0,Casa,Serra,Colina da Serra,125,2,1,1,1,False,False,False,False,False,False,False,False,False,Serra
+2838563423,550000.0,Casa,Serra,Reis Magos,244,4,4,4,1,False,True,False,False,True,False,False,False,False,Serra
+2891761022,320000.0,Apartamento,Serra,Jardim Limoeiro,50,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2882997529,560000.0,Apartamento,Serra,Valparaíso,69,3,2,1,1,True,False,False,True,False,True,False,False,False,Serra
+2890294390,748991.0,Casa,Serra,Jardim Atlântico,180,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2896233197,275005.0,Apartamento,Serra,Valparaíso,46,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896097284,219001.0,Apartamento,Serra,Taquara I,47,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
+2896603474,305000.0,Apartamento,Serra,Residencial Vista do Mestre,49,3,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2884921965,210000.0,Apartamento,Serra,Residencial Centro da Serra,49,2,1,1,0,False,False,False,True,False,False,False,False,False,Serra
+2877050777,370000.0,Sobrado,Serra,Enseada de Jacaraípe,71,2,1,2,2,False,False,False,False,False,False,False,False,False,Serra
+2895384190,910000.0,Apartamento,Serra,Santa Luzia,107,4,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2896035676,290000.0,Apartamento,Serra,Jardim Limoeiro,54,2,1,1,1,True,False,True,True,False,False,False,False,False,Serra
+2874713223,690000.0,Apartamento,Serra,Planalto de Carapina,70,3,2,1,1,False,False,False,False,False,False,False,False,False,Serra
+2893069111,300000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,True,False,False,True,False,False,False,True,False,Serra
+2883930676,265000.0,Apartamento,Serra,Jardim Limoeiro,60,2,2,1,0,False,False,False,False,False,False,False,False,False,Serra
+2889334801,590000.0,Apartamento,Serra,Jardim Limoeiro,67,3,1,1,0,True,False,True,True,False,True,False,True,False,Serra
+2892006482,235000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,1,0,True,False,False,True,False,False,False,True,False,Serra
+2873348280,370000.0,Apartamento,Serra,Maringá,48,2,1,1,0,True,False,True,True,True,True,False,True,False,Serra
+2617238572,390000.0,Casa,Serra,São Pedro,380,2,3,0,1,False,False,False,False,False,False,False,False,False,Serra
+2780377615,476000.0,Apartamento,Serra,Parque Residencial Laranjeiras,55,2,2,0,1,True,True,True,True,False,True,False,False,False,Serra
+2896747422,580003.0,Casa,Serra,das Laranjeiras,97,3,2,2,1,False,False,False,False,False,False,False,False,False,Serra
+2895329035,650000.0,Apartamento,Serra,Parque Residencial Laranjeiras,66,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2894438187,315000.0,Apartamento,Serra,Colina de Laranjeiras,48,2,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2874711984,449990.0,Apartamento,Serra,Morada de Laranjeiras,55,2,2,0,1,False,False,False,False,False,False,False,False,False,Serra
+2868781845,385000.0,Apartamento,Serra,Valparaíso,50,3,1,0,0,False,False,False,False,False,False,False,False,False,Serra
+2895060773,650000.0,Sobrado,Serra,Jardim Atlântico,100,3,2,0,1,False,False,False,False,False,False,False,False,False,Serra
