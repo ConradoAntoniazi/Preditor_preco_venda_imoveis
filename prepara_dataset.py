@@ -13,6 +13,14 @@ arquivos = [
 ]
 
 lista_dfs = [pd.read_csv(arq) for arq in arquivos]
+
+for df in lista_dfs:
+    df["preco_venda"] = pd.to_numeric(df["preco_venda"], errors="coerce")
+    df["area_m2"] = pd.to_numeric(df["area_m2"], errors="coerce").round().astype("Int64")
+    df["quartos"] = pd.to_numeric(df["quartos"], errors="coerce").astype("Int64")
+    df["banheiros"] = pd.to_numeric(df["banheiros"], errors="coerce").astype("Int64")
+    df["vagas"] = pd.to_numeric(df["vagas"], errors="coerce").astype("Int64")
+
 df_vivareal = pd.concat(lista_dfs, ignore_index=True)
 df_vivareal.to_csv("bases/imoveis_agregado.csv")
 
@@ -49,8 +57,6 @@ MODEL_COLUMNS = [
     "quartos",
     "banheiros",
     "vagas",
-    "anunciante_profissional",
-    "qtd_imagens",
     "tem_suite",
     "tem_piscina",
     "tem_varanda",
@@ -78,7 +84,7 @@ EDA_ONLY_COLUMNS = [
 
 
 AUDIT_COLUMNS = [
-    "id_anuncio"
+    "id_anuncio",
     "tipo_imovel",
     "preco_venda",
     "area_m2",
@@ -89,7 +95,6 @@ AUDIT_COLUMNS = [
     "quartos",
     "banheiros",
     "vagas",
-    "qtd_imagens",
     "idade_anuncio_dias",
     "preco_m2_suspeito",
     "preco_m2_suspeito_original",
@@ -105,7 +110,6 @@ INTEGER_COLUMNS = [
     "quartos",
     "banheiros",
     "vagas",
-    "qtd_imagens",
     "idade_anuncio_dias",
 ]
 
@@ -116,7 +120,6 @@ FLOAT_COLUMNS = [
 
 
 BOOLEAN_COLUMNS = [
-    "anunciante_profissional",
     "tem_suite",
     "tem_piscina",
     "tem_varanda",
@@ -178,7 +181,7 @@ def normalize_types(df):
 
     for column in FLOAT_COLUMNS:
         if column in df.columns:
-            df[column] = pd.to_numeric(df[column], errors="coerce").round(2)
+            df[column] = pd.to_numeric(df[column], errors="coerce").round().astype("Int64")
 
     for column in BOOLEAN_COLUMNS:
         if column in df.columns:
@@ -697,7 +700,7 @@ def write_quality_report(raw_df, model_df, removed_df, dedup_stats=None):
         "quartos",
         "banheiros",
         "vagas",
-        "qtd_imagens",
+
         "idade_anuncio_dias",
     ]
 

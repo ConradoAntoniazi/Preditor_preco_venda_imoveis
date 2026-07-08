@@ -1,29 +1,31 @@
 RELATÓRIO DO DATASET
 
-Arquivo bruto: bases/imoveis_vivareal.csv
+Arquivo bruto: bases/imoveis_agregado.csv
 Cidades esperadas: Fundão, Guarapari, Serra, Viana, Cariacica, Vitória, Vila Velha
-Registros brutos: 6276
-Registros no dataset de modelagem: 6112
-Registros removidos: 164
-Taxa de retenção: 97.39%
+Registros brutos: 6585
+Registros no dataset de modelagem: 6113
+Registros removidos: 472
+Taxa de retenção: 92.83%
 
 Remoções por primeiro motivo identificado:
 motivo_remocao
-area_suspeita              8
-preco_suspeito             5
-sem_bairro                 4
-sem_preco_venda            4
-quartos_ausente_ou_zero    2
+area_suspeita                10
+area_m2_invalida             10
+quartos_ausente_ou_zero       5
+preco_suspeito                5
+sem_bairro                    4
+sem_preco_venda               4
+banheiros_ausente_ou_zero     1
 Name: count, dtype: int64
 
 Deduplicação:
-Entrada na deduplicação: 6253
-Removidos por id_anuncio duplicado: 141
+Entrada na deduplicação: 6546
+Removidos por id_anuncio duplicado: 433
 Removidos por url duplicada: 0
-Total removido por deduplicação forte: 141
+Total removido por deduplicação forte: 433
 Possíveis duplicatas por chave exata, não removidas: 693
 Possíveis duplicatas por chave com preço arredondado, não removidas: 808
-Saída da deduplicação: 6112
+Saída da deduplicação: 6113
 
 Registros brutos fora das cidades esperadas: 0
 
@@ -31,7 +33,7 @@ Cobertura por cidade:
 cidade
 Vila Velha    1455
 Guarapari     1450
-Vitória       1420
+Vitória       1421
 Serra         1325
 Cariacica      367
 Fundão          69
@@ -42,7 +44,7 @@ Cobertura por tipo de imóvel:
 tipo_imovel
 Apartamento           5096
 Casa                   809
-Cobertura               80
+Cobertura               81
 Casa de condomínio      45
 Sobrado                 43
 Térrea                  21
@@ -65,7 +67,7 @@ Vitória     Casa                    68
 Fundão      Casa                    52
 Vila Velha  Casa                    50
 Guarapari   Cobertura               39
-Vitória     Cobertura               31
+Vitória     Cobertura               32
 Serra       Sobrado                 20
             Casa de condomínio      18
 Viana       Casa                    16
@@ -101,7 +103,7 @@ dtype: int64
 
 Top 30 bairros por quantidade de registros:
 bairro
-Jardim Camburi                    675
+Jardim Camburi                    676
 Praia do Morro                    667
 Praia de Itaparica                487
 Centro                            416
@@ -133,11 +135,11 @@ São Judas Tadeu                    41
 Mata da Praia                      38
 Name: count, dtype: Int64
 
-Registros concentrados nos 10 bairros mais frequentes: 3523 (57.64%)
+Registros concentrados nos 10 bairros mais frequentes: 3524 (57.65%)
 
 Top 30 pares cidade/bairro por quantidade de registros:
 cidade      bairro                        
-Vitória     Jardim Camburi                    675
+Vitória     Jardim Camburi                    676
 Guarapari   Praia do Morro                    667
 Vila Velha  Praia de Itaparica                487
 Guarapari   Centro                            405
@@ -205,49 +207,47 @@ dtype: int64
 
 Comparação entre preço/m² suspeito original e recalculado:
 preco_m2_suspeito_original  preco_m2_suspeito
-False                       False                6276
+False                       False                6585
 dtype: int64
 
 Valores ausentes por coluna no dataset de modelagem:
-qtd_imagens                6112
-preco_m2                   6112
-idade_anuncio_dias         6112
-cidade                        0
-bairro                        0
-quartos                       0
-area_m2                       0
-banheiros                     0
-vagas                         0
-tipo_imovel                   0
-preco_venda                   0
-tem_suite                     0
-anunciante_profissional       0
-tem_piscina                   0
-tem_varanda                   0
-tem_mobiliado                 0
-tem_porteira_fechada          0
-tem_gourmet                   0
-tem_lazer                     0
-tem_cobertura                 0
-tem_elevador                  0
-tem_garden                    0
-tem_sol_manha                 0
-area_suspeita                 0
-tem_frente_mar                0
-preco_suspeito                0
-preco_m2_suspeito             0
+idade_anuncio_dias      6113
+preco_m2                6113
+cidade                     0
+tipo_imovel                0
+area_m2                    0
+quartos                    0
+banheiros                  0
+bairro                     0
+preco_venda                0
+tem_suite                  0
+vagas                      0
+tem_piscina                0
+tem_varanda                0
+tem_mobiliado              0
+tem_porteira_fechada       0
+tem_gourmet                0
+tem_lazer                  0
+tem_cobertura              0
+tem_elevador               0
+tem_garden                 0
+tem_sol_manha              0
+area_suspeita              0
+tem_frente_mar             0
+preco_suspeito             0
+preco_m2_suspeito          0
 dtype: int64
 
 Resumo numérico:
-         preco_venda     area_m2  preco_m2   quartos  banheiros     vagas  qtd_imagens  idade_anuncio_dias
-count         6112.0      6112.0       0.0    6112.0     6112.0    6112.0          0.0                 0.0
-mean   833750.383181  101.867637       NaN  2.562827   2.021924  1.191754         <NA>                <NA>
-std    503453.105792   72.368642       NaN  0.829212   0.878577  1.273271         <NA>                <NA>
-min          60000.0        12.0       NaN       1.0        1.0       0.0         <NA>                <NA>
-25%         499000.0        64.0       NaN       2.0        1.0       0.0         <NA>                <NA>
-50%         740000.0        80.0       NaN       2.0        2.0       1.0         <NA>                <NA>
-75%         980000.0       112.0       NaN       3.0        2.0       2.0         <NA>                <NA>
-max        6400000.0      1000.0       NaN      30.0        7.0      45.0         <NA>                <NA>
+         preco_venda     area_m2  preco_m2   quartos  banheiros     vagas  idade_anuncio_dias
+count         6113.0      6113.0       0.0    6113.0     6113.0    6113.0                 0.0
+mean   834022.957958  101.900049      <NA>  2.563062   2.022575  1.192213                <NA>
+std     503862.81594   72.407081      <NA>  0.829348   0.879977  1.273673                <NA>
+min          60000.0        12.0      <NA>       1.0        1.0       0.0                <NA>
+25%         499000.0        64.0      <NA>       2.0        1.0       0.0                <NA>
+50%         740000.0        80.0      <NA>       2.0        2.0       1.0                <NA>
+75%         980000.0       112.0      <NA>       3.0        2.0       2.0                <NA>
+max        6400000.0      1000.0      <NA>      30.0        7.0      45.0                <NA>
 
 Idade dos anúncios no bruto:
 > 90 dias: 0
@@ -256,49 +256,49 @@ Idade dos anúncios no bruto:
 
 20 menores preços por m² no dataset filtrado:
    cidade              bairro tipo_imovel  preco_venda  area_m2  preco_m2  quartos  banheiros  vagas
-Cariacica  Morada de Santa Fé Apartamento       362900       45       NaN        2          1      1
-Cariacica          Rio Branco Apartamento       410000       64       NaN        3          1      1
-Cariacica        Campo Grande Apartamento      1245000      115       NaN        3          2      2
-Cariacica      Cariacica Sede        Casa       200000      210       NaN        3          1      2
-Cariacica  Morada de Santa Fé Apartamento       409900       52       NaN        3          1      1
-Cariacica             Santana Apartamento       350000      300       NaN        3          3      2
-Cariacica         São Geraldo Apartamento       355000       63       NaN        3          2      1
-Cariacica               Tucum Apartamento       260000       43       NaN        2          1      1
-Cariacica       Vasco da Gama Apartamento       218500      156       NaN        3          2      1
-Cariacica           Alto Lage        Casa       650000      275       NaN        4          3      2
-Cariacica  Morada de Santa Fé Apartamento       373700       44       NaN        2          1      1
-Cariacica Jardim Campo Grande        Casa       350000       70       NaN        2          1      1
-Cariacica Jardim Campo Grande        Casa       230000       80       NaN        2          1      1
-Cariacica       Nova Valverde Apartamento       325165       54       NaN        2          1      1
-Cariacica          Rio Branco Apartamento       350000       55       NaN        2          1      1
-Cariacica         São Geraldo Apartamento       440000       63       NaN        3          1      1
-Cariacica  Morada de Santa Fé Apartamento       361100       45       NaN        2          1      1
-Cariacica       Santa Bárbara      Térrea       415000      120       NaN        3          2      2
-Cariacica       Vila Capixaba Apartamento       699000       60       NaN        2          2      2
-Cariacica          Rio Branco Apartamento       320000       55       NaN        2          2      1
+Cariacica  Morada de Santa Fé Apartamento       362900       45      <NA>        2          1      1
+Cariacica          Rio Branco Apartamento       410000       64      <NA>        3          1      1
+Cariacica        Campo Grande Apartamento      1245000      115      <NA>        3          2      2
+Cariacica      Cariacica Sede        Casa       200000      210      <NA>        3          1      2
+Cariacica  Morada de Santa Fé Apartamento       409900       52      <NA>        3          1      1
+Cariacica             Santana Apartamento       350000      300      <NA>        3          3      2
+Cariacica         São Geraldo Apartamento       355000       63      <NA>        3          2      1
+Cariacica               Tucum Apartamento       260000       43      <NA>        2          1      1
+Cariacica       Vasco da Gama Apartamento       218500      156      <NA>        3          2      1
+Cariacica           Alto Lage        Casa       650000      275      <NA>        4          3      2
+Cariacica  Morada de Santa Fé Apartamento       373700       44      <NA>        2          1      1
+Cariacica Jardim Campo Grande        Casa       350000       70      <NA>        2          1      1
+Cariacica Jardim Campo Grande        Casa       230000       80      <NA>        2          1      1
+Cariacica       Nova Valverde Apartamento       325165       54      <NA>        2          1      1
+Cariacica          Rio Branco Apartamento       350000       55      <NA>        2          1      1
+Cariacica         São Geraldo Apartamento       440000       63      <NA>        3          1      1
+Cariacica  Morada de Santa Fé Apartamento       361100       45      <NA>        2          1      1
+Cariacica       Santa Bárbara      Térrea       415000      120      <NA>        3          2      2
+Cariacica       Vila Capixaba Apartamento       699000       60      <NA>        2          2      2
+Cariacica          Rio Branco Apartamento       320000       55      <NA>        2          2      1
 
 20 maiores preços por m² no dataset filtrado:
    cidade              bairro tipo_imovel  preco_venda  area_m2  preco_m2  quartos  banheiros  vagas
-Cariacica  Morada de Santa Fé Apartamento       362900       45       NaN        2          1      1
-Cariacica          Rio Branco Apartamento       410000       64       NaN        3          1      1
-Cariacica        Campo Grande Apartamento      1245000      115       NaN        3          2      2
-Cariacica      Cariacica Sede        Casa       200000      210       NaN        3          1      2
-Cariacica  Morada de Santa Fé Apartamento       409900       52       NaN        3          1      1
-Cariacica             Santana Apartamento       350000      300       NaN        3          3      2
-Cariacica         São Geraldo Apartamento       355000       63       NaN        3          2      1
-Cariacica               Tucum Apartamento       260000       43       NaN        2          1      1
-Cariacica       Vasco da Gama Apartamento       218500      156       NaN        3          2      1
-Cariacica           Alto Lage        Casa       650000      275       NaN        4          3      2
-Cariacica  Morada de Santa Fé Apartamento       373700       44       NaN        2          1      1
-Cariacica Jardim Campo Grande        Casa       350000       70       NaN        2          1      1
-Cariacica Jardim Campo Grande        Casa       230000       80       NaN        2          1      1
-Cariacica       Nova Valverde Apartamento       325165       54       NaN        2          1      1
-Cariacica          Rio Branco Apartamento       350000       55       NaN        2          1      1
-Cariacica         São Geraldo Apartamento       440000       63       NaN        3          1      1
-Cariacica  Morada de Santa Fé Apartamento       361100       45       NaN        2          1      1
-Cariacica       Santa Bárbara      Térrea       415000      120       NaN        3          2      2
-Cariacica       Vila Capixaba Apartamento       699000       60       NaN        2          2      2
-Cariacica          Rio Branco Apartamento       320000       55       NaN        2          2      1
+Cariacica  Morada de Santa Fé Apartamento       362900       45      <NA>        2          1      1
+Cariacica          Rio Branco Apartamento       410000       64      <NA>        3          1      1
+Cariacica        Campo Grande Apartamento      1245000      115      <NA>        3          2      2
+Cariacica      Cariacica Sede        Casa       200000      210      <NA>        3          1      2
+Cariacica  Morada de Santa Fé Apartamento       409900       52      <NA>        3          1      1
+Cariacica             Santana Apartamento       350000      300      <NA>        3          3      2
+Cariacica         São Geraldo Apartamento       355000       63      <NA>        3          2      1
+Cariacica               Tucum Apartamento       260000       43      <NA>        2          1      1
+Cariacica       Vasco da Gama Apartamento       218500      156      <NA>        3          2      1
+Cariacica           Alto Lage        Casa       650000      275      <NA>        4          3      2
+Cariacica  Morada de Santa Fé Apartamento       373700       44      <NA>        2          1      1
+Cariacica Jardim Campo Grande        Casa       350000       70      <NA>        2          1      1
+Cariacica Jardim Campo Grande        Casa       230000       80      <NA>        2          1      1
+Cariacica       Nova Valverde Apartamento       325165       54      <NA>        2          1      1
+Cariacica          Rio Branco Apartamento       350000       55      <NA>        2          1      1
+Cariacica         São Geraldo Apartamento       440000       63      <NA>        3          1      1
+Cariacica  Morada de Santa Fé Apartamento       361100       45      <NA>        2          1      1
+Cariacica       Santa Bárbara      Térrea       415000      120      <NA>        3          2      2
+Cariacica       Vila Capixaba Apartamento       699000       60      <NA>        2          2      2
+Cariacica          Rio Branco Apartamento       320000       55      <NA>        2          2      1
 
 20 menores preços por m² no bruto:
 (vazio)
