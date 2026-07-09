@@ -2059,7 +2059,7 @@ id_anuncio,tipo_imovel,preco_venda,area_m2,preco_m2,cidade,bairro,tipo_imovel,qu
 2889190889,Casa,298000,75,,Serra,São Francisco,Casa,2,2,2,,False,False,False,False
 2872497628,Apartamento,250000,42,,Serra,Jardim Atlântico,Apartamento,2,1,1,,False,False,False,False
 2891492284,Apartamento,260000,45,,Serra,Colina de Laranjeiras,Apartamento,2,1,1,,False,False,False,False
-2891500490,Apartamento,225000,45,,Serra,Jardim Limoeiro,Apartamento,2,2,45,,False,False,False,False
+2891500490,Apartamento,225000,45,,Serra,Jardim Limoeiro,Apartamento,2,2,1,,False,False,False,False
 2849092477,Apartamento,285000,47,,Serra,Jardim Limoeiro,Apartamento,2,1,1,,False,False,False,False
 2887843974,Apartamento,980000,132,,Serra,Santa Luzia,Apartamento,4,2,2,,False,False,False,False
 2883201386,Apartamento,575000,67,,Serra,Colina de Laranjeiras,Apartamento,2,2,1,,False,False,False,False
@@ -2534,7 +2534,7 @@ id_anuncio,tipo_imovel,preco_venda,area_m2,preco_m2,cidade,bairro,tipo_imovel,qu
 2843623123,Apartamento,230000,59,,Serra,das Laranjeiras,Apartamento,2,1,1,,False,False,False,False
 2884808985,Casa,550000,75,,Serra,São Francisco,Casa,2,2,2,,False,False,False,False
 2889817901,Apartamento,450000,55,,Serra,Jardim Limoeiro,Apartamento,2,2,1,,False,False,False,False
-2890828982,Casa,1380000,105,,Serra,Morada de Laranjeiras,Casa,30,2,3,,False,False,False,False
+2890828982,Casa,1380000,105,,Serra,Morada de Laranjeiras,Casa,3,2,3,,False,False,False,False
 2896232382,Apartamento,234999,44,,Serra,Planície da Serra,Apartamento,2,2,1,,False,False,False,False
 2893755782,Casa,670000,105,,Serra,São Francisco,Casa,3,2,2,,False,False,False,False
 2893686076,Apartamento,395000,68,,Serra,Serra Centro,Apartamento,2,1,1,,False,False,False,False
@@ -6563,7 +6563,7 @@ id_anuncio,tipo_imovel,preco_venda,area_m2,preco_m2,cidade,bairro,tipo_imovel,qu
 ,Apartamento,439000,51,,Vila Velha,Santa Paula I,Apartamento,3,2,1,,False,False,False,False
 ,Apartamento,990000,103,,Vila Velha,Jockey de Itaparica,Apartamento,2,2,2,,False,False,False,False
 ,Casa,980000,300,,Cariacica,Jardim América,Casa,3,5,3,,False,False,False,False
-,Apartamento,320000,64,,Serra,São Diogo I,Apartamento,2,1,494,,False,False,False,False
+,Apartamento,320000,64,,Serra,São Diogo I,Apartamento,2,1,1,,False,False,False,False
 ,Apart Hotel/ Flat,195000,28,,Vitória,Santa Luíza,Apart Hotel/ Flat,1,1,1,,False,False,False,False
 ,Casa,800000,317,,Serra,Parque Residencial Laranjeiras,Casa,4,2,2,,False,False,False,False
 ,Casa,920000,293,,Serra,Parque Residencial Laranjeiras,Casa,3,2,1,,False,False,False,False

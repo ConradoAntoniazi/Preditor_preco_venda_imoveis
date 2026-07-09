@@ -148,7 +148,7 @@
 2889190889,298000.0,Casa,Serra,São Francisco,75,2,2,2,1,False,False,False,False,False,False,False,False,False,Serra
 2872497628,250000.0,Apartamento,Serra,Jardim Atlântico,42,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
 2891492284,260000.0,Apartamento,Serra,Colina de Laranjeiras,45,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
-2891500490,225000.0,Apartamento,Serra,Jardim Limoeiro,45,2,2,45,0,False,False,False,True,False,False,False,False,False,Serra
+2891500490,225000.0,Apartamento,Serra,Jardim Limoeiro,45,2,2,1,0,False,False,False,True,False,False,False,False,False,Serra
 2849092477,285000.0,Apartamento,Serra,Jardim Limoeiro,47,2,1,1,0,True,False,False,False,False,True,False,False,False,Serra
 2887843974,980000.0,Apartamento,Serra,Santa Luzia,132,4,2,2,1,False,False,False,False,False,False,False,False,False,Serra
 2883201386,575000.0,Apartamento,Serra,Colina de Laranjeiras,67,2,2,1,1,True,False,False,True,True,True,False,False,False,Serra
@@ -623,7 +623,7 @@
 2843623123,230000.0,Apartamento,Serra,das Laranjeiras,59,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra
 2884808985,550000.0,Casa,Serra,São Francisco,75,2,2,2,0,False,False,False,False,False,False,False,False,False,Serra
 2889817901,450000.0,Apartamento,Serra,Jardim Limoeiro,55,2,2,1,1,True,True,True,True,False,True,False,True,False,Serra
-2890828982,1380000.0,Casa,Serra,Morada de Laranjeiras,105,30,2,3,1,False,False,False,False,False,False,False,False,False,Serra
+2890828982,1380000.0,Casa,Serra,Morada de Laranjeiras,105,3,2,3,1,False,False,False,False,False,False,False,False,False,Serra
 2896232382,234999.0,Apartamento,Serra,Planície da Serra,44,2,2,1,1,False,False,False,False,False,False,False,False,False,Serra
 2893755782,670000.0,Casa,Serra,São Francisco,105,3,2,2,1,False,False,False,False,False,False,False,False,True,Serra
 2893686076,395000.0,Apartamento,Serra,Serra Centro,68,2,1,1,0,False,False,False,False,False,False,False,False,False,Serra

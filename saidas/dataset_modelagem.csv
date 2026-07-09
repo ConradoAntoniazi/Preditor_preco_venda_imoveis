@@ -2007,7 +2007,7 @@ preco_venda,tipo_imovel,cidade,bairro,area_m2,quartos,banheiros,vagas,tem_suite,
 380000,Casa,Serra,São Lourenço,120,3,1,3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False
 298000,Casa,Serra,São Francisco,75,2,2,2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False
 250000,Apartamento,Serra,Jardim Atlântico,42,2,1,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False
-225000,Apartamento,Serra,Jardim Limoeiro,45,2,2,45,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,False
+225000,Apartamento,Serra,Jardim Limoeiro,45,2,2,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,False
 285000,Apartamento,Serra,Jardim Limoeiro,47,2,1,1,False,True,False,False,False,False,False,True,False,False,False,False,False,False,,,False
 220000,Apartamento,Serra,Valparaíso,48,2,1,1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,False
 450000,Casa,Serra,Residencial Centro da Serra,197,3,4,3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False
@@ -2377,7 +2377,7 @@ preco_venda,tipo_imovel,cidade,bairro,area_m2,quartos,banheiros,vagas,tem_suite,
 230000,Apartamento,Serra,das Laranjeiras,59,2,1,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False
 550000,Casa,Serra,São Francisco,75,2,2,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False
 450000,Apartamento,Serra,Jardim Limoeiro,55,2,2,1,True,True,True,True,True,False,False,True,False,True,False,False,False,False,,,False
-1380000,Casa,Serra,Morada de Laranjeiras,105,30,2,3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False
+1380000,Casa,Serra,Morada de Laranjeiras,105,3,2,3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False
 234999,Apartamento,Serra,Planície da Serra,44,2,2,1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False
 670000,Casa,Serra,São Francisco,105,3,2,2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False
 395000,Apartamento,Serra,Serra Centro,68,2,1,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False
