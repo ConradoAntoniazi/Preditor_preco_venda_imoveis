@@ -9,3 +9,6 @@ remax:
 
 vivareal:
 	python3 scraping_vivareal.py
+
+prepara_dataset:
+	python3 prepara_dataset.py

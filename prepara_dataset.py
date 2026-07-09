@@ -21,7 +21,7 @@ for df in lista_dfs:
     df["banheiros"] = pd.to_numeric(df["banheiros"], errors="coerce").astype("Int64")
     df["vagas"] = pd.to_numeric(df["vagas"], errors="coerce").astype("Int64")
 
-df_vivareal = pd.concat(lista_dfs, ignore_index=True)
+df_vivareal = pd.concat(lista_dfs, ignore_index=False)
 df_vivareal.to_csv("bases/imoveis_agregado.csv")
 
 

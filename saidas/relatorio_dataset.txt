@@ -239,15 +239,17 @@ preco_m2_suspeito          0
 dtype: int64
 
 Resumo numérico:
-         preco_venda     area_m2  preco_m2   quartos  banheiros     vagas  idade_anuncio_dias
-count         6113.0      6113.0       0.0    6113.0     6113.0    6113.0                 0.0
-mean   834022.957958  101.900049      <NA>  2.563062   2.022575  1.192213                <NA>
-std     503862.81594   72.407081      <NA>  0.829348   0.879977  1.273673                <NA>
-min          60000.0        12.0      <NA>       1.0        1.0       0.0                <NA>
-25%         499000.0        64.0      <NA>       2.0        1.0       0.0                <NA>
-50%         740000.0        80.0      <NA>       2.0        2.0       1.0                <NA>
-75%         980000.0       112.0      <NA>       3.0        2.0       2.0                <NA>
-max        6400000.0      1000.0      <NA>      30.0        7.0      45.0                <NA>
+         preco_venda     area_m2  ...     vagas  idade_anuncio_dias
+count         6113.0      6113.0  ...    6113.0                 0.0
+mean   834022.957958  101.900049  ...  1.192213                <NA>
+std     503862.81594   72.407081  ...  1.273673                <NA>
+min          60000.0        12.0  ...       0.0                <NA>
+25%         499000.0        64.0  ...       0.0                <NA>
+50%         740000.0        80.0  ...       1.0                <NA>
+75%         980000.0       112.0  ...       2.0                <NA>
+max        6400000.0      1000.0  ...      45.0                <NA>
+
+[8 rows x 7 columns]
 
 Idade dos anúncios no bruto:
 > 90 dias: 0
