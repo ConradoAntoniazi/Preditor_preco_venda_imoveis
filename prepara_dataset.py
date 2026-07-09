@@ -139,7 +139,7 @@ BOOLEAN_COLUMNS = [
 
 
 # Critérios mais rígidos para modelagem inicial.
-MIN_PRECO = 50_000
+MIN_PRECO = 40_000
 MAX_PRECO = 20_000_000
 
 MIN_AREA = 10

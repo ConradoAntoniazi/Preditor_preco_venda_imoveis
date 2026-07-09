@@ -1,40 +1,40 @@
-Unnamed: 0,id_anuncio,preco_venda,tipo_imovel,cidade,bairro,area_m2,quartos,banheiros,vagas,tem_suite,tem_piscina,tem_varanda,tem_gourmet,tem_lazer,tem_mobiliado,tem_elevador,tem_cobertura,tem_garden,tem_frente_mar,cidade_busca,tem_porteira_fechada,area_suspeita,preco_suspeito,preco_m2_suspeito,preco_m2,tem_sol_manha,idade_anuncio_dias,preco_m2_suspeito_original,motivo_remocao
-57,2823561455,750000,Sobrado,Cariacica,Vale Esperança,410,,4,2,True,False,False,False,False,False,False,False,False,False,Cariacica,False,False,False,False,,False,,False,quartos_ausente_ou_zero
-151,2869201796,650000,Casa,Cariacica,Santa Cecília,69,,2,2,True,False,False,False,False,False,False,False,False,False,Cariacica,False,False,False,False,,False,,False,quartos_ausente_ou_zero
-280,2720103256,1200000,Casa,Cariacica,Santa Cecília,1200,3,2,6,False,False,False,False,False,False,False,False,False,False,Cariacica,False,True,False,False,,False,,False,area_suspeita
-19,2679668094,680000,Casa de condomínio,Fundão,Praia Grande,1200,2,3,3,True,False,True,True,False,False,False,False,False,False,Fundao,False,True,False,False,,False,,False,area_suspeita
-37,2559735916,550000,Casa,Fundão,,289,3,3,0,True,False,False,False,False,False,False,False,False,False,Fundao,False,False,False,False,,False,,False,sem_bairro
-40,2860562766,180000,Casa,Fundão,,250,1,1,2,False,False,False,False,False,False,False,False,False,False,Fundao,False,False,False,False,,False,,False,sem_bairro
-47,2811167621,110000,Apartamento,Fundão,,2000,1,1,0,False,False,False,False,False,False,False,False,False,False,Fundao,False,True,False,False,,False,,False,sem_bairro
-55,2832993991,1500000,Casa de condomínio,Fundão,Praia Grande,1650,4,5,0,True,False,True,False,False,False,False,False,False,False,Fundao,False,True,False,False,,False,,False,area_suspeita
-67,2790573726,1500000,Casa,Fundão,Praia Grande,1500,5,4,0,True,False,False,False,False,False,False,False,False,False,Fundao,False,True,False,False,,False,,False,area_suspeita
-72,2872509478,2100000,Casa,Fundão,Praia Grande,2500,4,3,0,False,False,False,False,False,False,False,False,False,True,Fundao,False,True,False,False,,False,,False,area_suspeita
-73,2860215477,750000,Casa,Fundão,,380,3,3,1,True,False,False,False,False,False,False,False,False,False,Fundao,False,False,False,False,,False,,False,sem_bairro
-74,2712152442,1190000,Casa,Fundão,Praia Grande,1300,3,2,0,True,False,False,False,False,False,False,False,False,False,Fundao,False,True,False,False,,False,,False,area_suspeita
-739,2894394793,3000000,Casa,Guarapari,Buenos Aires,2100,4,2,0,True,False,False,False,False,False,False,False,False,False,Guarapari,False,True,False,False,,False,,False,area_suspeita
-1111,2893892880,365000000,Apartamento,Guarapari,Praia do Morro,55,2,1,0,False,False,False,False,False,False,False,False,False,False,Guarapari,False,False,True,False,,False,,False,preco_suspeito
-1452,2894400397,1700000,Casa,Guarapari,Buenos Aires,1600,3,3,2,True,False,False,False,False,False,False,False,False,False,Guarapari,False,True,False,False,,False,,False,area_suspeita
-1,2877613479,,Apartamento,Serra,de Fátima,59,2,2,1,True,True,False,True,True,False,False,False,False,False,Serra,False,False,False,False,,False,,False,sem_preco_venda
-15,2877652591,,Apartamento,Serra,Bicanga,44,2,1,1,True,True,False,True,True,False,False,False,False,False,Serra,False,False,False,False,,False,,False,sem_preco_venda
-32,2886152368,220000000,Apartamento,Serra,São Patrício,46,2,1,1,False,True,False,False,True,False,False,False,False,False,Serra,False,False,True,False,,False,,False,preco_suspeito
-71,2886152473,210000000,Apartamento,Serra,Jardim Limoeiro,48,2,1,1,False,False,False,False,True,False,False,False,False,False,Serra,False,False,True,False,,False,,False,preco_suspeito
-342,2885972621,299000000,Apartamento,Serra,Valparaíso,60,2,1,1,False,False,False,False,True,False,False,False,False,False,Serra,False,False,True,False,,False,,False,preco_suspeito
-1152,2894899676,275000000,Apartamento,Serra,Colina de Laranjeiras,46,2,1,0,False,True,False,True,True,False,False,False,True,False,Serra,False,False,True,False,,False,,False,preco_suspeito
-1,2878119286,,Apartamento,Vila Velha,Jockey de Itaparica,75,3,2,2,True,True,False,True,True,False,False,False,False,True,Vila Velha,False,False,False,False,,False,,False,sem_preco_venda
-8,2877470942,,Apartamento,Vila Velha,Soteco,51,2,2,1,True,True,False,True,True,False,False,False,False,False,Vila Velha,False,False,False,False,,False,,False,sem_preco_venda
-2,,630000,Apartamento,Vitória,Jardim Camburi,0,3,2,1,False,False,False,False,False,False,False,False,False,False,,False,True,False,False,,False,,False,area_m2_invalida
-24,,939000,Apartamento,Vila Velha,Praia da Costa,0,2,2,2,False,True,True,True,True,True,True,False,True,False,,False,True,False,False,,False,,False,area_m2_invalida
-46,,260000,Casa,Serra,Centro da Serra,300,1,,,False,False,False,False,False,False,False,False,True,False,,False,False,False,False,,False,,False,banheiros_ausente_ou_zero
-54,,1600000,Casa,Vitória,Universitário,1809,3,3,,False,False,False,False,False,False,False,False,False,False,,False,True,False,False,,False,,False,area_suspeita
-64,,3475000,Apartamento,Vitória,Praia do Canto,0,4,4,3,False,True,False,False,False,False,False,False,True,False,,False,True,False,False,,False,,False,area_m2_invalida
-84,,1191830,Apartamento,Vitória,Jardim Camburi,0,3,2,,False,True,True,True,True,False,True,False,True,True,,False,True,False,False,,False,,False,area_m2_invalida
-105,,360000,Apartamento,Vitória,Morada de Camburi,0,1,1,1,False,False,False,False,False,False,False,False,False,False,,False,True,False,False,,False,,False,area_m2_invalida
-109,,890000,Apartamento,Vitória,Jardim Camburi,96,,,1,False,False,False,False,False,True,False,False,True,False,,False,False,False,False,,False,,False,quartos_ausente_ou_zero
-119,,795000,Casa,Vila Velha,Cobilândia,0,6,3,4,False,False,False,False,False,False,False,False,False,False,,False,True,False,False,,False,,False,area_m2_invalida
-170,,978000,Apartamento,Vitória,Jardim Camburi,0,2,2,,False,True,True,True,True,False,False,False,True,False,,False,True,False,False,,False,,False,area_m2_invalida
-179,,1600000,Casa,Serra,Parque Residencial Laranjeiras,0,3,3,2,False,False,False,False,False,True,False,False,True,False,,False,True,False,False,,False,,False,area_m2_invalida
-186,,708345,Apartamento,Vitória,Barro Vermelho,0,1,1,,False,True,True,True,False,False,False,False,True,False,,False,True,False,False,,False,,False,area_m2_invalida
-191,,2800000,Apart Hotel/ Flat,Guarapari,Guarapari,20000,6,8,5,False,False,True,False,False,True,False,False,True,False,,False,True,False,False,,False,,False,area_suspeita
-217,,750000,Studio,Vitória,Jardim da Penha,31,,,1,False,True,False,True,False,False,True,False,False,False,,False,False,False,False,,False,,False,quartos_ausente_ou_zero
-220,,986865,Apartamento,Vitória,Barro Vermelho,0,2,1,,False,True,True,True,False,False,False,False,True,False,,False,True,False,False,,False,,False,area_m2_invalida
-308,,500000,Apartamento,Vitória,Jardim da Penha,90,,,,False,False,False,False,False,False,False,False,False,False,,False,False,False,False,,False,,False,quartos_ausente_ou_zero
+Unnamed: 0,id_anuncio,preco_venda,tipo_imovel,cidade,bairro,area_m2,quartos,banheiros,vagas,tem_suite,tem_piscina,tem_varanda,tem_gourmet,tem_lazer,tem_mobiliado,tem_elevador,tem_cobertura,tem_garden,tem_frente_mar,cidade_busca,area_suspeita,preco_m2_suspeito,preco_suspeito,preco_m2,idade_anuncio_dias,preco_m2_suspeito_original,tem_porteira_fechada,tem_sol_manha,motivo_remocao
+57,2823561455,750000,Sobrado,Cariacica,Vale Esperança,410,,4,2,True,False,False,False,False,False,False,False,False,False,Cariacica,False,False,False,,,False,False,False,quartos_ausente_ou_zero
+151,2869201796,650000,Casa,Cariacica,Santa Cecília,69,,2,2,True,False,False,False,False,False,False,False,False,False,Cariacica,False,False,False,,,False,False,False,quartos_ausente_ou_zero
+280,2720103256,1200000,Casa,Cariacica,Santa Cecília,1200,3,2,6,False,False,False,False,False,False,False,False,False,False,Cariacica,True,False,False,,,False,False,False,area_suspeita
+19,2679668094,680000,Casa de condomínio,Fundão,Praia Grande,1200,2,3,3,True,False,True,True,False,False,False,False,False,False,Fundao,True,False,False,,,False,False,False,area_suspeita
+37,2559735916,550000,Casa,Fundão,,289,3,3,0,True,False,False,False,False,False,False,False,False,False,Fundao,False,False,False,,,False,False,False,sem_bairro
+40,2860562766,180000,Casa,Fundão,,250,1,1,2,False,False,False,False,False,False,False,False,False,False,Fundao,False,False,False,,,False,False,False,sem_bairro
+47,2811167621,110000,Apartamento,Fundão,,2000,1,1,0,False,False,False,False,False,False,False,False,False,False,Fundao,True,False,False,,,False,False,False,sem_bairro
+55,2832993991,1500000,Casa de condomínio,Fundão,Praia Grande,1650,4,5,0,True,False,True,False,False,False,False,False,False,False,Fundao,True,False,False,,,False,False,False,area_suspeita
+67,2790573726,1500000,Casa,Fundão,Praia Grande,1500,5,4,0,True,False,False,False,False,False,False,False,False,False,Fundao,True,False,False,,,False,False,False,area_suspeita
+72,2872509478,2100000,Casa,Fundão,Praia Grande,2500,4,3,0,False,False,False,False,False,False,False,False,False,True,Fundao,True,False,False,,,False,False,False,area_suspeita
+73,2860215477,750000,Casa,Fundão,,380,3,3,1,True,False,False,False,False,False,False,False,False,False,Fundao,False,False,False,,,False,False,False,sem_bairro
+74,2712152442,1190000,Casa,Fundão,Praia Grande,1300,3,2,0,True,False,False,False,False,False,False,False,False,False,Fundao,True,False,False,,,False,False,False,area_suspeita
+739,2894394793,3000000,Casa,Guarapari,Buenos Aires,2100,4,2,0,True,False,False,False,False,False,False,False,False,False,Guarapari,True,False,False,,,False,False,False,area_suspeita
+1111,2893892880,365000000,Apartamento,Guarapari,Praia do Morro,55,2,1,0,False,False,False,False,False,False,False,False,False,False,Guarapari,False,False,True,,,False,False,False,preco_suspeito
+1452,2894400397,1700000,Casa,Guarapari,Buenos Aires,1600,3,3,2,True,False,False,False,False,False,False,False,False,False,Guarapari,True,False,False,,,False,False,False,area_suspeita
+1,2877613479,,Apartamento,Serra,de Fátima,59,2,2,1,True,True,False,True,True,False,False,False,False,False,Serra,False,False,False,,,False,False,False,sem_preco_venda
+15,2877652591,,Apartamento,Serra,Bicanga,44,2,1,1,True,True,False,True,True,False,False,False,False,False,Serra,False,False,False,,,False,False,False,sem_preco_venda
+32,2886152368,220000000,Apartamento,Serra,São Patrício,46,2,1,1,False,True,False,False,True,False,False,False,False,False,Serra,False,False,True,,,False,False,False,preco_suspeito
+71,2886152473,210000000,Apartamento,Serra,Jardim Limoeiro,48,2,1,1,False,False,False,False,True,False,False,False,False,False,Serra,False,False,True,,,False,False,False,preco_suspeito
+342,2885972621,299000000,Apartamento,Serra,Valparaíso,60,2,1,1,False,False,False,False,True,False,False,False,False,False,Serra,False,False,True,,,False,False,False,preco_suspeito
+1152,2894899676,275000000,Apartamento,Serra,Colina de Laranjeiras,46,2,1,0,False,True,False,True,True,False,False,False,True,False,Serra,False,False,True,,,False,False,False,preco_suspeito
+1,2878119286,,Apartamento,Vila Velha,Jockey de Itaparica,75,3,2,2,True,True,False,True,True,False,False,False,False,True,Vila Velha,False,False,False,,,False,False,False,sem_preco_venda
+8,2877470942,,Apartamento,Vila Velha,Soteco,51,2,2,1,True,True,False,True,True,False,False,False,False,False,Vila Velha,False,False,False,,,False,False,False,sem_preco_venda
+2,,630000,Apartamento,Vitória,Jardim Camburi,0,3,2,1,False,False,False,False,False,False,False,False,False,False,,True,False,False,,,False,False,False,area_m2_invalida
+24,,939000,Apartamento,Vila Velha,Praia da Costa,0,2,2,2,False,True,True,True,True,True,True,False,True,False,,True,False,False,,,False,False,False,area_m2_invalida
+46,,260000,Casa,Serra,Centro da Serra,300,1,,,False,False,False,False,False,False,False,False,True,False,,False,False,False,,,False,False,False,banheiros_ausente_ou_zero
+54,,1600000,Casa,Vitória,Universitário,1809,3,3,,False,False,False,False,False,False,False,False,False,False,,True,False,False,,,False,False,False,area_suspeita
+64,,3475000,Apartamento,Vitória,Praia do Canto,0,4,4,3,False,True,False,False,False,False,False,False,True,False,,True,False,False,,,False,False,False,area_m2_invalida
+84,,1191830,Apartamento,Vitória,Jardim Camburi,0,3,2,,False,True,True,True,True,False,True,False,True,True,,True,False,False,,,False,False,False,area_m2_invalida
+105,,360000,Apartamento,Vitória,Morada de Camburi,0,1,1,1,False,False,False,False,False,False,False,False,False,False,,True,False,False,,,False,False,False,area_m2_invalida
+109,,890000,Apartamento,Vitória,Jardim Camburi,96,,,1,False,False,False,False,False,True,False,False,True,False,,False,False,False,,,False,False,False,quartos_ausente_ou_zero
+119,,795000,Casa,Vila Velha,Cobilândia,0,6,3,4,False,False,False,False,False,False,False,False,False,False,,True,False,False,,,False,False,False,area_m2_invalida
+170,,978000,Apartamento,Vitória,Jardim Camburi,0,2,2,,False,True,True,True,True,False,False,False,True,False,,True,False,False,,,False,False,False,area_m2_invalida
+179,,1600000,Casa,Serra,Parque Residencial Laranjeiras,0,3,3,2,False,False,False,False,False,True,False,False,True,False,,True,False,False,,,False,False,False,area_m2_invalida
+186,,708345,Apartamento,Vitória,Barro Vermelho,0,1,1,,False,True,True,True,False,False,False,False,True,False,,True,False,False,,,False,False,False,area_m2_invalida
+191,,2800000,Apart Hotel/ Flat,Guarapari,Guarapari,20000,6,8,5,False,False,True,False,False,True,False,False,True,False,,True,False,False,,,False,False,False,area_suspeita
+217,,750000,Studio,Vitória,Jardim da Penha,31,,,1,False,True,False,True,False,False,True,False,False,False,,False,False,False,,,False,False,False,quartos_ausente_ou_zero
+220,,986865,Apartamento,Vitória,Barro Vermelho,0,2,1,,False,True,True,True,False,False,False,False,True,False,,True,False,False,,,False,False,False,area_m2_invalida
+308,,500000,Apartamento,Vitória,Jardim da Penha,90,,,,False,False,False,False,False,False,False,False,False,False,,False,False,False,,,False,False,False,quartos_ausente_ou_zero
