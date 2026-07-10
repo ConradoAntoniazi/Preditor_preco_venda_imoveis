@@ -1,0 +1,61 @@
+RELATÓRIO DE VALIDAÇÃO DA COLETA RAW
+========================================================================
+Pasta: /home/raphael/Downloads/ufes-7p/IA/2026-1-projeto-grupo-6/coleta_olx_completa
+Execução: olx_20260710T130551Z
+Linhas raw: 16711
+Linhas de log: 339
+
+AUSÊNCIAS
+------------------------------------------------------------------------
+execucao_id: 0 (0.00%)
+cidade_consultada: 0 (0.00%)
+tipo_consultado: 0 (0.00%)
+pagina: 0 (0.00%)
+id_anuncio: 0 (0.00%)
+url_anuncio: 0 (0.00%)
+titulo_raw: 0 (0.00%)
+preco_raw: 8 (0.05%)
+categoria_raw: 0 (0.00%)
+cidade_raw: 0 (0.00%)
+bairro_raw: 3 (0.02%)
+area_raw: 1807 (10.81%)
+banheiros_raw: 633 (3.79%)
+vagas_raw: 1628 (9.74%)
+
+DUPLICAÇÕES E POSIÇÕES
+------------------------------------------------------------------------
+IDs únicos: 16670
+IDs que aparecem mais de uma vez no raw: 41
+Observações duplicadas na mesma página: 0
+Páginas com problema de posição: 0
+
+COBERTURA POR CIDADE E TIPO
+------------------------------------------------------------------------
+Cariacica | apartamento: 329 linhas; 7 página(s); área ausente 31 (9.42%); cidade divergente 0; planejadas 7
+Cariacica | casa: 1318 linhas; 27 página(s); área ausente 857 (65.02%); cidade divergente 0; planejadas 27
+Fundão | apartamento: 6 linhas; 1 página(s); área ausente 0 (0.00%); cidade divergente 0; planejadas 1
+Fundão | casa: 63 linhas; 2 página(s); área ausente 7 (11.11%); cidade divergente 1; planejadas 2
+Guarapari | apartamento: 2000 linhas; 40 página(s); área ausente 9 (0.45%); cidade divergente 0; planejadas 40
+Guarapari | casa: 1340 linhas; 27 página(s); área ausente 24 (1.79%); cidade divergente 0; planejadas 27
+Serra | apartamento: 2000 linhas; 40 página(s); área ausente 13 (0.65%); cidade divergente 0; planejadas 40
+Serra | casa: 2000 linhas; 40 página(s); área ausente 228 (11.40%); cidade divergente 0; planejadas 40
+Viana | apartamento: 19 linhas; 1 página(s); área ausente 2 (10.53%); cidade divergente 0; planejadas 1
+Viana | casa: 366 linhas; 8 página(s); área ausente 315 (86.07%); cidade divergente 0; planejadas 8
+Vila Velha | apartamento: 2000 linhas; 40 página(s); área ausente 13 (0.65%); cidade divergente 0; planejadas 40
+Vila Velha | casa: 2000 linhas; 40 página(s); área ausente 145 (7.25%); cidade divergente 51; planejadas 40
+Vitória | apartamento: 2000 linhas; 40 página(s); área ausente 6 (0.30%); cidade divergente 0; planejadas 40
+Vitória | casa: 1270 linhas; 26 página(s); área ausente 157 (12.36%); cidade divergente 0; planejadas 26
+
+LOG
+------------------------------------------------------------------------
+ok: 339
+
+RESULTADO
+========================================================================
+REPROVADA PARA CONSOLIDAÇÃO: há erro(s) técnico(s) a corrigir.
+
+ERROS
+- preco_raw possui 8 valor(es) ausente(s).
+
+AVISOS
+- 1807 anúncio(s) (10.81%) estão sem área; eles deverão ir para a fila de enriquecimento posterior.
