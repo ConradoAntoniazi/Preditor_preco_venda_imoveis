@@ -78,7 +78,7 @@ def preparar_dados():
     radar_knn = treina_modelo_vizinhanca(df_treino)
     df_treino, df_teste = aplicar_score_knn(df_treino, df_teste, radar_knn)
     
-    # Exporta os arquivos necessários para o inferencia.py (conforme combinamos antes)
+    # Exporta os arquivos necessários para o inferencia.py 
     joblib.dump(radar_knn, './saidas/modelo_knn_vizinhanca.pkl')
     df_treino[['latitude', 'longitude', 'preco_venda']].to_csv('./saidas/referencia_treino_knn.csv', index=False)
     
