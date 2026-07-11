@@ -3,3 +3,4 @@ pandas
 tqdm
 Geopy
 scikit-learn
+xgboost
