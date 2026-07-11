@@ -1,0 +1,37 @@
+TRIAGEM E FILA DO PILOTO INDIVIDUAL
+========================================================================
+Arquivo raw: /home/raphael/Downloads/ufes-7p/IA/2026-1-projeto-grupo-6/coleta_olx_completa/olx_listagens_raw.csv
+Observacoes raw: 16711
+IDs/linhas unicas apos consolidacao: 16670
+Sem preco na listagem: 8
+Sem area e com preco: 1802
+Cidade divergente: 52
+Paginas individuais selecionadas: 60
+
+AMOSTRA POR MOTIVO
+------------------------------------------------------------------------
+cidade_divergente: 6
+controle_completo:Cariacica/apartamento: 1
+controle_completo:Cariacica/casa: 1
+controle_completo:Fundão/apartamento: 1
+controle_completo:Fundão/casa: 1
+controle_completo:Guarapari/apartamento: 1
+controle_completo:Guarapari/casa: 1
+controle_completo:Serra/apartamento: 1
+controle_completo:Serra/casa: 1
+controle_completo:Viana/apartamento: 1
+sem_area:Cariacica/apartamento: 2
+sem_area:Cariacica/casa: 6
+sem_area:Fundão/casa: 2
+sem_area:Guarapari/apartamento: 2
+sem_area:Guarapari/casa: 2
+sem_area:Serra/apartamento: 2
+sem_area:Serra/casa: 2
+sem_area:Viana/apartamento: 2
+sem_area:Viana/casa: 6
+sem_area:Vila Velha/apartamento: 2
+sem_area:Vila Velha/casa: 2
+sem_area:Vitória/apartamento: 2
+sem_area:Vitória/casa: 2
+sem_bairro_na_listagem: 3
+sem_preco_na_listagem: 8
