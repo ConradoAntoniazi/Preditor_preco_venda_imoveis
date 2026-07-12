@@ -1,0 +1,8 @@
+RELATORIO DE APLICACAO DA REVISAO MANUAL
+========================================================================
+Anuncios afetados: 76
+Flags revisadas: 79
+Conflitos restantes no arquivo de saida: 0
+
+O arquivo original de enriquecimento nao foi alterado.
+Use o arquivo revisado como --enrichment no finalizar_dataset_flags_booleanas.py.

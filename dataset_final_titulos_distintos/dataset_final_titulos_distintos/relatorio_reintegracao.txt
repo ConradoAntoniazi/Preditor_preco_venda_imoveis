@@ -1,0 +1,21 @@
+RELATORIO DE REINTEGRACAO POR TITULO DISTINTO
+==============================================================================
+Registros no dataset final anterior: 10749
+Registros originalmente removidos por igualdade das 14 colunas: 2129
+Reintegrados por título normalizado diferente: 1250
+Mantidos removidos por título normalizado igual: 864
+Não reintegrados por outras ressalvas de qualidade: 15
+Registros no novo dataset final: 11999
+IDs únicos no novo dataset: 11999
+
+CRITÉRIO DE TÍTULO
+------------------------------------------------------------------------------
+A normalização remove apenas acentos, caixa, pontuação e espaços repetidos.
+Palavras e números são preservados; portanto, títulos semanticamente diferentes
+não são fundidos apenas por possuírem as mesmas 14 variáveis de modelagem.
+
+RESSALVA
+------------------------------------------------------------------------------
+As linhas reintegradas podem repetir exatamente as 14 colunas do modelo.
+Isso agora é intencional: títulos diferentes são tratados como anúncios distintos.
+Registros ainda marcados com motivos_para_revisao não foram reintegrados.

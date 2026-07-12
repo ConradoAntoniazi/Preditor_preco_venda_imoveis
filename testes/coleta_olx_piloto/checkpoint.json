@@ -1,0 +1,44 @@
+{
+  "completed_pages": [
+    "Vila Velha|apartamento|1",
+    "Vila Velha|apartamento|2",
+    "Vila Velha|casa|1",
+    "Vila Velha|casa|2",
+    "Vitória|apartamento|1",
+    "Vitória|apartamento|2",
+    "Vitória|casa|1",
+    "Vitória|casa|2"
+  ],
+  "execution_id": "olx_20260710T113538Z",
+  "targets": {
+    "Vila Velha|apartamento": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 2,
+      "total_ads": 17875,
+      "ultima_pagina_concluida": 2,
+      "url_base": "https://www.olx.com.br/imoveis/venda/apartamentos/estado-es/norte-do-espirito-santo/vila-velha"
+    },
+    "Vila Velha|casa": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 2,
+      "total_ads": 2343,
+      "ultima_pagina_concluida": 2,
+      "url_base": "https://www.olx.com.br/imoveis/venda/casas/estado-es/norte-do-espirito-santo/vila-velha"
+    },
+    "Vitória|apartamento": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 2,
+      "total_ads": 6188,
+      "ultima_pagina_concluida": 2,
+      "url_base": "https://www.olx.com.br/imoveis/venda/apartamentos/estado-es/norte-do-espirito-santo/vitoria"
+    },
+    "Vitória|casa": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 2,
+      "total_ads": 1281,
+      "ultima_pagina_concluida": 2,
+      "url_base": "https://www.olx.com.br/imoveis/venda/casas/estado-es/norte-do-espirito-santo/vitoria"
+    }
+  },
+  "updated_at_utc": "2026-07-10T11:41:23+00:00"
+}

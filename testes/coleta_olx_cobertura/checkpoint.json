@@ -1,0 +1,120 @@
+{
+  "completed_pages": [
+    "Cariacica|apartamento|1",
+    "Cariacica|casa|1",
+    "Fundão|apartamento|1",
+    "Fundão|casa|1",
+    "Guarapari|apartamento|1",
+    "Guarapari|casa|1",
+    "Serra|apartamento|1",
+    "Serra|casa|1",
+    "Viana|apartamento|1",
+    "Viana|casa|1",
+    "Vila Velha|apartamento|1",
+    "Vila Velha|casa|1",
+    "Vitória|apartamento|1",
+    "Vitória|casa|1"
+  ],
+  "execution_id": "olx_20260710T124951Z",
+  "targets": {
+    "Cariacica|apartamento": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 1,
+      "total_ads": 330,
+      "ultima_pagina_concluida": 1,
+      "url_base": "https://www.olx.com.br/imoveis/venda/apartamentos/estado-es/norte-do-espirito-santo/outras-cidades/cariacica"
+    },
+    "Cariacica|casa": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 1,
+      "total_ads": 1315,
+      "ultima_pagina_concluida": 1,
+      "url_base": "https://www.olx.com.br/imoveis/venda/casas/estado-es/norte-do-espirito-santo/outras-cidades/cariacica"
+    },
+    "Fundão|apartamento": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 1,
+      "total_ads": 6,
+      "ultima_pagina_concluida": 1,
+      "url_base": "https://www.olx.com.br/imoveis/venda/apartamentos/estado-es/norte-do-espirito-santo/outras-cidades/fundao"
+    },
+    "Fundão|casa": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 1,
+      "total_ads": 62,
+      "ultima_pagina_concluida": 1,
+      "url_base": "https://www.olx.com.br/imoveis/venda/casas/estado-es/norte-do-espirito-santo/outras-cidades/fundao"
+    },
+    "Guarapari|apartamento": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 1,
+      "total_ads": 4697,
+      "ultima_pagina_concluida": 1,
+      "url_base": "https://www.olx.com.br/imoveis/venda/apartamentos/estado-es/norte-do-espirito-santo/guarapari-e-regiao/guarapari"
+    },
+    "Guarapari|casa": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 1,
+      "total_ads": 1332,
+      "ultima_pagina_concluida": 1,
+      "url_base": "https://www.olx.com.br/imoveis/venda/casas/estado-es/norte-do-espirito-santo/guarapari-e-regiao/guarapari"
+    },
+    "Serra|apartamento": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 1,
+      "total_ads": 5233,
+      "ultima_pagina_concluida": 1,
+      "url_base": "https://www.olx.com.br/imoveis/venda/apartamentos/estado-es/norte-do-espirito-santo/outras-cidades/serra"
+    },
+    "Serra|casa": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 1,
+      "total_ads": 6321,
+      "ultima_pagina_concluida": 1,
+      "url_base": "https://www.olx.com.br/imoveis/venda/casas/estado-es/norte-do-espirito-santo/outras-cidades/serra"
+    },
+    "Viana|apartamento": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 1,
+      "total_ads": 19,
+      "ultima_pagina_concluida": 1,
+      "url_base": "https://www.olx.com.br/imoveis/venda/apartamentos/estado-es/norte-do-espirito-santo/outras-cidades/viana"
+    },
+    "Viana|casa": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 1,
+      "total_ads": 366,
+      "ultima_pagina_concluida": 1,
+      "url_base": "https://www.olx.com.br/imoveis/venda/casas/estado-es/norte-do-espirito-santo/outras-cidades/viana"
+    },
+    "Vila Velha|apartamento": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 1,
+      "total_ads": 17895,
+      "ultima_pagina_concluida": 1,
+      "url_base": "https://www.olx.com.br/imoveis/venda/apartamentos/estado-es/norte-do-espirito-santo/vila-velha"
+    },
+    "Vila Velha|casa": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 1,
+      "total_ads": 2357,
+      "ultima_pagina_concluida": 1,
+      "url_base": "https://www.olx.com.br/imoveis/venda/casas/estado-es/norte-do-espirito-santo/vila-velha"
+    },
+    "Vitória|apartamento": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 1,
+      "total_ads": 6128,
+      "ultima_pagina_concluida": 1,
+      "url_base": "https://www.olx.com.br/imoveis/venda/apartamentos/estado-es/norte-do-espirito-santo/vitoria"
+    },
+    "Vitória|casa": {
+      "page_size": 50,
+      "paginas_planejadas_nesta_execucao": 1,
+      "total_ads": 1270,
+      "ultima_pagina_concluida": 1,
+      "url_base": "https://www.olx.com.br/imoveis/venda/casas/estado-es/norte-do-espirito-santo/vitoria"
+    }
+  },
+  "updated_at_utc": "2026-07-10T12:59:28+00:00"
+}

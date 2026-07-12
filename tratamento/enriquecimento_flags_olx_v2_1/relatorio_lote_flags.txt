@@ -1,0 +1,21 @@
+RELATORIO DO LOTE DE ENRIQUECIMENTO DE FLAGS
+========================================================================
+Registros na base: 14828
+Pendentes elegiveis neste inicio de execucao: 6961
+Suspeitos de fora do escopo pulados: 109
+Itens selecionados no lote: 6961
+Sucessos no lote: 6340
+
+STATUS DO LOTE
+------------------------------------------------------------------------
+indisponivel: 621
+ok: 6340
+
+Bytes lidos por pagina - minimo: 8192
+Bytes lidos por pagina - media: 8192.0
+Bytes lidos por pagina - maximo: 8192
+
+OBSERVACAO
+------------------------------------------------------------------------
+As propriedades re_features/re_complex_features ja foram incorporadas na base.
+A pagina individual foi usada somente para validar o anuncio e obter a descricao completa.
