@@ -10,8 +10,19 @@ from sklearn.model_selection import train_test_split
 NUM_NEIGHBORS = 5
 
 def le_dados():
-    df_imoveis = pd.read_csv("./saidas/dataset_modelagem.csv")
-    df_imoveis = df_imoveis.drop(columns=["tem_sol_manha", "tem_frente_mar", "area_suspeita", "preco_suspeito", "idade_anuncio_dias", "preco_m2", "preco_m2_suspeito"], errors='ignore')
+    df1 = pd.read_csv('saidas/dataset_modelagem.csv')
+    df2 = pd.read_csv('dataset_final_modelagem.csv')
+
+    colunas_comuns = [coluna for coluna in df1.columns if coluna in df2.columns]
+
+    df1_filtrado = df1[colunas_comuns]
+    df2_filtrado = df2[colunas_comuns]
+    
+    df_combinado = pd.concat([df1_filtrado, df2_filtrado], ignore_index=True)
+    df_combinado_preenchido = df_combinado.fillna(0)
+    df_combinado_preenchido.to_csv('dataset_combinado.csv', index=False)
+
+    df_imoveis = pd.read_csv("dataset_combinado.csv")
     return df_imoveis
 
 def gera_score_vizinhanca(df_imoveis):
