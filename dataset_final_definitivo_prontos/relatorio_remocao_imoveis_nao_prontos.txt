@@ -1,0 +1,26 @@
+RELATORIO DE REMOCAO DE ANUNCIOS E IMOVEIS NAO PRONTOS
+==============================================================================
+Registros de entrada: 10827
+Registros removidos nesta etapa: 78
+Registros finais para modelagem: 10749
+
+REMocoes POR GRUPO
+------------------------------------------------------------------------------
+entrega_futura_ou_pre_lancamento: 34
+imovel_inacabado_ou_em_obra: 41
+remocao_especifica: 3
+
+VERIFICACOES
+------------------------------------------------------------------------------
+IDs unicos no dataset final: 10749
+Duplicatas exatas nas 14 colunas finais: 0
+IDs removidos ainda presentes no dataset final: 0
+Dataset de modelagem derivado diretamente do auditavel filtrado: sim
+
+SEMANTICA
+------------------------------------------------------------------------------
+A remocao de imoveis nao prontos foi baseada em evidencias explicitas
+preservadas no arquivo auditavel: imovel na planta, em construcao, em
+acabamento, inacabado, pre-lancamento ou com entrega futura.
+Anuncios que apenas usam a palavra 'lancamento', sem outra evidencia de
+obra ou entrega futura, nao foram removidos automaticamente.
