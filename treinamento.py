@@ -3,9 +3,8 @@ import numpy as np
 import joblib
 
 from sklearn.pipeline import Pipeline
-from sklearn.compose import ColumnTransformer
+from sklearn.compose import ColumnTransformer, TransformedTargetRegressor
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
-
 from sklearn.ensemble import RandomForestRegressor, StackingRegressor
 from sklearn.neural_network import MLPRegressor
 from sklearn.neighbors import KNeighborsRegressor
@@ -45,16 +44,23 @@ def main():
         ])
     
     print("3. Inicializando os Modelos Base...")
-    rf_model = RandomForestRegressor(n_estimators=150, max_depth=15, random_state=42)
-    xgb_model = XGBRegressor(n_estimators=300, learning_rate=0.05, max_depth=7, random_state=42)
-    mlp_model = MLPRegressor(hidden_layer_sizes=(128, 64), max_iter=500, early_stopping=True, random_state=42)
-    knn_model = KNeighborsRegressor(n_neighbors=8, weights='distance')
-    
+    rf_model = RandomForestRegressor(n_estimators=400, max_depth=25, min_samples_split=5, min_samples_leaf=2, random_state=42)
+    xgb_model = XGBRegressor(
+        n_estimators=200, 
+        learning_rate=0.05, 
+        max_depth=7, 
+        subsample=0.8, 
+        colsample_bytree=0.8, 
+        random_state=42
+    )
+    mlp_model = MLPRegressor(hidden_layer_sizes=(128, 128), alpha=0.01, max_iter=2500, early_stopping=True, random_state=42)
+    knn_model = KNeighborsRegressor(n_neighbors=8, weights='distance', p=1)
+
     estimadores_base = [
         ('rf', rf_model),
         ('xgb', xgb_model),
         ('mlp', mlp_model),
-        ('knn', knn_model)
+        ('knn', knn_model),
     ]
     
     print("4. Construindo o Stacking Regressor (Meta-Modelo)...")
@@ -64,10 +70,16 @@ def main():
         cv=5,
         n_jobs=-1
     )
+
+    stacking_com_log = TransformedTargetRegressor(
+        regressor=stacking_model,
+        func=np.log1p,        
+        inverse_func=np.expm1
+    )
     
     pipeline_final = Pipeline(steps=[
         ('preprocessor', preprocessor),
-        ('stacking', stacking_model)
+        ('stacking', stacking_com_log)
     ])
     
     print("5. Treinando a solução unificada (Pode demorar alguns minutos)...")
