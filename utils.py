@@ -38,7 +38,13 @@ def gera_score_vizinhanca(df_imoveis):
 
 def particiona_dataset(df_imoveis):
     df_limpo = df_imoveis.dropna(subset=['latitude', 'longitude', 'preco_venda']).copy()
-    df_treino, df_teste = train_test_split(df_limpo, test_size=0.2, random_state=42)
+
+    df_treino, df_teste = train_test_split(
+        df_limpo, 
+        test_size=0.2, 
+        random_state=42, 
+        stratify=df_limpo['cidade']
+    )
     return df_treino.copy(), df_teste.copy()
 
 def treina_modelo_vizinhanca(df_treino):
@@ -49,12 +55,19 @@ def treina_modelo_vizinhanca(df_treino):
 def aplicar_score_knn(df_treino, df_teste, radar_knn):
     """Calcula e aplica o score de vizinhança aos datasets."""
     # Score do Treino
+    precos_treino = df_treino['preco_venda'].to_numpy()
+
     dist_treino, ind_treino = radar_knn.kneighbors(df_treino[['latitude', 'longitude']])
-    df_treino['score_vizinhanca'] = [df_treino.iloc[vizinhos[1:]]['preco_venda'].mean() for vizinhos in ind_treino]
+    df_treino['score_vizinhanca'] = [
+        precos_treino[[v for v in vizinhos if v != i][:NUM_NEIGHBORS]].mean()
+        for i, vizinhos in enumerate(ind_treino)
+    ]
 
     # Score do Teste
     dist_teste, ind_teste = radar_knn.kneighbors(df_teste[['latitude', 'longitude']])
-    df_teste['score_vizinhanca'] = [df_treino.iloc[vizinhos[:NUM_NEIGHBORS]]['preco_venda'].mean() for vizinhos in ind_teste]
+    df_teste['score_vizinhanca'] = [
+        precos_treino[vizinhos[:NUM_NEIGHBORS]].mean() for vizinhos in ind_teste
+    ]
 
     return df_treino, df_teste
 
