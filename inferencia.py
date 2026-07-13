@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Executa inferencia com o modelo segmentado final.
 
 Entrada esperada: arquivo CSV contendo as 13 variaveis preditoras originais:
@@ -42,7 +41,39 @@ import pandas as pd
 # classes foram definidas nesses modulos. Mantenha utils.py e treinamento.py
 # disponiveis no mesmo projeto ao carregar o modelo.
 import utils
-import treinamento  # noqa: F401
+import treinamento
+
+
+def registrar_compatibilidade_joblib() -> None:
+    """Registra classes antigas salvas como pertencentes a ``__main__``.
+
+    O modelo atual foi serializado durante a execucao direta de
+    ``treinamento.py``. Por isso, o joblib gravou algumas classes com o
+    caminho ``__main__.NomeDaClasse``. Durante a inferencia, ``__main__``
+    passa a ser este arquivo, e a desserializacao nao encontra essas classes.
+
+    Este registro e apenas uma camada de compatibilidade para carregar o
+    modelo ja treinado. Em um novo treinamento, o ideal e manter essas
+    classes em um modulo importavel estavel.
+    """
+    modulo_main = sys.modules["__main__"]
+
+    classes_compatibilidade = {
+        "CrossFittedTargetEncodingBairro": getattr(
+            treinamento,
+            "CrossFittedTargetEncodingBairro",
+            None,
+        ),
+        "ModeloSegmentadoFinal": getattr(
+            utils,
+            "ModeloSegmentadoFinal",
+            None,
+        ),
+    }
+
+    for nome, classe in classes_compatibilidade.items():
+        if classe is not None:
+            setattr(modulo_main, nome, classe)
 
 
 MODELO_PADRAO = "modelo_segmentado_final.joblib"
@@ -205,6 +236,7 @@ def carregar_modelo(caminho: Path):
     if not caminho.exists():
         raise FileNotFoundError(f"Modelo nao encontrado: {caminho}")
 
+    registrar_compatibilidade_joblib()
     modelo = joblib.load(caminho)
     if not hasattr(modelo, "predict"):
         raise TypeError(
