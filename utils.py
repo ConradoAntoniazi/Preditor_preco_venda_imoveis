@@ -1,317 +1,485 @@
+from __future__ import annotations
+
 import os
 import time
+import unicodedata
+from dataclasses import dataclass
+from typing import Any
+
 import numpy as np
 import pandas as pd
-import joblib
-from tqdm import tqdm
 from geopy.geocoders import Nominatim
-from sklearn.neighbors import NearestNeighbors
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import GroupKFold, StratifiedGroupKFold
+from tqdm import tqdm
 
-NUM_NEIGHBORS = 8
-PASTA_SAIDAS = 'saidas'
+PASTA_SAIDAS = "saidas"
+CAMINHO_DATASET_OUTRAS = os.path.join(PASTA_SAIDAS, "dataset_modelagem.csv")
+CAMINHO_DATASET_OLX = "dataset_final_modelagem.csv"
+CAMINHO_COORDENADAS = os.path.join(PASTA_SAIDAS, "long_lat.csv")
 
-def tratar_outliers_preco_m2(df, limite_inferior=0.01, limite_superior=0.99):
-    """
-    Remove linhas com preço/m² fora dos percentis definidos, calculados
-    SEPARADAMENTE por tipo_imovel.
+COLUNA_ALVO = "preco_venda"
 
-    Por que por tipo: casas e apartamentos têm distribuições de preço/m²
-    bem diferentes (casas tendem a ter preço/m² mais baixo por causa do
-    terreno, que não entra em area_m2; apartamentos tendem a ter preço/m²
-    mais alto). Um corte de percentil global mistura as duas distribuições:
-    ou deixa passar erros de digitação num segmento, ou descarta variação
-    legítima do outro. Esses casos costumam ser erro de digitação (ex: área
-    ou preço trocado) em vez de imóveis genuinamente atípicos, e distorcem
-    tanto o treino dos modelos quanto o score_vizinhanca e o
-    preco_m2_medio_bairro, que dependem diretamente do preço por m².
-    """
-    preco_m2 = df['preco_venda'] / df['area_m2']
-    mascara_valida = pd.Series(True, index=df.index)
+COLUNAS_PREDITORAS = [
+    "tipo_imovel",
+    "cidade",
+    "bairro",
+    "area_m2",
+    "quartos",
+    "banheiros",
+    "vagas",
+    "tem_suite",
+    "tem_piscina",
+    "tem_varanda",
+    "tem_lazer",
+    "tem_mobiliado",
+    "tem_elevador",
+]
 
-    for tipo, grupo in df.groupby('tipo_imovel'):
-        preco_m2_tipo = preco_m2.loc[grupo.index]
-        p_inf, p_sup = preco_m2_tipo.quantile([limite_inferior, limite_superior])
-        mascara_tipo = preco_m2_tipo.between(p_inf, p_sup)
-        mascara_valida.loc[grupo.index] = mascara_tipo
-        print(f"Outliers de preço/m² removidos ({tipo}): {(~mascara_tipo).sum()} "
-              f"(fora da faixa R$ {p_inf:.0f} - R$ {p_sup:.0f} por m²)")
+COLUNAS_MODELO = [COLUNA_ALVO, *COLUNAS_PREDITORAS]
 
-    print(f"Outliers de preço/m² removidos (total): {(~mascara_valida).sum()}")
+COLUNAS_BOOLEANAS = [
+    "tem_suite",
+    "tem_piscina",
+    "tem_varanda",
+    "tem_lazer",
+    "tem_mobiliado",
+    "tem_elevador",
+]
 
-    return df[mascara_valida].reset_index(drop=True)
+COLUNAS_NUMERICAS_BRUTAS = [
+    "area_m2",
+    "quartos",
+    "banheiros",
+    "vagas",
+]
 
-def le_dados():
-    df1 = pd.read_csv(os.path.join('saidas', 'dataset_modelagem.csv'))
-    df2 = pd.read_csv(os.path.join('old_dataset_limpeza_duplicatas', 'dataset_final_modelagem.csv'))
+COLUNAS_ASSINATURA = list(COLUNAS_PREDITORAS)
 
-    colunas_comuns = [coluna for coluna in df1.columns if coluna in df2.columns]
+MAPEAMENTO_TIPOS = {
+    "casa de condominio": "casa",
+    "sobrado": "casa",
+    "terrea": "casa",
+    "duplex": "apartamento",
+    "studio": "apartamento",
+    "flat": "apartamento",
+    "cobertura": "apartamento",
+}
 
-    df1_filtrado = df1[colunas_comuns]
-    df2_filtrado = df2[colunas_comuns]
-    
-    df_combinado = pd.concat([df1_filtrado, df2_filtrado], ignore_index=True)
 
-    df_combinado['tipo_imovel'] = df_combinado['tipo_imovel'].str.strip().str.lower()
+@dataclass
+class DadosPreparados:
+    treino: pd.DataFrame
+    teste: pd.DataFrame
+    completo: pd.DataFrame
+    coordenadas: pd.DataFrame
+    rejeitados: pd.DataFrame
 
-    mapa_tipo = {
-        'cobertura': 'apartamento',
-        'flat': 'apartamento',
-        'studio': 'apartamento',
-        'sobrado': 'casa',
-        'duplex': 'casa',
-        'térrea': 'casa',
-        'casa de condomínio': 'casa',
-    }
 
-    df_combinado['tipo_imovel'] = df_combinado['tipo_imovel'].replace(mapa_tipo)
+def normalizar_texto(valor: Any) -> str:
+    if pd.isna(valor):
+        return "nao informado"
 
-    df_combinado['vagas'] = df_combinado['vagas'].fillna(0)
-    df_combinado['banheiros'] = df_combinado['banheiros'].fillna(
-        df_combinado.groupby('tipo_imovel')['banheiros'].transform('median')
+    texto = str(valor).strip().lower()
+    texto = unicodedata.normalize("NFKD", texto)
+    texto = "".join(
+        caractere
+        for caractere in texto
+        if not unicodedata.combining(caractere)
     )
-    df_combinado['quartos'] = df_combinado['quartos'].fillna(
-        df_combinado.groupby('tipo_imovel')['quartos'].transform('median')
+    return " ".join(texto.split()) or "nao informado"
+
+
+def normalizar_booleano(valor: Any) -> float:
+    if pd.isna(valor):
+        return np.nan
+
+    if isinstance(valor, (bool, np.bool_)):
+        return float(valor)
+
+    texto = normalizar_texto(valor)
+    if texto in {"true", "1", "sim", "s", "yes"}:
+        return 1.0
+    if texto in {"false", "0", "nao", "n", "no"}:
+        return 0.0
+
+    raise ValueError(f"Valor booleano inesperado: {valor!r}")
+
+
+def validar_colunas(
+    df: pd.DataFrame,
+    caminho: str,
+    exige_alvo: bool = True,
+) -> None:
+    obrigatorias = COLUNAS_MODELO if exige_alvo else COLUNAS_PREDITORAS
+    ausentes = [coluna for coluna in obrigatorias if coluna not in df.columns]
+    if ausentes:
+        raise ValueError(
+            f"{caminho}: colunas obrigatorias ausentes: {ausentes}."
+        )
+
+
+def normalizar_dataframe(
+    df: pd.DataFrame,
+    exige_alvo: bool,
+) -> pd.DataFrame:
+    validar_colunas(df, "DataFrame", exige_alvo=exige_alvo)
+    resultado = df.copy()
+
+    for coluna in ["tipo_imovel", "cidade", "bairro"]:
+        resultado[coluna] = resultado[coluna].map(normalizar_texto)
+
+    resultado["tipo_imovel"] = resultado["tipo_imovel"].replace(
+        MAPEAMENTO_TIPOS
     )
 
-    linhas_antes = len(df_combinado)
-    df_combinado = df_combinado.drop_duplicates().reset_index(drop=True)
-    print(f"Duplicatas removidas: {linhas_antes - len(df_combinado)}")
+    colunas_numericas = list(COLUNAS_NUMERICAS_BRUTAS)
+    if exige_alvo:
+        colunas_numericas.insert(0, COLUNA_ALVO)
 
-    df_combinado = tratar_outliers_preco_m2(df_combinado)
+    for coluna in colunas_numericas:
+        resultado[coluna] = pd.to_numeric(
+            resultado[coluna],
+            errors="coerce",
+        )
 
-    os.makedirs(PASTA_SAIDAS, exist_ok=True)
-    df_combinado.to_csv('dataset_combinado.csv', index=False)
+    for coluna in COLUNAS_BOOLEANAS:
+        resultado[coluna] = resultado[coluna].map(normalizar_booleano)
 
-    return df_combinado
+    return resultado
 
-def gera_score_vizinhanca(df_imoveis):
-    geolocator = Nominatim(user_agent="app_localizacao")
-    df_long_lat = df_imoveis[["bairro", "cidade"]].drop_duplicates().reset_index(drop=True)
 
-    for index, row in tqdm(df_long_lat.iterrows(), total=df_long_lat.shape[0], desc="Geocodificando"):
-        endereco_busca = f"{row['bairro']}, {row['cidade']}, ES, Brasil"
+def carregar_datasets(
+    caminho_outras: str = CAMINHO_DATASET_OUTRAS,
+    caminho_olx: str = CAMINHO_DATASET_OLX,
+) -> pd.DataFrame:
+    df_outras = pd.read_csv(caminho_outras)
+    df_olx = pd.read_csv(caminho_olx)
+
+    validar_colunas(df_outras, caminho_outras, exige_alvo=True)
+    validar_colunas(df_olx, caminho_olx, exige_alvo=True)
+
+    df_outras = df_outras[COLUNAS_MODELO].copy()
+    df_olx = df_olx[COLUNAS_MODELO].copy()
+
+    df_outras["fonte_dataset"] = "outras_plataformas"
+    df_olx["fonte_dataset"] = "olx"
+
+    combinado = pd.concat([df_outras, df_olx], ignore_index=True)
+    return normalizar_dataframe(combinado, exige_alvo=True)
+
+
+def aplicar_regras_fixas(
+    df: pd.DataFrame,
+) -> tuple[pd.DataFrame, pd.DataFrame]:
+    motivo = pd.Series("", index=df.index, dtype="string")
+
+    def adicionar_motivo(mascara: pd.Series, texto: str) -> None:
+        atual = motivo.loc[mascara].fillna("")
+        motivo.loc[mascara] = atual.where(atual == "", atual + ";") + texto
+
+    adicionar_motivo(df[COLUNA_ALVO].isna(), "preco_ausente")
+    adicionar_motivo(df["area_m2"].isna(), "area_ausente")
+    adicionar_motivo(
+        ~df["tipo_imovel"].isin(["apartamento", "casa"]),
+        "tipo_invalido",
+    )
+    adicionar_motivo(df[COLUNA_ALVO] < 80_000, "preco_abaixo_limite")
+    adicionar_motivo(df[COLUNA_ALVO] > 10_000_000, "preco_acima_limite")
+    adicionar_motivo(df["area_m2"] < 20, "area_abaixo_limite")
+    adicionar_motivo(df["area_m2"] > 800, "area_acima_limite")
+
+    mascara_rejeitada = motivo != ""
+    rejeitados = df.loc[mascara_rejeitada].copy()
+    rejeitados["motivo_rejeicao"] = motivo.loc[mascara_rejeitada]
+
+    aceitos = df.loc[~mascara_rejeitada].copy()
+
+    # Quartos, banheiros e vagas sao preservados como coletados.
+    # Valores acima de 5 nao sao reduzidos nem removidos.
+    return aceitos.reset_index(drop=True), rejeitados.reset_index(drop=True)
+
+
+def gerar_coordenadas_bairros(
+    df_imoveis: pd.DataFrame,
+    caminho_saida: str = CAMINHO_COORDENADAS,
+) -> pd.DataFrame:
+    geolocator = Nominatim(user_agent="app_localizacao_imoveis_es")
+    coordenadas = (
+        df_imoveis[["bairro", "cidade"]]
+        .drop_duplicates()
+        .reset_index(drop=True)
+    )
+
+    for indice, linha in tqdm(
+        coordenadas.iterrows(),
+        total=len(coordenadas),
+        desc="Geocodificando bairros",
+    ):
+        endereco = f"{linha['bairro']}, {linha['cidade']}, ES, Brasil"
         try:
-            location = geolocator.geocode(endereco_busca, timeout=10)
-            if location:
-                df_long_lat.at[index, 'latitude'] = location.latitude
-                df_long_lat.at[index, 'longitude'] = location.longitude
+            localizacao = geolocator.geocode(endereco, timeout=10)
+            if localizacao is not None:
+                coordenadas.at[indice, "latitude"] = localizacao.latitude
+                coordenadas.at[indice, "longitude"] = localizacao.longitude
             else:
-                df_long_lat.at[index, 'latitude'] = None
-                df_long_lat.at[index, 'longitude'] = None
-        except Exception as e:
-            print(f"Erro ao buscar {endereco_busca}: {e}")
-            df_long_lat.at[index, 'latitude'] = None
-            df_long_lat.at[index, 'longitude'] = None
+                coordenadas.at[indice, "latitude"] = np.nan
+                coordenadas.at[indice, "longitude"] = np.nan
+        except Exception:
+            coordenadas.at[indice, "latitude"] = np.nan
+            coordenadas.at[indice, "longitude"] = np.nan
+
         time.sleep(1.5)
-        
-    df_long_lat.to_csv("./saidas/long_lat.csv", index=False)
 
-def particiona_dataset(df_imoveis):
-    total_antes = len(df_imoveis)
-    df_limpo = df_imoveis.dropna(subset=['latitude', 'longitude', 'preco_venda']).copy()
-    perdidos = total_antes - len(df_limpo)
-    if perdidos > 0:
-        pct = 100 * perdidos / total_antes
-        print(f"Aviso: {perdidos} linhas ({pct:.1f}%) descartadas por falha "
-              f"de geocodificação (bairro não encontrado pelo Nominatim).")
-    
-    faixas_preco = pd.qcut(df_limpo['preco_venda'], q=4, labels=['Q1', 'Q2', 'Q3', 'Q4'], duplicates='drop')
-    
-    df_limpo['estrato'] = df_limpo['cidade'].astype(str) + "_" + \
-                          df_limpo['tipo_imovel'].astype(str) + "_" + \
-                          faixas_preco.astype(str)
+    os.makedirs(os.path.dirname(caminho_saida) or ".", exist_ok=True)
+    coordenadas.to_csv(caminho_saida, index=False)
+    return coordenadas
 
-    contagem = df_limpo['estrato'].value_counts()
-    raros = contagem[contagem < 2].index
-    df_limpo.loc[df_limpo['estrato'].isin(raros), 'estrato'] = 'Outros'
 
-    df_treino, df_teste = train_test_split(
-        df_limpo, 
-        test_size=0.2, 
-        random_state=42,
-        stratify=df_limpo['estrato']
+def carregar_coordenadas(
+    df_imoveis: pd.DataFrame,
+    caminho: str = CAMINHO_COORDENADAS,
+) -> pd.DataFrame:
+    if os.path.exists(caminho):
+        coordenadas = pd.read_csv(caminho)
+    else:
+        coordenadas = gerar_coordenadas_bairros(df_imoveis, caminho)
+
+    obrigatorias = {"cidade", "bairro", "latitude", "longitude"}
+    ausentes = obrigatorias - set(coordenadas.columns)
+    if ausentes:
+        raise ValueError(
+            f"Arquivo de coordenadas sem colunas: {sorted(ausentes)}"
+        )
+
+    coordenadas = coordenadas[
+        ["cidade", "bairro", "latitude", "longitude"]
+    ].copy()
+    coordenadas["cidade"] = coordenadas["cidade"].map(normalizar_texto)
+    coordenadas["bairro"] = coordenadas["bairro"].map(normalizar_texto)
+    coordenadas["latitude"] = pd.to_numeric(
+        coordenadas["latitude"], errors="coerce"
     )
-    
-    df_treino = df_treino.drop(columns=['estrato'])
-    df_teste = df_teste.drop(columns=['estrato'])
-    
-    return df_treino.copy(), df_teste.copy()
-
-def treina_modelos_vizinhanca_por_tipo(df_treino):
-    """
-    Treina um KNN espacial POR tipo_imovel (em vez de um único KNN misturando
-    casas e apartamentos). Como a geocodificação é feita por bairro (não por
-    endereço exato), os "vizinhos" do KNN nada mais são do que outros imóveis
-    do mesmo bairro -- então, sem separar por tipo, um bairro com poucas casas
-    e muitos apartamentos faz o score da casa ser calculado majoritariamente
-    a partir de preços de apartamentos, com dinâmica de preço diferente.
-    """
-    modelos = {}
-    for tipo in df_treino['tipo_imovel'].unique():
-        subset = df_treino[df_treino['tipo_imovel'] == tipo]
-        n_vizinhos = min(NUM_NEIGHBORS + 1, len(subset))
-        radar_knn = NearestNeighbors(n_neighbors=n_vizinhos, algorithm='auto', metric='euclidean')
-        radar_knn.fit(subset[['latitude', 'longitude']])
-        modelos[tipo] = radar_knn
-    return modelos
-
-def aplicar_score_knn_por_tipo(df_treino, df_teste, modelos_knn, epsilon=1e-6, m_smoothing=5):
-    """
-    Calcula o score de vizinhança separadamente por tipo_imovel e aplica
-    suavização bayesiana em direção à média de preço do próprio tipo.
-
-    Por que a suavização importa: como a geocodificação é por bairro, o score
-    "bruto" é essencialmente a média ponderada do preço de outros imóveis do
-    MESMO bairro (e agora também do mesmo tipo) no treino. Em bairros com
-    poucas casas, essa média é calculada com base em 1-3 vizinhos, o que faz
-    o score praticamente refletir o próprio preço do imóvel -- um vazamento
-    de dados que deixa o modelo "decorar" o treino e generalizar mal (o gap
-    grande entre MAPE treino/teste observado nas casas). A suavização
-    (m_smoothing) puxa o score em direção à média do tipo quando há poucos
-    vizinhos confiáveis, reduzindo esse vazamento.
-    """
-    df_treino = df_treino.copy()
-    df_teste = df_teste.copy()
-    df_treino['score_vizinhanca'] = np.nan
-    df_teste['score_vizinhanca'] = np.nan
-
-    for tipo, radar_knn in modelos_knn.items():
-        sub_treino = df_treino[df_treino['tipo_imovel'] == tipo]
-        precos_treino_tipo = sub_treino['preco_venda'].to_numpy()
-        media_global_tipo = precos_treino_tipo.mean()
-        k_efetivo = min(NUM_NEIGHBORS, len(sub_treino) - 1)
-
-        if k_efetivo < 1:
-            df_treino.loc[sub_treino.index, 'score_vizinhanca'] = media_global_tipo
-        else:
-            dist_treino, ind_treino = radar_knn.kneighbors(sub_treino[['latitude', 'longitude']])
-            scores = []
-            for i, (vizinhos, distancias) in enumerate(zip(ind_treino, dist_treino)):
-                pares = [(v, d) for v, d in zip(vizinhos, distancias) if v != i][:k_efetivo]
-                vizinhos_validos = [v for v, d in pares]
-                distancias_validas = np.array([d for v, d in pares])
-
-                pesos = 1.0 / (distancias_validas + epsilon)
-                pesos /= pesos.sum()
-
-                score_bruto = np.sum(precos_treino_tipo[vizinhos_validos] * pesos)
-                n_efetivo = len(vizinhos_validos)
-                score_suavizado = (n_efetivo * score_bruto + m_smoothing * media_global_tipo) / (n_efetivo + m_smoothing)
-                scores.append(score_suavizado)
-            df_treino.loc[sub_treino.index, 'score_vizinhanca'] = scores
-
-        sub_teste = df_teste[df_teste['tipo_imovel'] == tipo]
-        if len(sub_teste) == 0:
-            continue
-
-        if k_efetivo < 1:
-            df_teste.loc[sub_teste.index, 'score_vizinhanca'] = media_global_tipo
-        else:
-            dist_teste, ind_teste = radar_knn.kneighbors(sub_teste[['latitude', 'longitude']])
-            scores_teste = []
-            for vizinhos, distancias in zip(ind_teste, dist_teste):
-                vizinhos = vizinhos[:k_efetivo]
-                distancias = distancias[:k_efetivo]
-
-                pesos = 1.0 / (distancias + epsilon)
-                pesos /= pesos.sum()
-
-                score_bruto = np.sum(precos_treino_tipo[vizinhos] * pesos)
-                score_suavizado = (k_efetivo * score_bruto + m_smoothing * media_global_tipo) / (k_efetivo + m_smoothing)
-                scores_teste.append(score_suavizado)
-            df_teste.loc[sub_teste.index, 'score_vizinhanca'] = scores_teste
-
-    return df_treino, df_teste
-
-def calcular_preco_m2_bairro(df_treino, df_teste, m_smoothing=15):
-    """
-    Calcula o preço médio por m² por bairro E por tipo_imovel (com
-    suavização bayesiana), usando apenas o treino, e aplica em treino e
-    teste.
-
-    Por que separar por tipo: antes, essa média era calculada por bairro
-    misturando casas e apartamentos. Como apartamentos são ~2/3 dos dados,
-    a média de preço/m² de cada bairro ficava dominada pelo padrão de
-    apartamento (que costuma ter preço/m² mais alto), e essa mesma média
-    "contaminada" era aplicada às casas do bairro -- exatamente o mesmo
-    tipo de distorção que já tínhamos corrigido no score_vizinhanca.
-    """
-    df_treino = df_treino.copy()
-    df_teste = df_teste.copy()
-
-    df_treino['preco_m2'] = df_treino['preco_venda'] / df_treino['area_m2']
-
-    media_global_por_tipo = df_treino.groupby('tipo_imovel')['preco_m2'].mean()
-
-    stats = df_treino.groupby(['bairro', 'tipo_imovel'])['preco_m2'].agg(['mean', 'count']).reset_index()
-    stats['media_global_tipo'] = stats['tipo_imovel'].map(media_global_por_tipo)
-    stats['preco_m2_medio_bairro'] = (
-        (stats['count'] * stats['mean'] + m_smoothing * stats['media_global_tipo'])
-        / (stats['count'] + m_smoothing)
+    coordenadas["longitude"] = pd.to_numeric(
+        coordenadas["longitude"], errors="coerce"
     )
 
-    mapa_bairro_tipo = stats.set_index(['bairro', 'tipo_imovel'])['preco_m2_medio_bairro'].to_dict()
+    return (
+        coordenadas.groupby(["cidade", "bairro"], as_index=False)
+        .agg(
+            latitude=("latitude", "median"),
+            longitude=("longitude", "median"),
+        )
+    )
 
-    def aplica_mapa(df):
-        chaves = list(zip(df['bairro'], df['tipo_imovel']))
-        return [mapa_bairro_tipo.get(chave) for chave in chaves]
 
-    df_treino['preco_m2_medio_bairro'] = aplica_mapa(df_treino)
-    df_teste['preco_m2_medio_bairro'] = aplica_mapa(df_teste)
+def adicionar_features_seguras(
+    df: pd.DataFrame,
+    coordenadas: pd.DataFrame,
+) -> pd.DataFrame:
+    resultado = df.merge(
+        coordenadas,
+        on=["cidade", "bairro"],
+        how="left",
+        validate="many_to_one",
+    )
 
-    df_treino['preco_m2_medio_bairro'] = df_treino['preco_m2_medio_bairro'].fillna(
-        df_treino['tipo_imovel'].map(media_global_por_tipo))
-    df_teste['preco_m2_medio_bairro'] = df_teste['preco_m2_medio_bairro'].fillna(
-        df_teste['tipo_imovel'].map(media_global_por_tipo))
+    resultado["cidade_bairro"] = (
+        resultado["cidade"] + "__" + resultado["bairro"]
+    )
+    resultado["coordenada_ausente"] = (
+        resultado["latitude"].isna()
+        | resultado["longitude"].isna()
+    ).astype(int)
+    resultado["log_area_m2"] = np.log1p(resultado["area_m2"])
+    resultado["area_por_quarto"] = (
+        resultado["area_m2"] / (resultado["quartos"] + 1)
+    )
+    resultado["quantidade_amenidades"] = resultado[
+        COLUNAS_BOOLEANAS
+    ].sum(axis=1, min_count=1)
 
-    df_treino = df_treino.drop(columns=['preco_m2'])
+    return resultado
 
-    return df_treino, df_teste
 
-def adicionar_features_derivadas(df_treino, df_teste):
-    """Cria features derivadas simples (razões entre variáveis existentes)."""
-    for df in (df_treino, df_teste):
-        df['area_por_quarto'] = df['area_m2'] / (df['quartos'] + 1)
+def assinatura_preditores(df: pd.DataFrame) -> pd.Series:
+    dados = df[COLUNAS_ASSINATURA].copy()
 
-    return df_treino, df_teste
+    for coluna in ["tipo_imovel", "cidade", "bairro"]:
+        dados[coluna] = dados[coluna].map(normalizar_texto)
 
-def preparar_dados():
-    """Função Principal: Orquestra a leitura, cálculo e retorna os dados prontos para os modelos."""
-    df_imoveis = le_dados()
-    
-    try:
-        df_long_lat = pd.read_csv("./saidas/long_lat.csv")
-    except FileNotFoundError:
-        print("Arquivo long_lat.csv não encontrado. Gerando coordenadas...")
-        gera_score_vizinhanca(df_imoveis)
-        df_long_lat = pd.read_csv("./saidas/long_lat.csv")
-        
-    df_imoveis = df_imoveis.merge(df_long_lat, on=["bairro", "cidade"], how="left")
-    
-    df_treino, df_teste = particiona_dataset(df_imoveis)
-    
-    modelos_knn = treina_modelos_vizinhanca_por_tipo(df_treino)
-    df_treino, df_teste = aplicar_score_knn_por_tipo(df_treino, df_teste, modelos_knn)
-    df_treino, df_teste = calcular_preco_m2_bairro(df_treino, df_teste)
-    df_treino, df_teste = adicionar_features_derivadas(df_treino, df_teste)
-    
-    os.makedirs(PASTA_SAIDAS, exist_ok=True)
-    joblib.dump(modelos_knn, './saidas/modelos_knn_vizinhanca.pkl')
-    df_treino[['tipo_imovel', 'latitude', 'longitude', 'preco_venda']].to_csv('./saidas/referencia_treino_knn.csv', index=False)
-    
-    colunas_para_remover = ['bairro', 'latitude', 'longitude']
-    df_treino = df_treino.drop(columns=colunas_para_remover)
-    df_teste = df_teste.drop(columns=colunas_para_remover)
-    
-    return df_treino, df_teste
+    for coluna in COLUNAS_NUMERICAS_BRUTAS:
+        dados[coluna] = (
+            pd.to_numeric(dados[coluna], errors="coerce")
+            .round(6)
+            .astype("string")
+            .fillna("<NA>")
+        )
 
-if __name__ == "__main__":
-    print("Iniciando processamento dos dados e do score de vizinhança...")
-    treino, teste = preparar_dados()
-    pd.set_option('display.max_columns', None)
-    print("\nTREINO:")
-    print(treino.head(5))
-    print("\nTESTE:")
-    print(teste.head(5))
-    print("Módulos exportados e dados prontos com sucesso!")
+    for coluna in COLUNAS_BOOLEANAS:
+        dados[coluna] = (
+            pd.to_numeric(dados[coluna], errors="coerce")
+            .astype("Int64")
+            .astype("string")
+            .fillna("<NA>")
+        )
+
+    return pd.util.hash_pandas_object(dados, index=False).astype("uint64")
+
+
+def _faixa_preco_por_grupo(resumo: pd.DataFrame) -> pd.Series:
+    codigos = pd.qcut(
+        resumo["preco_mediano"],
+        q=4,
+        labels=False,
+        duplicates="drop",
+    )
+    return codigos.map(
+        lambda valor: (
+            f"Q{int(valor) + 1}"
+            if pd.notna(valor)
+            else "Q_nao_informado"
+        )
+    ).astype("string")
+
+
+def criar_estratos_grupos(
+    df: pd.DataFrame,
+    grupos: pd.Series,
+    n_splits: int = 5,
+) -> pd.Series | None:
+    temporario = df.copy()
+    temporario["_grupo"] = grupos.to_numpy()
+
+    resumo = temporario.groupby("_grupo", as_index=False).agg(
+        cidade=("cidade", "first"),
+        tipo_imovel=("tipo_imovel", "first"),
+        preco_mediano=(COLUNA_ALVO, "median"),
+    )
+    resumo["faixa_preco"] = _faixa_preco_por_grupo(resumo)
+
+    candidatos = [
+        ["cidade", "tipo_imovel", "faixa_preco"],
+        ["tipo_imovel", "faixa_preco"],
+        ["faixa_preco"],
+    ]
+
+    for colunas in candidatos:
+        estrato = resumo[colunas].astype("string").agg("__".join, axis=1)
+        contagem = estrato.value_counts()
+        if not contagem.empty and int(contagem.min()) >= n_splits:
+            mapa = pd.Series(estrato.to_numpy(), index=resumo["_grupo"])
+            return grupos.map(mapa)
+
+    return None
+
+
+def particionar_dataset(
+    df: pd.DataFrame,
+    grupos: pd.Series,
+    n_splits: int = 5,
+    random_state: int = 42,
+) -> tuple[pd.DataFrame, pd.DataFrame]:
+    estratos = criar_estratos_grupos(df, grupos, n_splits=n_splits)
+
+    if estratos is not None:
+        divisor = StratifiedGroupKFold(
+            n_splits=n_splits,
+            shuffle=True,
+            random_state=random_state,
+        )
+        splits = divisor.split(df, estratos, grupos)
+    else:
+        divisor = GroupKFold(n_splits=n_splits)
+        splits = divisor.split(df, groups=grupos)
+
+    indice_treino, indice_teste = next(splits)
+
+    treino = df.iloc[indice_treino].copy()
+    teste = df.iloc[indice_teste].copy()
+
+    treino["_grupo_preditores"] = grupos.iloc[indice_treino].to_numpy()
+    teste["_grupo_preditores"] = grupos.iloc[indice_teste].to_numpy()
+
+    if set(treino["_grupo_preditores"]) & set(teste["_grupo_preditores"]):
+        raise RuntimeError("Existem grupos simultaneamente no treino e teste.")
+
+    return treino.reset_index(drop=True), teste.reset_index(drop=True)
+
+
+def preparar_dados(
+    caminho_outras: str = CAMINHO_DATASET_OUTRAS,
+    caminho_olx: str = CAMINHO_DATASET_OLX,
+    caminho_coordenadas: str = CAMINHO_COORDENADAS,
+) -> DadosPreparados:
+    combinado = carregar_datasets(caminho_outras, caminho_olx)
+    aceitos, rejeitados = aplicar_regras_fixas(combinado)
+    coordenadas = carregar_coordenadas(aceitos, caminho_coordenadas)
+    completo = adicionar_features_seguras(aceitos, coordenadas)
+
+    grupos = assinatura_preditores(completo)
+    completo["_grupo_preditores"] = grupos.to_numpy()
+
+    treino, teste = particionar_dataset(completo, grupos)
+
+    return DadosPreparados(
+        treino=treino,
+        teste=teste,
+        completo=completo.reset_index(drop=True),
+        coordenadas=coordenadas,
+        rejeitados=rejeitados,
+    )
+
+
+def preparar_entrada_inferencia(
+    df: pd.DataFrame,
+    coordenadas: pd.DataFrame,
+) -> pd.DataFrame:
+    normalizado = normalizar_dataframe(df, exige_alvo=False)
+    tipos_invalidos = ~normalizado["tipo_imovel"].isin(["apartamento", "casa"])
+    if tipos_invalidos.any():
+        valores = sorted(normalizado.loc[tipos_invalidos, "tipo_imovel"].unique())
+        raise ValueError(f"Tipos de imovel nao suportados: {valores}")
+
+    return adicionar_features_seguras(normalizado, coordenadas)
+
+
+class ModeloSegmentadoFinal:
+    """Wrapper de inferencia para os modelos especializados por tipo."""
+
+    def __init__(
+        self,
+        modelos: dict[str, Any],
+        coordenadas: pd.DataFrame,
+        metadados: dict[str, Any] | None = None,
+    ):
+        self.modelos = modelos
+        self.coordenadas = coordenadas
+        self.metadados = metadados or {}
+
+    def predict(self, df: pd.DataFrame) -> np.ndarray:
+        preparado = preparar_entrada_inferencia(df, self.coordenadas)
+        previsoes = np.full(len(preparado), np.nan, dtype=float)
+
+        colunas_descartar = [
+            COLUNA_ALVO,
+            "id_anuncio",
+            "fonte_dataset",
+            "_grupo_preditores",
+            "tipo_imovel",
+        ]
+
+        for tipo, modelo in self.modelos.items():
+            mascara = preparado["tipo_imovel"] == tipo
+            if not mascara.any():
+                continue
+
+            entrada = preparado.loc[mascara].drop(
+                columns=colunas_descartar,
+                errors="ignore",
+            )
+            previsoes[np.flatnonzero(mascara.to_numpy())] = modelo.predict(entrada)
+
+        if np.isnan(previsoes).any():
+            raise RuntimeError("Existem linhas sem modelo especializado aplicavel.")
+
+        return np.maximum(previsoes, 0)
