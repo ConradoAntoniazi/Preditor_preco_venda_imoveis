@@ -26,7 +26,7 @@ df_vivareal.to_csv("bases/imoveis_agregado.csv")
 
 
 RAW_CSV = "bases/imoveis_agregado.csv"
-MODEL_CSV = "saidas/dataset_modelagem.csv"
+MODEL_CSV = "dataset/dataset_modelagem_outros.csv"
 AUDIT_CSV = "saidas/dataset_auditoria.csv"
 REMOVED_CSV = "saidas/dataset_removidos.csv"
 REPORT_TXT = "saidas/relatorio_dataset.txt"

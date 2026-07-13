@@ -13,9 +13,9 @@ from sklearn.model_selection import GroupKFold, StratifiedGroupKFold
 from tqdm import tqdm
 
 PASTA_SAIDAS = "saidas"
-CAMINHO_DATASET_OUTRAS = os.path.join(PASTA_SAIDAS, "dataset_modelagem.csv")
-CAMINHO_DATASET_OLX = "dataset_final_modelagem.csv"
-CAMINHO_COORDENADAS = os.path.join(PASTA_SAIDAS, "long_lat.csv")
+CAMINHO_DATASET_OUTRAS = "dataset/dataset_modelagem_outros.csv"
+CAMINHO_DATASET_OLX = "dataset/dataset_modelagem_olx.csv"
+CAMINHO_COORDENADAS = "saidas/long_lat.csv"
 
 COLUNA_ALVO = "preco_venda"
 
