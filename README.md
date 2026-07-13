@@ -29,14 +29,6 @@ projeto/
     └── long_lat.csv
 ```
 
-### Comandos disponíveis
-
-Para consultar os comandos:
-
-```bash
-make help
-```
-
 ### Instalação
 
 Instale as dependências Python e o Chromium usado pelo Playwright:
