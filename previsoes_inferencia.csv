@@ -1,0 +1,14 @@
+﻿tipo_imovel,cidade,bairro,area_m2,quartos,banheiros,vagas,tem_suite,tem_piscina,tem_varanda,tem_lazer,tem_mobiliado,tem_elevador,preco_venda_estimado
+casa,Serra,Manguinhos,120,3,,2.0,1,1,0,1,0,0,921562.19
+casa,Serra,Morada de Laranjeiras,127,3,2,2.0,1,0,1,0,0,0,1093613.5
+apartamento,Vila Velha,Praia da Costa,95,2,2,1.0,0,0,0,1,0,0,802572.88
+apartamento,Vila Velha,Praia da Costa,56,2,2,1.0,1,1,1,1,0,0,731755.75
+casa,Cariacica,Campo Grande,560,4,3,3.0,1,0,1,0,0,0,1275109.25
+apartamento,Vitória,Bento Ferreira,90,3,2,1.0,0,0,0,1,0,1,752231.56
+apartamento,Vitória,Jardim da Penha,70,3,2,1.0,0,0,0,0,0,0,543371.38
+casa,Vitória,Mata da Praia,90,2,2,1.0,1,0,1,1,0,0,1120471.75
+apartamento,Cariacica,São Geraldo,66,2,1,1.0,1,0,0,1,0,0,388592.03
+casa,Vitória,Mata da Praia,330,4,5 ou mais,4.0,1,1,1,1,0,0,3681017.5
+apartamento,Guarapari,Praia do Morro,117,3,2,1.0,1,0,0,0,0,0,826866.38
+casa,Serra,Jacaraípe,100,3,2,,1,0,1,1,0,0,566365.06
+casa,Serra,Alphaville Jacuhy,285,4,4,,1,0,0,0,0,0,902967.38
